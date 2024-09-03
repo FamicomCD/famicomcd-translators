@@ -8,8 +8,8 @@ We will not accept translations created using Google Translate or other translat
 Our list of currently supported languages are:
 - English (en),
 - Español (es) (managed by [ThunderLeon](https://twitter.com/ThunderLeon7)),
-- 日本語 (ja) (managed by [Jess Williamson](https://stupidjessprojects.carrd.co/)),
-- Italiano (it) (managed by [Peppe](https://x.com/Peppe021203)),
+- 日本語 (ja) (managed by [Jess Williamson](https://twitter.com/JessDoesVids)),
+- Italiano (it) (managed by [Peppe](https://twitter.com/Peppe021203)),
 - Русский (ru) (managed by [Phil](https://twitter.com/euge_phillip))
 
 

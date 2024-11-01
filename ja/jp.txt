@@ -1,0 +1,200 @@
+& Use ampersands to comment things out if you need &
+
+
+& General &
+
+strid "about_button"
+string "FamicomCDについて"
+
+strid "contact_button"
+string "連絡先"
+
+strid "language_button"
+string "言語選択　jp"
+
+strid "legal_mumbo_jumbo"
+string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Learn More ➜</a>"
+
+strid "copyright"
+string "© 2022-2024  FamicomCD開発連盟, King Mayro"
+
+
+
+
+& Main Page &
+
+strid "main_page_tagline"
+string "FamicomCDの新しいホームページへようこそ！何か気になることがあったら<a href="https://discord.gg/wpSGt5aTuw">Discord</a>や<a href="mailto:support@famicomcd.org">メール</a>からご連絡ください！"
+
+
+
+
+& SMBCD &
+
+strid "smbcd_tagline"
+string "スーパーマリオブラザーズCD （マリオCD）はCDのゲーム機でマリオのゲームがでたら、と想像するスーパーマリオワールドのハックです。"
+
+strid "learn_more_button"
+string "もっと見る"
+
+strid "show_more_smbcd_button"
+string "詳しく▼"
+
+strid "show_less_smbcd_button"
+string "隠す▲"
+
+strid "download_smbcd_button"
+string "ダウンロード"
+
+strid "support_sheet_smbcd_button"
+string "エミュレータサポート"
+
+strid "tutorial_smbcd_button"
+string "インストールのしかた"
+
+strid "smbcd_team_button"
+string "開発者一覧"
+
+
+
+
+& Support Sheet &
+
+strid "support_sheet_name"
+string "エミュレータサポート"
+
+strid "support_sheet_description"
+string "マリオCDはハックのため、エミュレータや本機種の対応性が必要です。"
+
+strid "support_sheet_description_p2"
+string "以下にあなたのエミュレータやハードが書かれていない場合、自由に<a href="https://discord.gg/wpSGt5aTuw">Discord</a>や<a href="mailto:support@famicomcd.org">メール</a>からお知らせください。FXPak Pro/SD2SNESの対応性については<a href="https://sd2snes.de/blog/card-list">ここ</a>から確認ください。"
+
+strid "support_sheet_description_p3"
+string "さらにエミュレータやハードについて知りたい場合はボタンを押してください。"
+
+strid "yes"
+string "はい"
+
+strid "no"
+string "いいえ"
+
+strid "msu1_supported"
+string "MSU-1対応"
+
+strid "msu1_unsupported"
+string "MSU-1非対応"
+
+strid "support_type"
+string "種類"
+
+strid "support_hardware_flashcarts"
+string "ハード、ゲームカード"
+
+strid "support_emulators"
+string "エミュレータ"
+
+strid "support_download"
+string "ダウンロード"
+
+
+strid "support_notes"
+string "その他"
+
+strid "support_description"
+string "詳細"
+
+strid "support_tested_with"
+string "テスト法"
+
+strid "support_accuracy"
+string "正確度"
+
+strid "support_platforms"
+string "機種"
+
+strid "support_type_emulator"
+string "エミュレーション"
+
+strid "support_type_fpga"
+string "FPGAエミュレーション"
+
+strid "support_type_hardware"
+string "ハード"
+
+
+strid "support_rank_flawless"
+string "完璧"
+
+strid "support_rank_well"
+string "素晴らしい"
+
+strid "support_rank_fine"
+string "良い"
+
+strid "support_rank_good"
+string "普通"
+
+strid "support_rank_poor"
+string "悪い"
+
+strid "support_rank_awful"
+string "ひどい"
+
+strid "support_rank_nono"
+string "最悪"
+
+
+strid "hardware_superfamicom"
+string "スーパーファミコン"
+
+strid "emulator_superfamicom"
+string "スーパーファミコンミニ"
+
+strid ""
+string ""
+
+
+
+
+& Images &
+
+imgid "famicomcd_main_logo"
+imagesrc "graphics/famicomcdlogo.png"
+
+imgid "discord_main_page_banner"
+imagesrc "graphics/banners/famicomcddiscord.png"
+
+imgid "speedrun_main_page_banner"
+imagesrc "graphics/en/smbcdspeedruncompreverse.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "graphics/en/smbcdspeedruncompreverse.png"
+
+
+
+
+& links &
+
+linkid "about_famicomcd"
+linkurl "https://famicomcd.org/jp/about"
+
+linkid "contact_famicomcd"
+linkurl "https://famicomcd.org/jp/contact"
+
+linkid "smbcd_page"
+linkurl "https://famicomcd.org/jp/smbcd"
+
+linkid "smbcd_download"
+linkurl "https://famicomcd.org/jp/smbcd/download"
+
+linkid "smbcd_sheet"
+linkurl "https://famicomcd.org/jp/smbcd/supportsheet"
+
+linkid "smbcd_tutorial"
+linkurl "https://famicomcd.org/jp/smbcd/msu1setup"
+
+linkid "smbcd_team"
+linkurl "https://famicomcd.org/jp/smbcd/smbcdteam"
+
+linkid "smbcd_speedrun"
+linkurl "https://famicomcd.org/jp/smbcd/speedrun"

@@ -1,0 +1,444 @@
+& Use ampersands to comment things out if you need &
+
+
+ 
+strid "test_message"
+string "Пять минут, полёт нормальный!"
+
+strid "discette"
+string "Привет! Я Дискетт"
+
+
+
+
+& General &
+
+strid "about_button"
+string "Про FamicomCD"
+
+strid "contact_button"
+string "Связаться с нами"
+
+strid "language_button"
+string "Сменить язык ru"
+
+strid "legal_mumbo_jumbo"
+string "The FamicomCD Team никак не связаны с Nintendo Inc. Все представленные торговые знаки принадлежат их соответствующим владельцам. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Узнать больше ➜</a>"
+
+strid "copyright"
+string "© 2022-2024  FamicomCD Team, King Mayro"
+
+
+
+
+& Main Page &
+
+strid "main_page_tagline"
+string "Привет! Добро пожаловать на новый сайт FamicomCD (бета)! Есть что предложить? Тогда заходите в наш <a href="https://discord.gg/wpSGt5aTuw">Discord сервер</a> или <a href="mailto:support@famicomcd.org">напишите нам на почту</a>!"
+
+
+
+
+& SMBCD &
+
+strid "smbcd_tagline"
+string "Super Mario Bros. CD (SMBCD) - это ромхак для SMW, который является олицетворением идеи о том, какой могла быть игра про Марио в эпоху игр на CD-дисках."
+
+strid "learn_more_button"
+string "Посетить страницу"
+
+strid "show_more_smbcd_button"
+string "Показать ▼"
+
+strid "show_less_smbcd_button"
+string "Скрыть ▲"
+
+strid "download_smbcd_button"
+string "Скачать SMBCD"
+
+strid "support_sheet_smbcd_button"
+string "Список эмуляторов"
+
+strid "tutorial_smbcd_button"
+string "Гайд по установке"
+
+strid "smbcd_team_button"
+string "Члены команды SMBCD"
+
+
+
+
+& Support Sheet &
+
+strid "support_sheet_name"
+string "Список поддерживаемых эмуляторов"
+
+strid "support_sheet_description"
+string "Поскольку SMBCD это ромхак, то поддержка эмуляторов и оригинального железа очень важна для плавной и идеальной игры."
+
+strid "support_sheet_description_p2"
+string "Если вы используете эмулятор, который запускает игру, но не указан в списке, вы можете связаться с нами через <a href="https://discord.gg/wpSGt5aTuw">Discord сервер</a>, или <a href="mailto:support@famicomcd.org">написать нам на почту</a>. Если вы ищете список поддерживаемых SD карт для FXPak Pro/SD2SNES, то ознакомьтесь с <a href="https://sd2snes.de/blog/card-list">предложенным списком</a>."
+
+strid "support_sheet_description_p3"
+string "Чтобы узнать больше об эмуляторе (или железе), с информацией о точности эмуляции и ссылками на скачивание, кликните на соответствующую панель"
+
+strid "yes"
+string "да"
+
+strid "no"
+string "нет"
+
+strid "msu1_supported"
+string "Поддерживает MSU-1"
+
+strid "msu1_unsupported"
+string "Не поддерживает MSU-1"
+
+strid "support_type"
+string "Тип"
+
+strid "support_hardware_flashcarts"
+string "Флеш-картриджи и Железо"
+
+strid "support_emulators"
+string "Эмуляторы"
+
+strid "support_download"
+string "Скачать"
+
+
+strid "support_notes"
+string "Дополнительно"
+
+strid "support_description"
+string "Описание"
+
+strid "support_tested_with"
+string "Проверено с помощью"
+
+strid "support_accuracy"
+string "Точность эмуляции"
+
+strid "support_platforms"
+string "Доступные платформы"
+
+strid "support_type_emulator"
+string "Программная эмуляция"
+
+strid "support_type_fpga"
+string "FPGA эмуляция"
+
+strid "support_type_hardware"
+string "Железо"
+
+
+strid "support_rank_flawless"
+string "Безупречно"
+
+strid "support_rank_well"
+string "Превосходно"
+
+strid "support_rank_fine"
+string "Отлично"
+
+strid "support_rank_good"
+string "Хорошо"
+
+strid "support_rank_poor"
+string "Плохо"
+
+strid "support_rank_awful"
+string "Ужасно"
+
+strid "support_rank_nono"
+string "Отвратительно"
+
+
+strid "hardware_superfamicom"
+string "Super NES"
+
+strid "emulator_superfamicom"
+string "Super NES Classic"
+
+
+
+
+& Details Support Sheet &
+
+
+
+
+& Contact and About &
+
+strid "contact_title"
+string "Связаться с нами"
+
+strid "contact_description"
+string "Если вы хотите связаться с нами, или просто хотите подписаться на нас в соц.сетях, то весь список наших сайтов и аккаунтов представлен здесь!"
+
+strid "contact_title_famicomcd"
+string "Аккаунты FamicomCD"
+
+strid "contact_title_kingmayro"
+string "Аккаунты King Mayro"
+
+
+
+strid "copyright_and_trademarks"
+string "Копирайты и Торговые Марки"
+
+strid "copyright_last_updated"
+string "Обновлено: --/--/----"
+
+
+
+& Images &
+
+imgid "famicomcd_main_logo"
+imagesrc "graphics/famicomcdlogo.png"
+
+imgid "discord_main_page_banner"
+imagesrc "graphics/banners/famicomcddiscord.png"
+
+imgid "translators_main_page_banner"
+imagesrc "graphics/banners/famicomcdtranslators.webp"
+
+imgid "kofi_main_page_banner"
+imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "graphics/banners/back.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+
+
+
+
+& deprecated pages &
+
+strid "deprecated_smbcd_about"
+string "О проекте"
+
+strid "deprecated_smbcd_story"
+string "Сюжет"
+
+strid "deprecated_smbcd_expectations"
+string "Что ожидать"
+
+strid "deprecated_smbcd_trailer"
+string "Всё ещё не заинтересованы? Посмотрите трейлер!"
+
+strid "deprecated_smbcd_screenshots"
+string "Скриншоты"
+
+strid "deprecated_smbcd_tagline1"
+string "Super Mario Bros. CD (SMBCD) - это ромхак Super Mario World из разряда "Что если?" в рамках официальной игры про Марио на вымышленной консоли на базе компакт-дисков! В нашем случае речь идёт о FamicomCD - несуществующем аддоне для консоли Famicom/NES (Денди) и не SNES CD, как некоторые могут подумать."
+
+strid "deprecated_smbcd_tagline2"
+string "SMBCD использует все возможности MSU-1 чипа, а именно - музыка CD-качества, полностью анимированные катсцены, и более комплексное окружение. Игра также использует возможности Mode 0 и Mode 7, что позволяет выводить на экран больше слоев* для создания параллаксного окружения. (*4 слоя, вместо 2-х. Также это ограничивает количество выводимых цветов для фона)"
+
+strid "deprecated_smbcd_story1"
+string "Действия SMBCD происходят на маленьком, но таком разнообразном архипелаге Бриксурэй. В один день, загадочным образом, Хранитель Бриксурэйя - главный источник силы и сохранности архипелага - "теряет рассудок", в следствии этого, на архипелаге начинают происходить странные вещи. Местные жители озадаченны и обеспокоены, а те, кто пытаются самостоятельно все расследовать, пропадают без следа. Среди хаоса, вызванного гневом Хранителя, местные просят помощи от единственных и неповторимых братьев Марио. Получив поддержку от жителей Грибного Королевства, Марио и Луиджи отправляются в путь - в их новое приключение. Во время их приключении, их также ждёт встреча с новым другом."
+
+strid "deprecated_smbcd_footnote1"
+string "• 40+ уровней, соединённых между собой историей."
+
+strid "deprecated_smbcd_footnote2"
+string "• Глубокий сюжет, подаваемый через катсцены и уровни по мере вашего продвижения."
+
+strid "deprecated_smbcd_footnote3"
+string "• Оригинальный саундтрек, пропитанный духом 80-х в стиле японского City Pop-а."
+
+strid "deprecated_smbcd_footnote4"
+string "• Новые и всеми знакомые способности, которые вам помогут в прохождении."
+
+strid "deprecated_smbcd_footnote5"
+string "• Множество старых и новых противников, которые попытаются вас остановить."
+
+
+
+
+strid "deprecated_tutorial_thingstonote"
+string "Что нужно учитывать"
+
+strid "deprecated_tutorial_videoversion"
+string "Видео-версия гайда"
+
+strid "deprecated_tutorial_setup"
+string "Установка SMBCD и MSU-1"
+
+strid "deprecated_tutorial_note1"
+string "Этот гайд подходит как для установки SMW ромхаков, так и для установки пачта MSU-1. Несмотря на упоминание SMBCD, эта инструкция применима и для других игр, выходивших на SNES."
+
+strid "deprecated_tutorial_note2"
+string "С помощью MSU-1, SMBCD имеет саундтрек CD-качества, в то время как на самой SNES такое реализовать невозможно, а потому MSU-1 патч необходим для запуска игры. Если он отсутствует или установлен неправильно, игра не запустится. Если вы всё сделали по инструкции, но игра всё равно не запускается, проверьте ваш эмулятор на совместимость с игрой или же заходите на Discord сервер FamicomCD за помощью."
+
+strid "deprecated_tutorial_note3"
+string "<b>Важно: </b>Для патча, вам необходим ROM файл Super Mario World американского (USA) региона. Мы рекомендуем вам сдампить ROM файл с оригинального картриджа игры. Здесь не будет указано, где найти ROM файл игры, если вы не можете или не хотите делать дамп картриджа."
+
+strid "deprecated_tutorial_note4"
+string "(Первые шаги этого раздела применимы и для других ромхаков. Если вы знаете как их ставить, переходите к 5 шагу)."
+
+strid "deprecated_tutorial_note5"
+string "*PCM файлы необходимо называть тем же именем, что и у пропатченного образа игры, необходимо это для того, чтобы патч увидел треки при запуске игры."
+
+
+strid "deprecated_tutorial_methodflips"
+string "Метод через Floating IPS"
+
+strid "deprecated_tutorial_methodmarc"
+string "Метод через Marc's Online Patcher"
+
+
+strid "deprecated_tutorial_step1"
+string "<b>Шаг 1: </b>В первую очередь, скачайте версию SMBCD <a href="https://famicomcd.org/smbcd/download">Архив версий</a> отсюда. Это скачает zip файл."
+
+strid "deprecated_tutorial_step2"
+string "<b>Шаг 2: </b>Откройте ZIP архив и распакуйте его в любое удобное место. Если у вас нету архиватора, мы рекомендуем 7-Zip."
+
+strid "deprecated_tutorial_step3"
+string "<b>Шаг 3: </b>Найдите в архиве BPS патч и выложите его в удобное вам место. Начиная с этого момента, вам пригодится ROM файл."
+
+strid "deprecated_tutorial_step4"
+string "<b>Шаг 4: </b>Пропатчите ROM-файл, используя BPS-файл и <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> либо <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
+
+strid "deprecated_tutorial_step5"
+string "<b>Шаг 5: </b>Уже пропатченный ROM файл запускаем в эмуляторе и проверяем, правильно ли вы всё сделали. Если появилось сообщение об обязательно установленном MSU-1 патче, значит вы всё сделали правильно."
+
+strid "deprecated_tutorial_step6"
+string "<b>Шаг 6: </b>Помимо BPS патча, в архиве вы могли заметить MSU и PCM файлы. Они и представляют собой MSU-1 патч. Переложите в эту папку пропатченный ROM файл. Самое главное, что название ROM файла должно совпадать с названиями MSU и PCM файлов."
+
+strid "deprecated_tutorial_step7"
+string "<b>Шаг 7: </b>После того, как вы всё сделали, игра должна запустится нормально. Если же вы до сих пор не можете это сделать, проверьте совместимость вашего эмулятора <a href="https://famicomcd.org/en/smbcd/supportsheet">Список поддерживаемых эмуляторов</a> или заходите в Discord-сервер за помощью."
+
+
+strid "deprecated_smbcdteam_meet"
+string "Встречайте команду The Super Mario Bros. CD"
+
+strid "deprecated_smbcdteam_translators"
+string "Переводчики"
+
+strid "deprecated_smbcdteam_director"
+string "Режиссёр и Продюсер"
+
+strid "deprecated_smbcdteam_art"
+string "Арт-директор"
+
+strid "deprecated_smbcdteam_sound"
+string "Звукорежиссёр"
+
+strid "deprecated_smbcdteam_graphics"
+string "Художник"
+
+strid "deprecated_smbcdteam_music"
+string "Композитор"
+
+strid "deprecated_smbcdteam_voice"
+string "Актёр озвучки"
+
+strid "deprecated_smbcdteam_asm"
+string "ASM Разработчик"
+
+strid "deprecated_smbcdteam_es"
+string "Испанская локализация"
+
+strid "deprecated_smbcdteam_jp"
+string "Японская локализация"
+
+strid "deprecated_smbcdteam_it"
+string "Итальянская локализация"
+
+strid "deprecated_smbcdteam_ru"
+string "Русская локализация"
+
+strid "deprecated_download_downloads"
+string "Загрузки"
+
+strid "deprecated_download_special"
+string "Особые и Ивентные демо-версии/Загрузки"
+
+
+strid "deprecated_download_oops"
+string "К сожалению здесь пока ничего нету."
+
+
+strid "deprecated_download_speedrundemo_2.2"
+string "SMBCD Speedrun Comp. Demo v2.2"
+
+strid "deprecated_download_"
+string "Speedrun Comp. Demo v2.2 (Зеркало)"
+
+
+strid "deprecated_speedrun_name"
+string "Спидранерский турнир"
+
+strid "deprecated_speedrun_thanks"
+string "Соревнование завершено! Спасибо всем, кто учавствовал."
+
+strid "deprecated_speedrun_updatename"
+string "Версия 2.2!!!!"
+
+strid "deprecated_speedrun_descupdate"
+string "Исправления включают в себя багфиксы, изменения в графике, а также улучшение спидранерских механик! Теперь вы можете добиться ещё большей скорости, прыгая по гумбам, крабам, твиттерам и чип-чипам, а также быстрее перезапускать забег, зажав L и R! Скачать можно ниже по ссылке! Также, приём заявок продлён до 12 апреля, чтобы скомпенсировать выход обновления!"
+
+strid "deprecated_speedrun_desc1"
+string "Приготовьтесь к марафону на перегонки!"
+
+strid "deprecated_speedrun_desc2"
+string "Данная демо-версия это два в одном! Это и демо-версия для обычных игроков, и соревнование для тех, кто хочет стать бета-тестером, и просто ранний билд игры для спидрана уровней!"
+
+strid "deprecated_speedrun_desc3"
+string "В игре уже есть встроенный таймер, так что вам не придётся волноваться об этом! Сам турнир разделён на три категории, сами категории представлены ниже (её необходимо указать в названии видео):"
+
+
+strid "deprecated_speedrun_sfc"
+string "Консоль (SNES/SFC или FPGA-эмуляция)"
+
+strid "deprecated_speedrun_keyboard"
+string "Эмулятор (Клавиатура)"
+
+strid "deprecated_speedrun_controller"
+string "Эмулятор (Контроллер)"
+
+
+strid "deprecated_speedrun_submit"
+string "Зайдите в Discord-сервер, чтобы подать заявку!*<br>*Забег не будет принят, если он выполнен на версии 1.3, или если он записан в разрешении выше, чем 4:3, 8:7, 1:1 и т.д., если говорить прямо, то запись забега, где игра растянута на 16:9 не будет принята!"
+
+strid "deprecated_speedrun_"
+string "Посмотрите анонс турнира!"
+
+strid "deprecated_speedrun_2.2"
+string "Скачать версию v2.2"
+
+strid "deprecated_speedrun_2.2mirror"
+string "Скачать версию v2.2 (Зеркало)"
+
+strid "deprecated_speedrun_1.3"
+string "Скачать версию v1.3"
+
+
+strid "deprecated_about_famicomcd"
+string "А что такое FamicomCD?"
+
+strid "deprecated_about_ar"
+string "А что такое FamicomCD в рамках Альтернативной Реальности?"
+
+strid "deprecated_about_risk"
+string "А Nintendo не засудит/заблокирует вас?"
+
+strid "deprecated_about_famicomcddesc"
+string "FamicomCD - это вымышленный аддон на основе компакт-дисков для Famicom/NES (Денди). Проект FamicomCD был создан King Mayro в Феврале 2023 года. Изначальная задумка проекта заключалась в мокапах игр и софта, который мог появится на консоли/аддоне. Вскоре посленачала работы над Super Mario Bros. CD, концепция вымышленной консоли/аддона вышла за рамки того, чем из себя FamicomCD представляла раньше."
+
+strid "deprecated_about_ar1"
+string "В рамках альтернативной реальности, FamicomCD в первую очередь является аддоном для уже существующего Famicom, выпущенным в 1989-1990 годах. Как и в нашем мире, до анонса ходили слухи об аддоне на базе дискет под названием Famicom Disk System, которые так и остались слухами и были заменены концептом FamicomCD."
+
+strid "deprecated_about_ar2"
+string "FamicomCD - это не только Famicom с CD-музыкой, но и отличное обновление привычного железа во всех аспектах:"
+
+strid "deprecated_about_arwall"
+string "• 16-битный процессор<br><br>• 4 слоя с поддержкой параллакса и многослойного заднего плана (2 слоя на передний план и 2 слоя на фон)<br><br>• Музыка CD-качества<br><br>• 1 дополнительный DPCM канал (в общем кол-ве, 2) и 1 FM канал при воспроизведении CD-музыки<br><br>• 8 DPCM каналов и 1 расширенный FM канал при отсутствии CD-музыки (SFX до сих пор воспроизводится за счёт Ricoh 2A03)<br><br>• Эффекты прозрачности только на одном слое<br><br>• Поддержка FMV роликов<br><br>• 112 спрайтов на одном экране<br><br>• Новые контроллеры с крестовиной, Start, Select, 4-мя основными кнопками и L/R кнопками сверху. Однако аддон поддерживает и оригинальные контроллеры от Famicom-а, игры же в свою очередь могут ограничить игрока в использовании определённого геймпада.<br><br>• Загрузка цветов, при которой консоль загружает цвета непосредственно в палитру или пиксель на экране. Консоль поддерживает 15RGB кодировку с его значениями, вместо специфической палитры самой Famicom (Но поскольку цвета загружаются каждый кадр, то и мощности процессора используются на максимуме)."
+
+strid "deprecated_about_riskdesc"
+string "Как показывает практика, любое "незаконное использование" их IP всегда рискованное, но учитывая тот факт, что Super Mario Bros. CD является ромхаком Super Mario World, а отношение компании к подобным вещам всегда было нейтральным, давайте просто предположим что проект не заблокируют как и другие ромхаки последних лет. Мы в свою очередь не собираемся нарушать авторские права или способствовать пиратству через SMBCD, как и извлекать из этого прибыль на любых наших проектах.<br><br><br>В общем, здесь нету чёткого ответа на вопрос о блокировке со стороны Nintendo, однако мы уверены, что такое не произойдёт по вышеуказанным причинам."
+

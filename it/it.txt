@@ -1,0 +1,445 @@
+& Use ampersands to comment things out if you need &
+
+
+ 
+strid "test_message"
+string "Questo è un messagio di prova!"
+
+strid "discette"
+string "Ciao! Sono Discette"
+
+
+
+
+& General &
+
+strid "about_button"
+string "Informazioni su FamicomCD"
+
+strid "contact_button"
+string "Contattaci"
+
+strid "language_button"
+string "Cambio Lingua 🇮🇹"
+
+strid "legal_mumbo_jumbo"
+string "Il Team FamicomCD non è affiliato in alcun modo con Nintendo e tutti i marchi registrati sono di proprietà dei loro rispettivi proprietari. Non è intesa alcuna violazione del copyright. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Scopri di più ➜</a>"
+
+strid "copyright"
+string "© 2022-2024  Team FamicomCD, King Mayro"
+
+
+
+
+& Main Page &
+
+strid "main_page_tagline"
+string "Ciao! Benvenuto alla beta della ristrutturazione del sito web di FamicomCD! Hai alcuni suggerimenti? Unisciti al nostro <a href="https://discord.gg/wpSGt5aTuw">server Discord</a> o <a href="mailto:support@famicomcd.org">mandaci un'e-mail</a>!"
+
+
+
+
+& SMBCD &
+
+strid "smbcd_tagline"
+string "Super Mario Bros. CD (SMBCD) è un hack ROM di Super Mario World, che immagina come sarebbe un gioco SMB su una console a CD."
+
+strid "learn_more_button"
+string "Visita la Pagina"
+
+strid "show_more_smbcd_button"
+string "Mostra Risorse ▼"
+
+strid "show_less_smbcd_button"
+string "Nascondi Risorse ▲"
+
+strid "download_smbcd_button"
+string "Scarica SMBCD"
+
+strid "support_sheet_smbcd_button"
+string "Foglio di Supporto"
+
+strid "tutorial_smbcd_button"
+string "Tutorial Installazione"
+
+strid "smbcd_team_button"
+string "Membri del Team SMBCD"
+
+
+
+
+& Support Sheet &
+
+strid "support_sheet_name"
+string "Foglio di Supporto"
+
+strid "support_sheet_description"
+string "Dato che SMBCD è un hack rom e non un gioco per computer, il supporto per emulatori e hardware è vitale per un'ottima esperienza."
+
+strid "support_sheet_description_p2"
+string "Se stai usando un emulatore o hardware che non è mostrato nella lista sottostante, manda i tuoi appunti sul nostro <a href="https://discord.gg/wpSGt5aTuw">server Discord</a>, o <a href="mailto:support@famicomcd.org">mandaci un'e-mail</a>. Se stai cercando il foglio di supporto Schede SD per l'FXPak Pro/SD2SNES, controlla la <a href="https://sd2snes.de/blog/card-list">Lista Schede SD2SNES</a>."
+
+strid "support_sheet_description_p3"
+string "Per maggiori informazioni su un emulatore (o hardware) inclusi accuratezza e link, clicca sul pannello dell'emulatore/hardware."
+
+strid "yes"
+string "sì"
+
+strid "no"
+string "no"
+
+strid "msu1_supported"
+string "MSU-1 Supportato"
+
+strid "msu1_unsupported"
+string "Nessun Supporto MSU-1"
+
+strid "support_type"
+string "Tipo"
+
+strid "support_hardware_flashcarts"
+string "Hardware e Flashcart"
+
+strid "support_emulators"
+string "Emulatori"
+
+strid "support_download"
+string "Scarica"
+
+
+strid "support_notes"
+string "Note"
+
+strid "support_description"
+string "Descrizione"
+
+strid "support_tested_with"
+string "Testato con"
+
+strid "support_accuracy"
+string "Accuratezza Emulatore"
+
+strid "support_platforms"
+string "Piattaforme"
+
+strid "support_type_emulator"
+string "Emulazione Software"
+
+strid "support_type_fpga"
+string "Emulazione Hardware FPGA"
+
+strid "support_type_hardware"
+string "Hardware"
+
+
+strid "support_rank_flawless"
+string "Impeccabile"
+
+strid "support_rank_well"
+string "Eccellente"
+
+strid "support_rank_fine"
+string "Buono"
+
+strid "support_rank_good"
+string "Okay"
+
+strid "support_rank_poor"
+string "Male"
+
+strid "support_rank_awful"
+string "Scadente"
+
+strid "support_rank_nono"
+string "Pessimo"
+
+
+strid "hardware_superfamicom"
+string "Super NES"
+
+strid "emulator_superfamicom"
+string "Super NES Classic"
+
+
+
+
+& Details Support Sheet &
+
+
+
+
+& Contact and About &
+
+strid "contact_title"
+string "Contattaci"
+
+strid "contact_description"
+string "Se hai bisogno di contattarci per qualsiasi motivo, o vuoi solo seguire i nostri account sui social, la lista completa di siti e contatti è qui!"
+
+strid "contact_title_famicomcd"
+string "Account FamicomCD"
+
+strid "contact_title_kingmayro"
+string "Account di King Mayro (Fondatore)"
+
+
+
+strid "copyright_and_trademarks"
+string "Copyright e Marchi"
+
+strid "copyright_last_updated"
+string "Ultimo aggiornamento: --/--/----"
+
+
+
+& Images &
+
+imgid "famicomcd_main_logo"
+imagesrc "graphics/famicomcdlogo.png"
+
+imgid "discord_main_page_banner"
+imagesrc "graphics/banners/famicomcddiscord.png"
+
+imgid "translators_main_page_banner"
+imagesrc "graphics/banners/famicomcdtranslators.webp"
+
+imgid "kofi_main_page_banner"
+imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "graphics/banners/back.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+
+
+
+
+& deprecated pages &
+
+strid "deprecated_smbcd_about"
+string "Informazioni"
+
+strid "deprecated_smbcd_story"
+string "Trama"
+
+strid "deprecated_smbcd_expectations"
+string "Cosa Aspettarsi"
+
+strid "deprecated_smbcd_trailer"
+string "Non sei convinto? Guarda il trailer!"
+
+strid "deprecated_smbcd_screenshots"
+string "Screenshot"
+
+strid "deprecated_smbcd_tagline1"
+string "Super Mario Bros. CD (SMBCD) è un hack rom di Super Mario World che fa da "what if" per un gioco SMB su una console a CD! La console a CD in questione è il FamicomCD, che è una periferica immaginaria per il Famicom/NES e non è il Super NES CD, che alcune persone sembrano confondere."
+
+strid "deprecated_smbcd_tagline2"
+string "SMBCD utilizza il chip MSU-1 per offrire musica originale ad alta qualità CD, filmati completamente animati, e ambientazioni più complesse, anche su hardware originale tramite l'SD2SNES/FXPak Pro! SMBCD utilizza inoltre in gran parte il Mode 0 (una modalità di sfondo SNES, simile al Mode 7) per i suoi livelli, fornendo più livelli per le ambientazioni in primo piano e la parallasse di sfondo. Il Mode 0 consente l'uso di 4 livelli contemporaneamente al posto dei soliti 2-3 livelli trovati in SMW utilizzando il Mode 1, ma farà sì che tutti i livelli siano 2BPP o 4 colori per tile (questo non include i livelli sprite e mantengono l'utilizzo di 16 colori)."
+
+strid "deprecated_smbcd_story1"
+string "SMBCD ha luogo nel piccolo ma variegato Arcipelago di Brixurei. Un giorno, misteriosamente, Il Guardiano di Brixurei — la fonte primaria di protezione e sicurezza per l'arcipelago — impazzì, causando un clima avverso e una sconvolta fauna selvatica dilagante. Gli abitanti rimasero perplessi e preoccupati. Coloro che lasciarono le loro città per scoprire cosa stava succedendo non furono mai più rivisti.<br><br>In mezzo al caos causato dall'improvviso scoppio del Guardiano, gli abitanti chiesero aiuto agli unici e inimitabili Fratelli Mario. Col Regno dei Funghi che li salutava, Mario partì in barca verso l'arcipelago di Brixurei, portando Luigi con sé. In questo viaggio, i fratelli incontreranno anche un nuovo volto amichevole che li accompagnerà."
+
+strid "deprecated_smbcd_footnote1"
+string "• Più di 40 livelli interconnessi che aiuteranno a formare una storia coesa"
+
+strid "deprecated_smbcd_footnote2"
+string "• Una trama approfondita che verrà raccontata tramite filmati e livelli man mano che si va avanti."
+
+strid "deprecated_smbcd_footnote3"
+string "• Una colonna sonora completamente nuova con vibes metà anni 80 e city pop."
+
+strid "deprecated_smbcd_footnote4"
+string "• Alcuni potenziamenti nuovi e originali che ti assisteranno nel tuo viaggio."
+
+strid "deprecated_smbcd_footnote5"
+string "• Molti nemici, vecchi e nuovi, che cercheranno di ostacolare il tuo cammino."
+
+
+
+
+strid "deprecated_tutorial_thingstonote"
+string "Premesse"
+
+strid "deprecated_tutorial_videoversion"
+string "Versione Video della Guida"
+
+strid "deprecated_tutorial_setup"
+string "Setup di SMBCD e MSU-1"
+
+strid "deprecated_tutorial_note1"
+string "Questa guida copre sia come installare hack rom di Super Mario World (SMW), sia come usare MSU-1. Sebbene la guida menzioni SMBCD, le istruzioni si possono applicare a molte altre hack rom per Super NES."
+
+strid "deprecated_tutorial_note2"
+string "MSU-1 è il modo principale usato da SMBCD per fornire il suo audio ad alta qualità CD assieme ad altre funzionalità che un vero Super NES avrebbe difficoltà a fornire, di conseguenza MSU-1 è necessario per far partire SMBCD. Se non hai MSU-1 o non è installato correttamente, SMBCD non partirà. Se hai seguito la guida e installato tutti i file MSU-1 richiesti ma SMBCD si rifiuta di partire, controlla se il tuo emulatore supporta MSU-1 o unisciti al server Discord di FamicomCD per supporto."
+
+strid "deprecated_tutorial_note3"
+string "<b>Importante: </b>Hai bisogno del tuo file di gioco Super Mario World USA per patchare il file BPS di SMBCD. Consigliamo di fare un dump della tua cartuccia ufficiale Super NES di SMW. Non spiegheremo come o dove ottenere i file di gioco se non vuoi o non puoi fare il dump della tua cartuccia."
+
+strid "deprecated_tutorial_note4"
+string "(I primi step sono per un setup generale di un Hack ROM di SMW. Se sai già come farlo, passa allo step 5)."
+
+strid "deprecated_tutorial_note5"
+string "*I file PCM seguono in parte questa regola dato che hanno bisogno del loro numero di traccia dopo il nome. Questo è indicato dal trattino e dal numero."
+
+
+strid "deprecated_tutorial_methodflips"
+string "Metodo Floating IPS"
+
+strid "deprecated_tutorial_methodmarc"
+string "Metodo Online Patcher di Marc"
+
+
+strid "deprecated_tutorial_step1"
+string "<b>Step 1: </b>Prima di tutto, scarica una build di SMBCD dalla pagina <a href="https://famicomcd.org/smbcd/download">Download Versioni</a>. Scaricherà un file zip."
+
+strid "deprecated_tutorial_step2"
+string "<b>Step 2: </b>Apri il file zip per rivelare i contenuti. Se non hai un'applicazione per aprire archivi zip, consigliamo l'uso di 7-Zip."
+
+strid "deprecated_tutorial_step3"
+string "<b>Step 3: </b>Quando si apre l'archivio zip di una build di SMBCD, vedrai il file patch BPS di SMBCD, un file MSU, e dei file PCM. Per ora dovrai solo preoccuparti del file BPS. Qui è dove entra in gioco il tuo file di gioco di SMW USA."
+
+strid "deprecated_tutorial_step4"
+string "<b>Step 4: </b>Patcha il file BPS di SMBCD al file di gioco di SMW USA usando <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> o <a href="https://www.marcrobledo.com/RomPatcher.js">l'Online Patcher di Marc Robledo</a>."
+
+strid "deprecated_tutorial_step5"
+string "<b>Step 5: </b>Una volta ottenuto il tuo file di gioco di SMBCD, prova a vedere se funziona. Se compare la schermata "MSU-1 Required", hai patchato il gioco correttamente, ma non hai ancora finito. Avrai bisogno dei file MSU-1 per completare l'installazione."
+
+strid "deprecated_tutorial_step6"
+string "<b>Step 6: </b>Ricordi il file MSU e i file PCM di prima? Quei file devono essere nella stessa directory con lo stesso nome* del tuo file di gioco di SMBCD. Per una migliore organizzazione, è consigliato conservare tutti i file di SMBCD in un'unica cartella."
+
+strid "deprecated_tutorial_step7"
+string "<b>Step 7: </b>Una volta che tutti i file sono al loro posto, SMBCD dovrebbe partire normalmente. se compare ancora l'errore "MSU-1 Required", assicurati che il tuo emulatore sia supportato controllando il  <a href="https://famicomcd.org/en/smbcd/supportsheet">Foglio di Supporto SMBCD</a> o unisciti al server Discord di FamicomCD per supporto."
+
+
+strid "deprecated_smbcdteam_meet"
+string "Incontra il Team Super Mario Bros. CD"
+
+strid "deprecated_smbcdteam_translators"
+string "Traduttori"
+
+strid "deprecated_smbcdteam_director"
+string "Direttore e Produttore"
+
+strid "deprecated_smbcdteam_art"
+string "Direttore Artistico"
+
+strid "deprecated_smbcdteam_sound"
+string "Musica/Direttore del Suono"
+
+strid "deprecated_smbcdteam_graphics"
+string "Arte/Grafiche"
+
+strid "deprecated_smbcdteam_music"
+string "Musica"
+
+strid "deprecated_smbcdteam_voice"
+string "Doppiatore"
+
+strid "deprecated_smbcdteam_asm"
+string "Programmazione ASM"
+
+strid "deprecated_smbcdteam_es"
+string "Traduzione Spagnola"
+
+strid "deprecated_smbcdteam_jp"
+string "Traduzione Giapponese"
+
+strid "deprecated_smbcdteam_it"
+string "Traduzione Italiana"
+
+strid "deprecated_smbcdteam_ru"
+string "Traduzione Russa"
+
+strid "deprecated_download_downloads"
+string "Download"
+
+strid "deprecated_download_special"
+string "Download Demo Speciali/Evento"
+
+
+strid "deprecated_download_oops"
+string "Beh, sfortunatamente non ci sono ancora download in questa sezione."
+
+
+strid "deprecated_download_speedrundemo_2.2"
+string "SMBCD Demo Comp. Speedrun v2.2"
+
+strid "deprecated_download_"
+string "Mirror Demo Comp. Speedrun v2.2"
+
+
+strid "deprecated_speedrun_name"
+string "Competizione Speedrun"
+
+strid "deprecated_speedrun_thanks"
+string "La competizione è finita e i punteggi sono stati contati! Grazie a coloro che hanno partecipato."
+
+strid "deprecated_speedrun_updatename"
+string "Versione 2.2!!!!"
+
+strid "deprecated_speedrun_descupdate"
+string "Il gioco è stato patchato per includere correzioni di bug, cambi di grafiche/colori, e migliorie sulle meccaniche di speedrun! Adesso si possono ottenere tempi ancora più veloci calpestando Goomba, Sidestepper, Tweeter e Pesci Smack e ricominciare le run più velocemente premendo L ed R! Scaricalo qui sotto! Inoltre, la data di fine della competizione è stata spostata al 12 Aprile per compensare l'aggiornamento della demo!"
+
+
+strid "deprecated_speedrun_desc1"
+string "Preparati a decollare con la Competizione Speedrun SMBCD!"
+
+strid "deprecated_speedrun_desc2"
+string "La demo della Competizione Speedrun SMBCD è due cose in una! È una demo per coloro che vogliono solo provare il gioco, ma è anche una competizione per chi vuole speedrunnare i livelli per avere la possibilità di diventare playtester per le build di sviluppo, o per chi vuole semplicemente speedrunnare il gioco!"
+
+strid "deprecated_speedrun_desc3"
+string "Il gioco ha un timer integrato, così non dovrai preoccuparti di settare un tuo timer! La competizione è divisa in tre categorie a causa dei diversi schemi di comando, quindi assicurati di indicare quale stai usando nel titolo del tuo video:"
+
+
+strid "deprecated_speedrun_sfc"
+string "Hardware (Soluzioni SNES/SFC o FPGA)"
+
+strid "deprecated_speedrun_keyboard"
+string "Emulatore usando la Tastiera"
+
+strid "deprecated_speedrun_controller"
+string "Emulatore usando un Controller/Comandi Touch"
+
+
+strid "deprecated_speedrun_submit"
+string "Unisciti al nostro server Discord per mandare delle run!*<br>*Non mandare run usando la v1.3 e non mandare run con il display di gioco allungato a un qualsiasi valore maggiore di 4:3 o una proporzione quadrata (8:7, 1:1, ecc.), quindi run mandate con un display di gioco come 16:9 non sono accettate (la tua dimensione video può essere di quelle dimensioni ma non il gioco)."
+
+strid "deprecated_speedrun_"
+string "Guarda l'Annuncio!"
+
+strid "deprecated_speedrun_2.2"
+string "Scarica v2.2"
+
+strid "deprecated_speedrun_2.2mirror"
+string "Scarica Mirror v2.2"
+
+strid "deprecated_speedrun_1.3"
+string "Scarica v1.3"
+
+
+strid "deprecated_about_famicomcd"
+string "Cos'è FamicomCD?"
+
+strid "deprecated_about_ar"
+string "Cos'è FamicomCD in termini di Realtà Alternativa?"
+
+strid "deprecated_about_risk"
+string "Nintendo butterà giù FamicomCD o SMBCD?"
+
+strid "deprecated_about_famicomcddesc"
+string "FamicomCD è il nome di una periferica immaginaria per il Famicom/console all-in-one, la perte periferica è simile al Famicom Disk System. Il progetto FamicomCD fu creato da King Mayro nel Febbraio 2023. Venne creato in origine per condividere simulazioni di giochi e software che potevano esistere sulla console/periferica FamicomCD, e presto Super Mario Bros. CD venne adattato per l'idea poichè il progetto originale di SMBCD nacque molto prima della creazione di FamicomCD."
+
+strid "deprecated_about_ar1"
+string "In termini di realtà alternativa, il FamicomCD è una periferica del Famicom, e anche una console all-in-one uscita nel 1989/1990. Ci furono voci di corridoio in precedenza di una periferica a floppy disk chiamato Famicom Disk System, ma non ne venne fuori nulla e fu presto rimpiazzato dal concetto del FamicomCD."
+
+strid "deprecated_about_ar2"
+string "Ma il FamicomCD non era solo giochi Famicom con audio a qualità CD, era un'eccellente miglioria del Famicom sotto ogni aspetto:"
+
+strid "deprecated_about_arwall"
+string "• Una CPU a 16-Bit<br><br>• 4 livelli che permettono un'ampio layering della parallasse e del campo di gioco (come 2 livelli per rappresentare il primo piano e 2 livelli per rappresentare gli sfondi).<br><br>• Audio a qualità CD<br><br>• 1 Canale DPCM in più (per un totale di 2) e 1 Canale Sintetizzatore FM durante la riproduzione di audio CD<br><br>• 8 Canali DPCM e 1 Canale Sintetizzatore FM Espanso quando non viene riprodotto audio CD (Il suono viene creato sul 2A03 originale del Famicom)<br><br>• Effetti di trasparenza su un solo livello alla volta<br><br>• Streaming Tilemap/FMV<br><br>• 112 Sprite sullo schermo contemporaneamente<br><br>• Nuovi controller FamicomCD con Croce Direzionale, Start, Select, 4 pulsanti frontali, e pulsanti L/R in cima. Nonostante il nuovo controller, il FamicomCD supporta i controller Famicom originali, e i giochi possono scegliere quale controller può essere usato.<br><br>• Caricamento di colori dove il sistema può caricare colori direttamente alla palette o caricare colori direttamente a un pixel sullo schermo. Questi colori sono valori RGB 15bit al posto dei colori specifici del Famicom, ma i colori vengono caricati ogni fotogramma in modo che venga usato più tempo di CPU)."
+
+strid "deprecated_about_riskdesc"
+string "Con ogni utilizzo di un IP senza licensa, c'è sempre il rischio che succeda qualsiasi cosa ma considerando i precedenti di roba come il nostro progetto Super Mario Bros. CD essendo un'hack rom di Super Mario World, una via di romhacking che esiste da decenni con quasi nessuna interferenza da Nintendo, pensiamo di avere la stessa sicurezza che hanno avuto altre hack rom di SMW per anni.<br><br>Non intendiamo violare copyright o facilitare la pirateria con il progetto SMBCD, e non intendiamo trarre profito dai nostri progetti in alcun modo.<br><br><br>Alla fine, non c'è un sì o un no definitivo sulla questione dato che Nintendo può legalmente fare quello che desidera a un progetto come questo, ma non abbiamo motivo di pensare che faranno qualcosa per le ragioni sopracitate."
+

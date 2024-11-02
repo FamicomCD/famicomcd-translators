@@ -7,10 +7,10 @@ We will not accept translations created using Google Translate or other translat
 
 Our list of currently supported languages are:
 - English (en),
-- Español (es) (managed by [ThunderLeon](https://twitter.com/ThunderLeon7)),
-- 日本語 (ja) (managed by [Jess Williamson](https://twitter.com/JessDoesVids)),
+- Español (es) (managed by [ThunderLeon](https://bsky.app/profile/thunderleon7.bsky.social)),
+- 日本語 (ja) (managed by [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)),
 - Italiano (it) (managed by [Peppe](https://twitter.com/Peppe021203)),
-- Русский (ru) (managed by [Phil](https://twitter.com/euge_phillip))
+- Русский (ru) (managed by [Phil](https://bsky.app/profile/philmarseille.bsky.social))
 
 
 # Pull Requests and Issues

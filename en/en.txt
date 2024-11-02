@@ -23,7 +23,7 @@ strid "language_button"
 string "Language Switcher 🇺🇸"
 
 strid "legal_mumbo_jumbo"
-string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about" class="learnmorefooter">Learn More ➜</a>"
+string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  FamicomCD Team, King Mayro"

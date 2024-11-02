@@ -310,7 +310,7 @@ strid "deprecated_tutorial_step6"
 string "<b>Step 6: </b>Ricordi il file MSU e i file PCM di prima? Quei file devono essere nella stessa directory con lo stesso nome* del tuo file di gioco di SMBCD. Per una migliore organizzazione, è consigliato conservare tutti i file di SMBCD in un'unica cartella."
 
 strid "deprecated_tutorial_step7"
-string "<b>Step 7: </b>Una volta che tutti i file sono al loro posto, SMBCD dovrebbe partire normalmente. se compare ancora l'errore "MSU-1 Required", assicurati che il tuo emulatore sia supportato controllando il  <a href="https://famicomcd.org/en/smbcd/supportsheet">Foglio di Supporto SMBCD</a> o unisciti al server Discord di FamicomCD per supporto."
+string "<b>Step 7: </b>Una volta che tutti i file sono al loro posto, SMBCD dovrebbe partire normalmente. Se compare ancora l'errore "MSU-1 Required", assicurati che il tuo emulatore sia supportato controllando il  <a href="https://famicomcd.org/en/smbcd/supportsheet">Foglio di Supporto SMBCD</a> o unisciti al server Discord di FamicomCD per supporto."
 
 
 strid "deprecated_smbcdteam_meet"

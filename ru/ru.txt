@@ -20,10 +20,10 @@ strid "contact_button"
 string "Связаться с нами"
 
 strid "language_button"
-string "Сменить язык ru"
+string "Сменить язык 🇷🇺"
 
 strid "legal_mumbo_jumbo"
-string "The FamicomCD Team никак не связаны с Nintendo Inc. Все представленные торговые знаки принадлежат их соответствующим владельцам. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Узнать больше ➜</a>"
+string "The FamicomCD Team никак не связаны с Nintendo Inc. Все представленные торговые знаки принадлежат их соответствующим владельцам. <a href="https://famicomcd.org/about" class="learnmorefooter">Узнать больше ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  FamicomCD Team, King Mayro"
@@ -195,22 +195,22 @@ string "Обновлено: --/--/----"
 & Images &
 
 imgid "famicomcd_main_logo"
-imagesrc "graphics/famicomcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
 
 imgid "discord_main_page_banner"
-imagesrc "graphics/banners/famicomcddiscord.png"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
 
 imgid "translators_main_page_banner"
-imagesrc "graphics/banners/famicomcdtranslators.webp"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
 imgid "kofi_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
 
 imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/back.png"
+imagesrc "https://famicomcd.org/graphics/banners/back.png"
 
 imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 
 
 
@@ -310,7 +310,7 @@ strid "deprecated_tutorial_step6"
 string "<b>Шаг 6: </b>Помимо BPS патча, в архиве вы могли заметить MSU и PCM файлы. Они и представляют собой MSU-1 патч. Переложите в эту папку пропатченный ROM файл. Самое главное, что название ROM файла должно совпадать с названиями MSU и PCM файлов."
 
 strid "deprecated_tutorial_step7"
-string "<b>Шаг 7: </b>После того, как вы всё сделали, игра должна запустится нормально. Если же вы до сих пор не можете это сделать, проверьте совместимость вашего эмулятора <a href="https://famicomcd.org/en/smbcd/supportsheet">Список поддерживаемых эмуляторов</a> или заходите в Discord-сервер за помощью."
+string "<b>Шаг 7: </b>После того, как вы всё сделали, игра должна запустится нормально. Если же вы до сих пор не можете это сделать, проверьте совместимость вашего эмулятора <a href="https://famicomcd.org/smbcd/supportsheet">Список поддерживаемых эмуляторов</a> или заходите в Discord-сервер за помощью."
 
 
 strid "deprecated_smbcdteam_meet"

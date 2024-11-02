@@ -14,7 +14,7 @@ string "Ciao! Sono Discette"
 & General &
 
 strid "about_button"
-string "Informazioni su FamicomCD"
+string "Cos'è FamicomCD?"
 
 strid "contact_button"
 string "Contattaci"
@@ -23,7 +23,7 @@ strid "language_button"
 string "Cambio Lingua 🇮🇹"
 
 strid "legal_mumbo_jumbo"
-string "Il Team FamicomCD non è affiliato in alcun modo con Nintendo e tutti i marchi registrati sono di proprietà dei loro rispettivi proprietari. Non è intesa alcuna violazione del copyright. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Scopri di più ➜</a>"
+string "Il Team FamicomCD non è affiliato in alcun modo con Nintendo e tutti i marchi registrati sono di proprietà dei loro rispettivi proprietari. Non è intesa alcuna violazione del copyright. <a href="https://famicomcd.org/about" class="learnmorefooter">Scopri di più ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  Team FamicomCD, King Mayro"
@@ -195,13 +195,13 @@ string "Ultimo aggiornamento: --/--/----"
 & Images &
 
 imgid "famicomcd_main_logo"
-imagesrc "graphics/famicomcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
 
 imgid "discord_main_page_banner"
-imagesrc "graphics/banners/famicomcddiscord.png"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
 
 imgid "translators_main_page_banner"
-imagesrc "graphics/banners/famicomcdtranslators.webp"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
 imgid "kofi_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
@@ -210,7 +210,7 @@ imgid "kofi_main_page_banner"
 imagesrc "graphics/banners/back.png"
 
 imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 
 
 

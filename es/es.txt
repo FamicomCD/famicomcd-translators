@@ -23,7 +23,7 @@ strid "language_button"
 string "Cambiar Idioma 🇲🇽"
 
 strid "legal_mumbo_jumbo"
-string "El equipo FamicomCD no está afiliado de ninguna manera o forma con Nintendo. Cualquier marca registrada es propiedad de sus respectivos dueños. No se busca infringir ningún derecho de autor. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Lea más ➜</a>"
+string "El equipo FamicomCD no está afiliado de ninguna manera o forma con Nintendo. Cualquier marca registrada es propiedad de sus respectivos dueños. No se busca infringir ningún derecho de autor. <a href="https://famicomcd.org/about" class="learnmorefooter">Lea más ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  Equipo FamicomCD, King Mayro"
@@ -195,22 +195,22 @@ string "Última actualización: --/--/----"
 & Images &
 
 imgid "famicomcd_main_logo"
-imagesrc "graphics/famicomcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
 
 imgid "discord_main_page_banner"
-imagesrc "graphics/banners/famicomcddiscord.png"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
 
 imgid "translators_main_page_banner"
-imagesrc "graphics/banners/famicomcdtranslators.webp"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
 imgid "kofi_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
 
-imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/back.png"
+imgid "deprecated_general_back_button"
+imagesrc "https://famicomcd.org/graphics/banners/back.png"
 
 imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 
 
 
@@ -292,7 +292,7 @@ string "Método Marc's Online Patcher"
 
 
 strid "deprecated_tutorial_step1"
-string "<b>Paso 1: </b>Primero que nada, descarga una versión de SMBCD de la página de <a href="https://famicomcd.org/es/smbcd/download">Descargas</a>. Se descargará como un archivo ZIP."
+string "<b>Paso 1: </b>Primero que nada, descarga una versión de SMBCD de la página de <a href="https://famicomcd.org/smbcd/download">Descargas</a>. Se descargará como un archivo ZIP."
 
 strid "deprecated_tutorial_step2"
 string "<b>Paso 2: </b>Abre el ZIP para revelar sus contenidos. Si no dispones de algún programa para abrir archivos ZIP, recomendamos el programa 7-ZIP."
@@ -310,7 +310,7 @@ strid "deprecated_tutorial_step6"
 string "<b>Paso 6: </b> ¿Se acuerda de esos archivos MSU y de PCM de hace poco? Los necesitará tener todos en el mismo directorio y con el mismo nombre* que el archivo SMC de SMBCD. Para que todo esté organizado, recomendamos que tenga todos los archivos relacionados con SMBCD en su propio folder."
 
 strid "deprecated_tutorial_step7"
-string "<b>Paso 7: </b>Una vez que todos tus archivos están en orden, SMBCD debería empezar correctamente. Si sigue recibiendo el error de que requiere del MSU-1, por favor asegúrese de que su emulador sea compatible usando el documento  <a href="https://famicomcd.org/en/smbcd/supportsheet">Info sobre Emuladores</a> o unete al servidor de Discord de FamicomCD para mas ayuda."
+string "<b>Paso 7: </b>Una vez que todos tus archivos están en orden, SMBCD debería empezar correctamente. Si sigue recibiendo el error de que requiere del MSU-1, por favor asegúrese de que su emulador sea compatible usando el documento  <a href="https://famicomcd.org/smbcd/supportsheet">Info sobre Emuladores</a> o unete al servidor de Discord de FamicomCD para mas ayuda."
 
 
 strid "deprecated_smbcdteam_meet"

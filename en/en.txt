@@ -6,7 +6,7 @@ strid "test_message"
 string "This is a test message!"
 
 strid "discette"
-string "Hiya! I'm Discette"
+string "Hiya! I'm Discette."
 
 
 
@@ -23,7 +23,7 @@ strid "language_button"
 string "Language Switcher 🇺🇸"
 
 strid "legal_mumbo_jumbo"
-string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Learn More ➜</a>"
+string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  FamicomCD Team, King Mayro"
@@ -195,22 +195,22 @@ string "Last updated: --/--/----"
 & Images &
 
 imgid "famicomcd_main_logo"
-imagesrc "graphics/famicomcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
 
 imgid "discord_main_page_banner"
-imagesrc "graphics/banners/famicomcddiscord.png"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
 
 imgid "translators_main_page_banner"
-imagesrc "graphics/banners/famicomcdtranslators.webp"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
 imgid "smbcd_main_logo"
 imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
 
 imgid "deprecated_general_back_button"
-imagesrc "graphics/banners/back.png"
+imagesrc "https://famicomcd.org/graphics/banners/back.png"
 
 imgid "kofi_main_page_banner"
-imagesrc "graphics/banners/smbcdspeedruncompreverse.png"
+imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 
 
 
@@ -310,7 +310,7 @@ strid "deprecated_tutorial_step6"
 string "<b>Step 6: </b>Remember the MSU file and PCM files from before? You need these files to be in the same directory and the same name* as your SMBCD game file. For organization, it's recommended that you store all of SMBCD's files in a folder of its own."
 
 strid "deprecated_tutorial_step7"
-string "<b>Step 7: </b>Once all of the files are in place, SMBCD should start as normal. If you are still getting the MSU-1 is missing error, please make sure your emulator is supported under the  <a href="https://famicomcd.org/en/smbcd/supportsheet">SMBCD Support Sheet</a> or join the FamicomCD Discord for support."
+string "<b>Step 7: </b>Once all of the files are in place, SMBCD should start as normal. If you are still getting the MSU-1 is missing error, please make sure your emulator is supported under the  <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Support Sheet</a> or join the FamicomCD Discord for support."
 
 
 strid "deprecated_smbcdteam_meet"

@@ -429,7 +429,7 @@ strid "deprecated_about_risk"
 string "Nintendo butterà giù FamicomCD o SMBCD?"
 
 strid "deprecated_about_famicomcddesc"
-string "FamicomCD è il nome di una periferica immaginaria per il Famicom/console all-in-one, la perte periferica è simile al Famicom Disk System. Il progetto FamicomCD fu creato da King Mayro nel Febbraio 2023. Venne creato in origine per condividere simulazioni di giochi e software che potevano esistere sulla console/periferica FamicomCD, e presto Super Mario Bros. CD venne adattato per l'idea poichè il progetto originale di SMBCD nacque molto prima della creazione di FamicomCD."
+string "FamicomCD è il nome di una periferica immaginaria per il Famicom/console all-in-one, la parte periferica è simile al Famicom Disk System. Il progetto FamicomCD fu creato da King Mayro nel Febbraio 2023. Venne creato in origine per condividere simulazioni di giochi e software che potevano esistere sulla console/periferica FamicomCD, e presto Super Mario Bros. CD venne adattato per l'idea poichè il progetto originale di SMBCD nacque molto prima della creazione di FamicomCD."
 
 strid "deprecated_about_ar1"
 string "In termini di realtà alternativa, il FamicomCD è una periferica del Famicom, e anche una console all-in-one uscita nel 1989/1990. Ci furono voci di corridoio in precedenza di una periferica a floppy disk chiamato Famicom Disk System, ma non ne venne fuori nulla e fu presto rimpiazzato dal concetto del FamicomCD."

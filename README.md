@@ -8,9 +8,10 @@ We will not accept translations created using Google Translate or other translat
 Our list of currently supported languages are:
 - English (en),
 - Español (es) (managed by [ThunderLeon](https://bsky.app/profile/thunderleon7.bsky.social)),
-- 日本語 (ja) (managed by [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)),
+- 日本語 (ja) (managed by [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)) (In Progress),
 - Italiano (it) (managed by [Peppe](https://twitter.com/Peppe021203)),
-- Русский (ru) (managed by [Phil](https://bsky.app/profile/philmarseille.bsky.social))
+- Русский (ru) (managed by [Phil](https://bsky.app/profile/philmarseille.bsky.social)),
+- Français (fr) (managed by [Lemongrwab](https://github.com/Lemongrwab)}(In Progress)
 
 
 # Pull Requests and Issues

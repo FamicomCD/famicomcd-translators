@@ -3,10 +3,10 @@
 
  
 strid "test_message"
-string "This is a test message!"
+string "Ceci est un message test!"
 
 strid "discette"
-string "Hiya! I'm Discette."
+string "Hey! C'est moi Discette."
 
 
 
@@ -14,16 +14,16 @@ string "Hiya! I'm Discette."
 & General &
 
 strid "about_button"
-string "About FamicomCD"
+string "A propos de FamicomCD"
 
 strid "contact_button"
-string "Contact Us"
+string "Nous Contacter"
 
 strid "language_button"
-string "Language Switcher 🇺🇸"
+string "Changer de langue :frenchflag:"
 
 strid "legal_mumbo_jumbo"
-string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
+string "La Team FamicomCD n'est affiliée dans aucun cas à Nintendo et toutes les marques déposées sont la propriété des ayants droits. Aucune violation du droit d'auteur n'est prévue dans ce projet. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  FamicomCD Team, King Mayro"
@@ -34,7 +34,7 @@ string "© 2022-2024  FamicomCD Team, King Mayro"
 & Main Page &
 
 strid "main_page_tagline"
-string "Hiya! Welcome to the FamicomCD website overhaul beta! Have any suggestions? Join our <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Hey! Bienvenue sur le site FamicomCD beta! Vous avez des suggestions? Rejoignez notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
 
 
 
@@ -42,28 +42,28 @@ string "Hiya! Welcome to the FamicomCD website overhaul beta! Have any suggestio
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console."
+string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, reflètant ce à quoi pourrait ressembler un jeu SMB sur une console équipée d'un lecteur CD."
 
 strid "learn_more_button"
-string "Visit Page"
+string "Visiter la page"
 
 strid "show_more_smbcd_button"
-string "Show Resources ▼"
+string "Afficher les Resources ▼"
 
 strid "show_less_smbcd_button"
-string "Hide Resources ▲"
+string "Masquer les Resources ▲"
 
 strid "download_smbcd_button"
-string "Download SMBCD"
+string "Télécharger SMBCD"
 
 strid "support_sheet_smbcd_button"
-string "Support Sheet"
+string "Plateformes Compatibles & Informations"
 
 strid "tutorial_smbcd_button"
-string "Installation Tutorial"
+string "Tutoriel d'Installation"
 
 strid "smbcd_team_button"
-string "SMBCD Team Members"
+string "Membres de la Team SMBCD"
 
 
 
@@ -74,13 +74,13 @@ strid "support_sheet_name"
 string "Support Sheet"
 
 strid "support_sheet_description"
-string "Since SMBCD is a rom hack and not a computer game, emulator and hardware support is vital for a smooth experience."
+string "Comme SMBCD est un rom hack et non un jeu PC, La compatibilité entre emulateurs et hardware (consoles originales ou compatibles) est vitale pour une expérience optimale."
 
 strid "support_sheet_description_p2"
-string "If you're using an emulator or hardware that isn't shown on the list below, feel free to submit notes via our <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, or by <a href="mailto:support@famicomcd.org">emailing us</a>. If you're looking for the SD Card support sheet for the FXPak Pro/SD2SNES, please check the <a href="https://sd2snes.de/blog/card-list">SD2SNES Card List</a>."
+string "Si vous utilisez un émulateur ou une cosole (compatible) qui n'appatait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par e-mail</a>. Si vous cherchez les informations concernant le FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
 
 strid "support_sheet_description_p3"
-string "For more info about an emulator (or hardware) including accuracy and links, just click on the emulator/hardware's panel."
+string "Pour plus d'informations à propos d'un émulateur (ou console compatible) including accuracy and links, cliquez juste sur emulator/hardware's panel."
 
 strid "yes"
 string "yes"
@@ -314,13 +314,13 @@ string "<b>Step 7: </b>Once all of the files are in place, SMBCD should start as
 
 
 strid "deprecated_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "Présentation de l'équipe Super Mario Bros. CD"
 
 strid "deprecated_smbcdteam_translators"
-string "Translators"
+string "Traducteurs"
 
 strid "deprecated_smbcdteam_director"
-string "Director and Producer"
+string "Réalisateur et Producteur"
 
 strid "deprecated_smbcdteam_art"
 string "Art Director"
@@ -332,31 +332,31 @@ strid "deprecated_smbcdteam_graphics"
 string "Art/Graphics"
 
 strid "deprecated_smbcdteam_music"
-string "Music"
+string "Musique"
 
 strid "deprecated_smbcdteam_voice"
-string "Voice Actor"
+string "Doublage"
 
 strid "deprecated_smbcdteam_asm"
-string "ASM Programming"
+string "Programation ASM"
 
 strid "deprecated_smbcdteam_es"
-string "Spanish Translation"
+string "Traduction Espagnole"
 
 strid "deprecated_smbcdteam_jp"
-string "Japanese Translation"
+string "Traduction Japonaise"
 
 strid "deprecated_smbcdteam_it"
-string "Italian Translation"
+string "Traduction Italiène"
 
 strid "deprecated_smbcdteam_ru"
-string "Russian Translation"
+string "Traduction Russe"
 
 strid "deprecated_download_downloads"
-string "Downloads"
+string "Téléchargements"
 
 strid "deprecated_download_special"
-string "Special and Event Demos/Downloads"
+string "Téléchargements Speciaux et Demos/Evènement"
 
 
 strid "deprecated_download_oops"

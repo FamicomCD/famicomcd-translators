@@ -3,7 +3,7 @@
 
  
 strid "test_message"
-string "Ceci est un message test!"
+string "Ceci est un message de test!"
 
 strid "discette"
 string "Hey! C'est moi Discette."
@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "La Team FamicomCD n'est affiliée dans aucun cas à Nintendo et toutes les marques déposées sont la propriété des ayants droits. Aucune violation du droit d'auteur n'est prévue dans ce projet. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  FamicomCD Team, King Mayro"
+string "© 2022-2024  Team FamicomCD, King Mayro"
 
 
 
@@ -71,7 +71,7 @@ string "Membres de la Team SMBCD"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Support Sheet"
+string "Informations de compatibilité"
 
 strid "support_sheet_description"
 string "Comme SMBCD est un rom hack et non un jeu PC, La compatibilité entre emulateurs et hardware (consoles originales ou compatibles) est vitale pour une expérience optimale."
@@ -80,31 +80,31 @@ strid "support_sheet_description_p2"
 string "Si vous utilisez un émulateur ou une cosole (compatible) qui n'appatait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par e-mail</a>. Si vous cherchez les informations concernant le FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
 
 strid "support_sheet_description_p3"
-string "Pour plus d'informations à propos d'un émulateur (ou console compatible) including accuracy and links, cliquez juste sur emulator/hardware's panel."
+string "Pour plus d'informations à propos d'un émulateur (ou console compatible) concernant la precision et les liens, cliquez juste sur la banière emulateurs/consoles."
 
 strid "yes"
-string "yes"
+string "oui"
 
 strid "no"
-string "no"
+string "non"
 
 strid "msu1_supported"
-string "MSU-1 Supported"
+string "Prise en charge du MSU-1"
 
 strid "msu1_unsupported"
-string "No MSU-1 Support"
+string "MSU-1 non pris en charge"
 
 strid "support_type"
 string "Type"
 
 strid "support_hardware_flashcarts"
-string "Hardware and Flashcarts"
+string "Matériel & Linkers"
 
 strid "support_emulators"
-string "Emulators"
+string "Emulateurs"
 
 strid "support_download"
-string "Download"
+string "Téléchargement"
 
 
 strid "support_notes"
@@ -114,51 +114,51 @@ strid "support_description"
 string "Description"
 
 strid "support_tested_with"
-string "Tested with"
+string "Testé avec"
 
 strid "support_accuracy"
-string "Emulator Accuracy"
+string "Précision de l'émulateur"
 
 strid "support_platforms"
-string "Platforms"
+string "Platformes"
 
 strid "support_type_emulator"
-string "Software Emulation"
+string "Emulation Logicielle"
 
 strid "support_type_fpga"
-string "FPGA Hardware Emulation"
+string "Emulation matérielle FPGA"
 
 strid "support_type_hardware"
-string "Hardware"
+string "Materiel"
 
 
 strid "support_rank_flawless"
-string "Flawless"
+string "Complète"
 
 strid "support_rank_well"
-string "Excellent"
+string "Excellente"
 
 strid "support_rank_fine"
-string "Good"
+string "Bonne"
 
 strid "support_rank_good"
-string "Okay"
+string "Ok"
 
 strid "support_rank_poor"
-string "Bad"
+string "Mauvaise"
 
 strid "support_rank_awful"
-string "Poor"
+string "Très mauvaise"
 
 strid "support_rank_nono"
-string "Awful"
+string "Horrible"
 
 
 strid "hardware_superfamicom"
-string "Super NES"
+string "Super Nintendo"
 
 strid "emulator_superfamicom"
-string "Super NES Classic"
+string "Super Nintendo Classic"
 
 
 
@@ -171,24 +171,24 @@ string "Super NES Classic"
 & Contact and About &
 
 strid "contact_title"
-string "Contact Us"
+string "Contactez nous"
 
 strid "contact_description"
-string "If you need to get in contact with us for any particular reason, or just wish to follow our social media accounts, our entire list of sites and contacts is here!"
+string "Si vous avez besoin de nous contacter pour toute raison particulière, ou seulement nous suivre sur  les réseaux sociaux, notre liste de contacts et de sites est par ici!"
 
 strid "contact_title_famicomcd"
-string "FamicomCD Accounts"
+string "Comptes FamicomCD"
 
 strid "contact_title_kingmayro"
-string "King Mayro's Accounts (Founder)"
+string "Compte de King Mayro's (Fondateur)"
 
 
 
 strid "copyright_and_trademarks"
-string "Copyright and Trademarks"
+string "Droits d'auteurs et Marques déposées"
 
 strid "copyright_last_updated"
-string "Last updated: --/--/----"
+string "Dernière mise à jour: --/--/----"
 
 
 
@@ -218,25 +218,25 @@ imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 & deprecated pages &
 
 strid "deprecated_smbcd_about"
-string "About"
+string "A propos de"
 
 strid "deprecated_smbcd_story"
-string "Story"
+string "Histoire"
 
 strid "deprecated_smbcd_expectations"
-string "What to Expect"
+string "A quoi s'attendre"
 
 strid "deprecated_smbcd_trailer"
-string "Not convinced? watch the trailer!"
+string "Pas convaincu? Regardez la bande annonce!"
 
 strid "deprecated_smbcd_screenshots"
-string "Screenshots"
+string "Captures d'écran"
 
 strid "deprecated_smbcd_tagline1"
-string "Super Mario Bros. CD (SMBCD) is a rom hack of Super Mario World that is a "what if" of sorts for a SMB game on a CD based console! The CD based console in this situation is the FamicomCD, which is a fictional add-on for the Famicom/NES and is not the Super NES CD, which some people seem to mix up."
+string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, c'est une sorte de "et si" pour un jeu SMB fonctionnant sur une console équipée d'un lecteur CD! La console équipée d'un lecteur CD dan ce cas est FamicomCD, qui est un add-on fictif pour la Famicom/NES et ce n'est pas la Super NES CD, que les gens on tendence a confondre avec."
 
 strid "deprecated_smbcd_tagline2"
-string "SMBCD utilizes the MSU-1 chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro! SMBCD also heavily utilizes Mode 0 (a SNES background mode, akin to Mode 7) for its levels, providing more layers for foreground environments and background parallax. Mode 0 allows for 4 layers at once rather than the usual 2-3 layers found in SMW by using Mode 1, but it will cause all layers to be 2BPP or 4 colors per tile (this does not include sprite layers and they retain usage of 16 colors)."
+string "SMBCD utilise la puce MSU-1 pour delivrer une musique de qualité CD originale et riche, des cutscenes entièrement animées, et des environnements plus complexes, même sur le matériel d'origine via le SD2SNES/FXPak Pro ! SMBCD solicite fortement le Mode 0 (un mode d'arrière-plan de la SNES, semblable au Mode 7) pour ses niveaux, fournissant plus de couches pour les environnements de premier plan et l'effet parallaxe d'arrière-plan. Le Mode 0 permet d'avoir 4 couches à la fois plutôt que les 2-3 couches habituelles trouvées dans SMW qui lui solicite le Mode 1, mais il fera en sorte que toutes les couches affichent 2BPP ou 4 couleurs par tuile (ceci n'inclut pas les couches de sprites qui conservent l'utilisation de 16 couleurs)."
 
 strid "deprecated_smbcd_story1"
 string "SMBCD takes place upon the small yet diverse Archipelago of Brixurei. One day, mysteriously, The Guardian of Brixurei — the primary source of protection and security for the archipelago — had gone mad, resulting in adverse weather and upset wildlife to run rampant. Locals were left baffled and worried. Those who left their towns to find out what was going on were never heard from since.<br><br>Amidst the chaos caused by the Guardian's sudden outburst, the locals called upon the one and only Mario Bros. to help them. As the Mushroom Kingdom wished farewells, Mario set off by boat towards the Archipelago of Brixurei, bringing Luigi along for the ride. In this journey, the brothers will also meet a new friendly face who will accompany them."

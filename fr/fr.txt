@@ -34,7 +34,7 @@ string "© 2022-2024  Team FamicomCD, King Mayro"
 & Main Page &
 
 strid "main_page_tagline"
-string "Hey! Bienvenue sur le site FamicomCD beta! Vous avez des suggestions? Rejoignez notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
+string "Hey! Bienvenue sur le site FamicomCD restoration beta! Vous avez des suggestions? Rejoignez notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
 
 
 
@@ -57,10 +57,10 @@ strid "download_smbcd_button"
 string "Télécharger SMBCD"
 
 strid "support_sheet_smbcd_button"
-string "Plateformes Compatibles & Informations"
+string "Emulateurs Compatibles"
 
 strid "tutorial_smbcd_button"
-string "Tutoriel d'Installation"
+string "Guide d'Installation"
 
 strid "smbcd_team_button"
 string "Membres de la Team SMBCD"
@@ -71,16 +71,16 @@ string "Membres de la Team SMBCD"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Informations de compatibilité"
+string "Emulateurs Compatibles"
 
 strid "support_sheet_description"
 string "Comme SMBCD est un rom hack et non un jeu PC, La compatibilité entre emulateurs et hardware (consoles originales ou compatibles) est vitale pour une expérience optimale."
 
 strid "support_sheet_description_p2"
-string "Si vous utilisez un émulateur ou une cosole (compatible) qui n'appatait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par e-mail</a>. Si vous cherchez les informations concernant le FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
+string "Si vous utilisez un émulateur ou une cosole (compatible) qui n'apparait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>. Si vous cherchez les informations concernant le FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
 
 strid "support_sheet_description_p3"
-string "Pour plus d'informations à propos d'un émulateur (ou console compatible) concernant la precision et les liens, cliquez juste sur la banière emulateurs/consoles."
+string "Pour plus d'informations à propos du niveau de prise en charge d'un émulateur, cliquez juste sur la banière emulateurs/consoles."
 
 strid "yes"
 string "oui"

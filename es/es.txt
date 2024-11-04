@@ -17,7 +17,7 @@ strid "about_button"
 string "Sobre FamicomCD"
 
 strid "contact_button"
-string "Contáctenos"
+string "Contáctanos"
 
 strid "language_button"
 string "Cambiar Idioma 🇲🇽"
@@ -77,10 +77,10 @@ strid "support_sheet_description"
 string "Debido a que SMBCD es un ROM hack y no un juego nativo de computadora, tener el emulator y hardware correcto es vital para una experiencia agradable y esperada."
 
 strid "support_sheet_description_p2"
-string "Si está usando algún emulador o hardware que no se encuentra en la lista, siéntase libre de mandar sus observaciones mediante nuestro <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, o <a href="mailto:support@famicomcd.org">mandándonos un email</a>. Si está buscando información sobre tarjetas SD compatibles con el FXPak Pro/SD2SNES, por favor consulte la <a href="https://sd2snes.de/blog/card-list">lista de tarjetas compatibles con SD2SNES</a>."
+string "Si estás usando algún emulador o hardware que no se encuentra en la lista, siéntete libre de mandar tus observaciones mediante nuestro <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, o <a href="mailto:support@famicomcd.org">mandándonos un email</a>. Si estás buscando información sobre tarjetas SD compatibles con el FXPak Pro/SD2SNES, por favor consulta la <a href="https://sd2snes.de/blog/card-list">lista de tarjetas compatibles con SD2SNES</a>."
 
 strid "support_sheet_description_p3"
-string "Si desea más info sobre la eficacia de algún emulador (o hardware), sola haga clic en el panel de info del emulador/hardware."
+string "Si deseas más info sobre la eficacia de algún emulador (o hardware), sola haz clic en el panel de info del emulador/hardware."
 
 strid "yes"
 string "Si"
@@ -171,7 +171,7 @@ string "Super NES Classic"
 & Contact and About &
 
 strid "contact_title"
-string "Contactanos"
+string "Contáctanos"
 
 strid "contact_description"
 string "Si necesitas ponerte en contacto con el equipo, o simplemente deseas seguirnos por redes sociales, ¡nuestra lista de sitios y contactos officiales se encuentran aqui!"
@@ -239,7 +239,7 @@ strid "deprecated_smbcd_tagline2"
 string "SMBCD utiliza el poder del chip MSU-1 para ofrecer música original de alta calidad CD, escenas completamente animadas y niveles impresionantes con entornos complejos. SMBCD utiliza en gran medida el Mode 0, un modo de fondo de SNES similar al Mode 7, para sus niveles. Gracias al Mode 0, los niveles cuentan con más objetos en primer plano y movimiento parallax para el fondo, permitiendo hasta 4 capas a la vez en lugar de las 2-3 capas disponibles normalmente. Sin embargo, también restringe todas las capas a 2BPP o 4 colores por tile."
 
 strid "deprecated_smbcd_story1"
-string "SMBCD toma lugar en el pequeño pero diverso Archipiélago de Brixurei. Un día, misteriosamente, El Guardián de Brixurei — la principal fuente de protección y seguridad para el archipiélago — enloqueció, provocando condiciones climáticas adversas y perturbaciones en la vida silvestre. Todo esto dejó a los lugareños desconcertados y preocupados. Algunos decidieron averiguar qué estaba pasando, así que dejaron sus pueblos. Nunca se volvió a saber nada de ellos...<br><br>En medio del caos causado por el Guardián, los lugareños llamaron a los únicos e inigualables hermanos Mario para que los ayudaran. Después de despedirse del Reino Champiñón, Mario zarpó hacia el Archipiélago de Brixurei, llevándose a Luigi con él. Pero no estarán solos por mucho tiempo, ya que en este viaje, los hermanos también se encontrarán con un nuevo rostro amistoso que los acompañará."
+string "SMBCD toma lugar en el pequeño pero diverso Archipiélago de Brixurei. Un día, el Guardián de Brixurei — la principal fuente de protección y seguridad para el archipiélago — enloqueció, provocando condiciones climáticas adversas y perturbaciones en la vida silvestre. Todo esto dejó a los lugareños desconcertados y preocupados. Algunos decidieron averiguar qué estaba pasando, así que dejaron sus pueblos. Nunca se volvió a saber nada de ellos...<br><br>En medio del caos causado por el Guardián, los lugareños llamaron a los únicos e inigualables hermanos Mario para que los ayudaran. Después de despedirse del Reino Champiñón, Mario zarpó hacia el Archipiélago de Brixurei, llevándose a Luigi con él. Pero no estarán solos por mucho tiempo, ya que en este viaje se encontrarán con un nuevo rostro amistoso que los acompañará..."
 
 strid "deprecated_smbcd_footnote1"
 string "• ¡Más de 40 niveles! Todos interconectados, asi creando una historia coherente."
@@ -272,10 +272,10 @@ strid "deprecated_tutorial_note1"
 string "Este guía cubre cómo instalar rom hacks de SMW, y cómo usar correctamente el MSU-1. Aunque el guía hablara de SMBCD, las mismas instrucciones basicas también se pudieran aplicar para la mayoría de rom hacks para la Super NES."
 
 strid "deprecated_tutorial_note2"
-string "El MSU-1 es el principal componente que permite que SMBCD ofrezca su audio de alta calidad al nivel de un CD, junto con otras características con las que el Super NES batallaría por su cuenta. Siendo este el caso, el MSU-1 es requerido para siquiera iniciar SMBCD. Si no dispones del MSU-1 o no lo haa instalado correctamente, SMBCD no funcionará. Si sigues el guía correctamente e instalas todos los archivos requeridos para el MSU-1, pero SMBCD aún no logra iniciar, checa si su emulador es compatible con el MSU-1 o únete al servidor de Discord de FamicomCD, donde podrás recibir más ayuda a fondo."
+string "El MSU-1 es el principal componente que permite que SMBCD ofrezca su audio de alta calidad al nivel de un CD, junto con otras características con las que el Super NES batallaría por su cuenta. Siendo este el caso, el MSU-1 es requerido para siquiera iniciar SMBCD. Si no dispones del MSU-1 o no lo haa instalado correctamente, SMBCD no funcionará. Si sigues el guía correctamente e instalas todos los archivos requeridos para el MSU-1, pero SMBCD aún no logra iniciar, checa si tu emulador es compatible con el MSU-1 o únete al servidor de Discord de FamicomCD, donde podrás recibir más ayuda a fondo."
 
 strid "deprecated_tutorial_note3"
-string "<b>Importante: </b>Necesitará su propio rom Americano de Super Mario World en formato SMC o SFC para parchar con el archivo BPS de SMBCD. Recomendamos que obtenga su propio rom official de su propio cartucho Americano de SMW para Super NES. Nosotros no le instruiremos a nadie cómo, ni en dónde, obtener los archivos del juego si es que no puede o quiere obtenerlos de su cartucho oficial."
+string "<b>Importante: </b>Necesitarás tu propio rom Americano de Super Mario World en formato SMC o SFC para parcharlo con el archivo BPS de SMBCD. Recomendamos que obtengas tu propio rom official de tu propio cartucho Americano de SMW para Super NES. Nosotros no le instruiremos a nadie cómo, ni en dónde, obtener los archivos del juego si es que no pueden o quieren obtenerlos de su cartucho oficial."
 
 strid "deprecated_tutorial_note4"
 string "(Los primeros pasos aqui son los mismos que para cualquier hack de SMW. Si ya sabes lo básico sobre configurar hacks de SMW, siéntete libre de saltar hasta el paso 5)."
@@ -298,19 +298,19 @@ strid "deprecated_tutorial_step2"
 string "<b>Paso 2: </b>Abre el ZIP para revelar sus contenidos. Si no dispones de algún programa para abrir archivos ZIP, recomendamos el programa 7-ZIP."
 
 strid "deprecated_tutorial_step3"
-string "<b>Paso 3: </b>Al abrir el ZIP de SMBCD, encontrarás el archivo BPS de SMBCD, un archivo MSU, y los archivos PCM. Por ahora solo preocúpate del archivo BPS. Ahora es cuando su rom americano de SMW en formato SMC o SFC entra en acción."
+string "<b>Paso 3: </b>Al abrir el ZIP de SMBCD, encontrarás el archivo BPS de SMBCD, un archivo MSU, y los archivos PCM. Por ahora solo preocúpate del archivo BPS. Ahora es cuando tu rom americano de SMW en formato SMC o SFC entra en acción."
 
 strid "deprecated_tutorial_step4"
 string "<b>Paso 4: </b>Aplica el archivo BPS de SMBCD a el rom Americano de SMW en formato SMC o SFC utilizando programas como <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> o <a href="https://www.marcrobledo.com/RomPatcher.js">Marc's Online Patcher</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Paso 5: </b>Ahora que tiene su archivo SMC de SMBCD, pruebe para ver que todo funcione correctamente. Si la pantalla diciendo que requieres del MSU-1 aparece, ha parcheado el juego correctamente, pero aún no ha terminado. Ahora necesitará los archivos del MSU-1 para completar la instalación."
+string "<b>Paso 5: </b>Ahora que tienes tu archivo SMC de SMBCD, pruebalo para ver que todo funcione correctamente. Si la pantalla diciendo que requieres del MSU-1 aparece, has parcheado el juego correctamente, pero aún no has terminado. Ahora necesitarás los archivos del MSU-1 para completar la instalación."
 
 strid "deprecated_tutorial_step6"
-string "<b>Paso 6: </b> ¿Se acuerda de esos archivos MSU y de PCM de hace poco? Los necesitará tener todos en el mismo directorio y con el mismo nombre* que el archivo SMC de SMBCD. Para que todo esté organizado, recomendamos que tenga todos los archivos relacionados con SMBCD en su propio folder."
+string "<b>Paso 6: </b> ¿Te acuerdas de esos archivos MSU y de PCM de hace poco? Los necesitarás tener todos en el mismo directorio y con el mismo nombre* que el archivo ROM de SMBCD. Para que todo esté organizado, recomendamos que tengas todos los archivos relacionados con SMBCD en su propio folder."
 
 strid "deprecated_tutorial_step7"
-string "<b>Paso 7: </b>Una vez que todos tus archivos están en orden, SMBCD debería empezar correctamente. Si sigue recibiendo el error de que requiere del MSU-1, por favor asegúrese de que su emulador sea compatible usando el documento  <a href="https://famicomcd.org/smbcd/supportsheet">Info sobre Emuladores</a> o unete al servidor de Discord de FamicomCD para mas ayuda."
+string "<b>Paso 7: </b>Una vez que todos tus archivos están en orden, SMBCD debería empezar correctamente. Si sigues recibiendo el error de que requiere del MSU-1, por favor asegúrate de que tu emulador sea compatible usando el documento  <a href="https://famicomcd.org/smbcd/supportsheet">Info sobre Emuladores</a> o unete al servidor de Discord de FamicomCD para mas ayuda."
 
 
 strid "deprecated_smbcdteam_meet"
@@ -438,7 +438,7 @@ strid "deprecated_about_ar2"
 string "Sin embargo, FamicomCD no era sólo juegos de Famicom con audio CD, sino una mejora en todos los aspectos para el Famicom:"
 
 strid "deprecated_about_arwall"
-string "• Una CPU de 16-Bits<br><br>• 4 capas diferentes, permitiendo muchos grados de paralax y más capas para el campo de juego (como 2 capas para representar el primer plano y 2 capas para los fondos).<br><br>• • Audio CD<br><br>• Un canal extra de DPCM (para un total de 2) y un sintetizador FM para cuando se usa la capacidad de audio CD<br><br>• 8 DPCM Channels and 1 Expanded FM Synthesizer Channel when not playing CD audio (Todo esto es incluyendo el 2A03 original del Famicom)<br><br>• Efectos de transparencia que afectan solamente una capa a la vez<br><br>• Streaming de Tilemap/FMV<br><br>• Maxima de 112 sprites en pantalla a la vez<br><br>• Controles FamicomCD con pad direccional, botones Start y Select, 4 botones de acción, y botones superiores L/R. A pesar del nuevo control, el FamicomCD es compatible con los controles originales del Famicom, con los juegos decidiendo cómo manejar estos controles más limitados<br><br>• Modo para cargar colores, donde la consola puede cargar colores directamente al palette o cargar colores directamente a un píxel en la pantalla. Estos colores son valores RGB de 15 bits en vez de los colores específicos de la Famicom (Los colores son cargados cada frame, así que se usa más tiempo del CPU)"
+string "• Una CPU de 16-Bits<br><br>• 4 capas diferentes, permitiendo muchos grados de paralax y más capas para el campo de juego (como 2 capas para representar el primer plano y 2 capas para los fondos).<br><br>• Audio CD<br><br>• Un canal extra de DPCM (para un total de 2) y un sintetizador FM para cuando se usa la capacidad de audio CD<br><br>• 8 DPCM Channels and 1 Expanded FM Synthesizer Channel when not playing CD audio (Todo esto es incluyendo el 2A03 original del Famicom)<br><br>• Efectos de transparencia que afectan solamente una capa a la vez<br><br>• Streaming de Tilemap/FMV<br><br>• Maxima de 112 sprites en pantalla a la vez<br><br>• Controles FamicomCD con pad direccional, botones Start y Select, 4 botones de acción, y botones superiores L/R. A pesar del nuevo control, el FamicomCD es compatible con los controles originales del Famicom, con los juegos decidiendo cómo manejar estos controles más limitados<br><br>• Modo para cargar colores, donde la consola puede cargar colores directamente al palette o cargar colores directamente a un píxel en la pantalla. Estos colores son valores RGB de 15 bits en vez de los colores específicos de la Famicom (Los colores son cargados cada frame, así que se usa más tiempo del CPU)"
 
 strid "deprecated_about_riskdesc"
 string "Justo como con cualquier uso sin licencia de un IP existente, siempre hay riesgo de que suceda algo, pero considerando que Super Mario Bros. CD es un romhack de Super Mario World, los cuáles han formado parte de la comunidad romhacking por años con muy poca o ninguna interferencia de parte de Nintendo, nos imaginamos que estamos igual de seguros que todos los hacks de SMW han estado por años.<br><br>Nosotros no pretendemos infringir los derechos de autor ni facilitar la piratería con el proyecto SMBCD, ni tampoco tenemos intención de sacar ninguna ganancia de nuestros proyectos de ninguna manera.<br><br><br>A fin de cuentas, no se puede dar un sí o no definitivo sobre asuntos como este ya que Nintendo legalmente pueden hacer lo que quieran con un proyecto como este, pero como mencionamos antes, no tenemos ninguna razón para pensar que lo harán."

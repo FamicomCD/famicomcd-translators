@@ -1,17 +1,17 @@
 
 ![famicomcdtranslators](https://github.com/user-attachments/assets/d52a06bd-b35e-4690-9d1e-c41c8fe98f76)
 
-Welcome to the FamicomCD translators Github! All of the language files for the FamicomCD website are stored here, and we welcome any pull requests for new languages, or to help manage existing languages.
+Welcome to the FamicomCD translators Github! All of the language files for the FamicomCD website are stored here; we welcome any pull requests for new languages, or to help manage existing languages.
 
 We will not accept translations created using Google Translate or other translation services. By submitting a pull request, you agree that your translations are full, human-made translations. 
 
 Our list of currently supported languages are:
 - English (en),
-- Español (es) (managed by [ThunderLeon](https://bsky.app/profile/thunderleon7.bsky.social)),
-- 日本語 (ja) (managed by [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)) (In Progress),
-- Italiano (it) (managed by [Peppe](https://twitter.com/Peppe021203)),
-- Русский (ru) (managed by [Phil](https://bsky.app/profile/philmarseille.bsky.social)),
-- Français (fr) (managed by [Lemongrwab](https://github.com/Lemongrwab)}(In Progress)
+- Español (es) (managed by ![famicomCD](https://github.com/ThunderLionForever.png?size=20) [ThunderLeon](https://bsky.app/profile/thunderleon7.bsky.social)),
+- 日本語 (ja) (managed by ![famicomCD](https://github.com/JessDoesVids.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)) (In Progress),
+- Italiano (it) (managed by ![famicomCD](https://github.com/Peppe021203.png?size=20) [Peppe](https://twitter.com/Peppe021203)),
+- Русский (ru) (managed by ![famicomCD](https://github.com/eugenephil.png?size=20) [Phil](https://bsky.app/profile/philmarseille.bsky.social)),
+- Français (fr) (managed by ![famicomCD](https://github.com/Lemongrwab.png?size=20) [Lemongrwab](https://github.com/Lemongrwab)} (In Progress)
 
 
 # Pull Requests and Issues

@@ -191,28 +191,28 @@ strid "copyright_last_updated"
 string "Обновлено: --/--/----"
 
 strid "about_about_famicomcd_desc"
-string "FamicomCD is a group that specializes in creating non-profit video games, software, and video game modifications/hacks. The name relates both to the team, and the fictional Famicom add-on that our games are based on; it should not be confused with the unreleased Super NES CD-ROM/Super Famicom CD-ROM.<br><br>The FamicomCD project was founded by King Mayro in Feburary of 2023. Originally, it was created with the intention of sharing mockups of games and software that could have been made for the FamicomCD add-on. Soon after, the first title, Super Mario Bros. CD, was adapted for the concept.<br><br>Currently we're only working on Super Mario Bros. CD, but we'd love to branch out and make all sorts of other games and software with the FamicomCD brand!"
+string "FamicomCD это небольшая группа энтузиастов, которая специализируется на создании фан-проектов, игр, софта и ромхаков. Название связано с нашей командой, и с вымышленным аддоном для Famicom-а, на котором основаны наши игры; Его не стоит путать с нереализованным Super NES CD-ROM/Super Famicom CD-ROM.<br><br>FamicomCD был основан благодаря King Mayro в Феврале 2023 года. Изначально, проект был создан для показа несуществующих игр и программ, которые потенциально могли выйти на одноимённом аддоне. И вскоре один из таких тайтлов, Super Mario Bros. CD, получил свою реализацию.<br><br>На данный момент мы работаем только над Super Mario Bros. CD, но мы планируем делать и другие игры, а также программы под брендом FamicomCD!"
 
 strid "about_other_stuff"
-string "Other stuff!"
+string "Остальное!"
 
 strid "about_other_stuff_desc"
-string "We prefer our name to be written as a full single word, FamicomCD, rather than separated as Famicom CD or abbreviated as FCD. If necessary, though, you may abbreviate it to FCD."
+string "При упоминании, мы предпочитаем, чтобы название было написано одним словом - FamicomCD, нежели чем Famicom CD или как-то по другому. При необходимости, можно использовать аббревиатуру FCD."
 
 strid "about_copyright"
-string "Copyright"
+string "Копирайты"
 
 strid "about_copyright_note"
-string "A Note For Our Supporters"
+string "Для заметки"
 
 strid "about_copyright_note_desc"
-string "With any unlicensed IP use, there's always a risk of Nintendo doing something, but considering the precedent of stuff like our project Super Mario Bros. CD being a Super Mario World rom hack, an avenue of rom hacking that's been around for decades now with very little to no interference of Nintendo, we'd imagine we are just as safe as other SMW hacks have been for years.<br><br>We are not intending to infringe copyright or facilitate piracy with the SMBCD project, nor do we intend on making profit from our projects in any way.<br><br>Ultimately, there is no hard yes or no on this matter as Nintendo legally can do whatever they want to a project like this, but we don't really have any reason to think they will for the reasons above."
+string "Как показывает практика, любое "незаконное использование" их IP всегда рискованное, но учитывая тот факт, что Super Mario Bros. CD является ромхаком Super Mario World, а отношение компании к подобным вещам всегда было нейтральным, поэтому давайте просто предположим, что проект не заблокируют, как и другие ромхаки последних лет.<br><br>Мы в свою очередь не собираемся нарушать авторские права или способствовать пиратству через SMBCD, как и извлекать из этого прибыль на любых наших проектах.<br><br>В общем, здесь нету правильного ответа на вопрос о блокировке со стороны Nintendo, однако мы уверены, что такое не произойдёт по вышеуказанным причинам."
 
 strid "about_copyright_legal"
-string "Legal Information"
+string "Юридическая информация"
 
 strid "about_copyright_legal_desc"
-string "FamicomCD and the FamicomCD Team are not affiliated with Nintendo in any way. The names Famicom and Family Computer, as well as related trademarks, are owned by Nintendo. The FamicomCD branding, mascot (Discette), and font (FamicomCD Logo Font Family) are property of King Mayro.<br><br>Any projects sold for monetary gain (such as cartridges, CD-ROMs, or soundtrack CDs) are not produced, supported, or endorsed by the FamicomCD Team. All projects created by the FamicomCD Team are free and will remain free.<br><br>FamicomCD does not host, share, or provide links to ROMs, ROM websites, or instructions for downloading ROMs.<br><br>Mario, Luigi, Yoshi, and related characters are the property of Nintendo. The Archipelago of Brixurei, Barracuda Barry, soundtrack, and other original concepts are the intellectual property of the FamicomCD Team and The Super Mario Bros. CD Team."
+string "FamicomCD и FamicomCD Team никак не связаны с Nintendo Inc. Все представленные зарегистрированные торговые знаки принадлежат их соответствующим владельцам. Бренд The FamicomCD, Маскот (Discette), а также шрифт (FamicomCD Logo Font Family) являются собственностью King Mayro.<br><br>Любые продукты, созданные для получения денежной выгоды (Картриджы, Диски, CD-музыка) не произведены, не поддерживаются и не одобряются командой FamicomCD. Все проекты, созданные FamicomCD Team распространяются на бесплатной основе.<br><br>FamicomCD не занимается распространением ссылок на ROM-файлы, сайты с ROM-файлам, или инструкций по скачиванию ROM-файлов.<br><br>Mario, Luigi, Yoshi, и другие представленные персонажи являются собственностью Nintendo Inc. The Archipelago of Brixurei, Barracuda Barry, саундтрек, и другие оригинальные концепты являются интеллектуальной собственностью FamicomCD Team и Super Mario Bros. CD Team."
 
 
 
@@ -259,7 +259,7 @@ strid "deprecated_smbcd_screenshots"
 string "Скриншоты"
 
 strid "deprecated_smbcd_tagline1"
-string "Super Mario Bros. CD (SMBCD) - это ромхак Super Mario World из разряда "Что если?" в рамках официальной игры про Марио на вымышленной консоли на базе компакт-дисков! В нашем случае речь идёт о FamicomCD - несуществующем аддоне для консоли Famicom/NES (Денди) и не SNES CD, как некоторые могут подумать."
+string "Super Mario Bros. CD (SMBCD) - это ромхак Super Mario World из разряда "Что если?" в рамках официальной игры про Марио на вымышленной консоли на базе компакт-дисков! В нашем случае речь идёт о FamicomCD - несуществующем аддоне для консоли Famicom/NES и не SNES CD, как некоторые могут подумать."
 
 strid "deprecated_smbcd_tagline2"
 string "SMBCD использует все возможности MSU-1 чипа, а именно - музыка CD-качества, полностью анимированные катсцены, и более комплексное окружение. Игра также использует возможности Mode 0 и Mode 7, что позволяет выводить на экран больше слоев* для создания параллаксного окружения. (*4 слоя, вместо 2-х. Также это ограничивает количество выводимых цветов для фона)"

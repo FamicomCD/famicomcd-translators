@@ -302,7 +302,7 @@ strid "deprecated_tutorial_note2"
 string "Le MSU-1 est le principal moyen par lequel SMBCD délivre un son riche de qualité CD et d'autres caractéristiques qu'une vraie Super Nintendo ne pourrait obtenir, en tant que tel, MSU-1 est nécessaire pour que SMBCD fonctionne. S'il vous manque le MSU-1 ou si vous ne l'avez pas correctement installé, SMBCD ne démarrera pas. Si vous avez suivi le guide et installé tous les fichiers MSU-1 requis mais que SMBCD ne démarre toujours pas, vérifiez si votre émulateur supporte le MSU-1 ou rejoignez le Discord FamicomCD pour obtenir de l'aide.."
 
 strid "deprecated_tutorial_note3"
-string "<b>Important: </b>Vous avez besoin de votre propre fichier de jeu Super Mario World USA pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche SMW Super Nintendo officielle. Nous ne vous indiquerons pas comment et/où obtenir les fichiers de jeu si vous ne voulez pas ou ne pouvez pas dumper votre propre cartouche.."
+string "<b>Important: </b>Vous avez besoin de votre propre rom de Super Mario World USA pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche SMW Super Nintendo officielle. Nous ne vous indiquerons pas comment et/où obtenir la rom du jeu si vous ne voulez pas ou ne pouvez pas dumper votre propre cartouche.."
 
 strid "deprecated_tutorial_note4"
 string "(Les premières étapes concernent l'installation des hacks SMW en général. Si vous savez déjà comment installer/configurer les hacks SMW, passez à l'étape 5.)."
@@ -325,16 +325,16 @@ strid "deprecated_tutorial_step2"
 string "<b>Step 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
 
 strid "deprecated_tutorial_step3"
-string "<b>Step 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre fichier de jeu SMW USA."
+string "<b>Step 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW USA."
 
 strid "deprecated_tutorial_step4"
-string "<b>Step 4: </b>Patchez le fichier de jeu SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>Marc Robledo's Online Patcher</a>."
+string "<b>Step 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>Marc Robledo's Online Patcher</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Step 5: </b>Une fois que vous avez votre fichier de jeu SMBCD, testez-le pour voir s'il fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patché, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
+string "<b>Step 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
 
 strid "deprecated_tutorial_step6"
-string "<b>Step 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre fichier de jeu SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
+string "<b>Step 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
 
 strid "deprecated_tutorial_step7"
 string "<b>Step 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté par le <a href=« https://famicomcd.org/smbcd/supportsheet »>SMBCD Support Sheet</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
@@ -350,10 +350,10 @@ strid "deprecated_smbcdteam_director"
 string "Réalisateur et Producteur"
 
 strid "deprecated_smbcdteam_art"
-string "Art Director"
+string "Directeur Artistique"
 
 strid "deprecated_smbcdteam_sound"
-string "Music/Sound Director"
+string "Réalisateur Musique/Sons"
 
 strid "deprecated_smbcdteam_graphics"
 string "Art/Graphismes"

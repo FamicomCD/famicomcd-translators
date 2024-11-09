@@ -23,7 +23,7 @@ strid "language_button"
 string "Changer de langue :frenchflag:"
 
 strid "legal_mumbo_jumbo"
-string "La Team FamicomCD n'est affiliée dans aucun cas à Nintendo et toutes les marques déposées sont la propriété des ayants droits. Aucune violation du droit d'auteur n'est prévue dans ce projet. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
+string "L'équipe de FamicomCD n'est pas affiliée de quelque manière que ce soit à Nintendo. Toutes les marques déposées sont la propriété de leurs détenteurs respectifs. Aucune violation des droits d'auteur n'est recherchée.. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  Team FamicomCD, King Mayro"
@@ -77,7 +77,7 @@ strid "support_sheet_description"
 string "Comme SMBCD est un rom hack et non un jeu PC, La compatibilité entre emulateurs et hardware (consoles originales ou compatibles) est vitale pour une expérience optimale."
 
 strid "support_sheet_description_p2"
-string "Si vous utilisez un émulateur ou une cosole (compatible) qui n'apparait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>. Si vous cherchez les informations concernant le FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
+string "Si vous utilisez un émulateur ou une console (compatible) qui n'apparait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos remarques sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>. Si vous cherchez les informations concernant la precile FXPak Pro/SD2SNES, référez vous à <a href="https://sd2snes.de/blog/card-list">Ce lien</a>."
 
 strid "support_sheet_description_p3"
 string "Pour plus d'informations à propos du niveau de prise en charge d'un émulateur, cliquez juste sur la banière emulateurs/consoles."

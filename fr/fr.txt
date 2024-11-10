@@ -194,7 +194,7 @@ strid "about_about_famicomcd_desc"
 string "L'équipe FamicomCD est un groupe à but non lucratif spécialisé dans la création de jeux vidéo, de logiciels et de modifications/hacks. Le nom FamicomCD s'applique à la fois à l'équipe et au périphérique d'extension fictif de la Famicom sur lequel tous nos jeux sont basés. A ne pas confondre avec le CD-ROM Super NES/Super Famicom qui n'a jamais été commercialisé.<br><br>Le projet FamicomCD a été créé par King Mayro en février 2023. À l'origine, le concept n'était utilisé que pour partager des maquettes de jeux et de logiciels qui auraient pu etre developés pour un périphérique comme le FamicomCD s'il avait existé. Peu après, le premier titre, Super Mario Bros. CD, a été adapté au concept. Bien que nous ne travaillions actuellement que sur Super Mario Bros. CD, nous aimerions nous diversifier et créer toutes sortes d'autres jeux et logiciels sous l'appelation FamicomCD !"
 
 strid "about_other_stuff"
-string "Petite précision !"
+string "Au fait !"
 
 strid "about_other_stuff_desc"
 string "Nous préférons que notre nom soit écrit en un seul mot, FamicomCD, plutôt que séparé en Famicom CD ou abrégé en FCD. Si nécessaire, vous pouvez cependant l'abréger en FCD."

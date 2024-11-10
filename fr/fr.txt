@@ -174,7 +174,7 @@ strid "contact_title"
 string "Contactez nous"
 
 strid "contact_description"
-string "Si vous avez besoin de nous contacter pour toute raison particulière, ou seulement nous suivre sur les réseaux sociaux, notre liste de contacts et de sites est par ici!"
+string "Si vous avez besoin de nous contacter pour toute raison particulière, ou seulement nous suivre sur les réseaux sociaux, notre liste de contacts et de sites est par ici !"
 
 strid "contact_title_famicomcd"
 string "Comptes FamicomCD"
@@ -194,7 +194,7 @@ strid "about_about_famicomcd_desc"
 string "L'équipe FamicomCD est un groupe à but non lucratif spécialisé dans la création de jeux vidéo, de logiciels et de modifications/hacks. Le nom FamicomCD s'applique à la fois à l'équipe et au périphérique d'extension fictif de la Famicom sur lequel tous nos jeux sont basés. A ne pas confondre avec le CD-ROM Super NES/Super Famicom qui n'a jamais été commercialisé.<br><br>Le projet FamicomCD a été créé par King Mayro en février 2023. À l'origine, le concept n'était utilisé que pour partager des maquettes de jeux et de logiciels qui auraient pu etre developés pour un périphérique comme le FamicomCD s'il avait existé. Peu après, le premier titre, Super Mario Bros. CD, a été adapté au concept. Bien que nous ne travaillions actuellement que sur Super Mario Bros. CD, nous aimerions nous diversifier et créer toutes sortes d'autres jeux et logiciels sous l'appelation FamicomCD !"
 
 strid "about_other_stuff"
-string "Petite info!"
+string "Petite précision !"
 
 strid "about_other_stuff_desc"
 string "Nous préférons que notre nom soit écrit en un seul mot, FamicomCD, plutôt que séparé en Famicom CD ou abrégé en FCD. Si nécessaire, vous pouvez cependant l'abréger en FCD."
@@ -254,7 +254,7 @@ strid "deprecated_smbcd_expectations"
 string "A quoi s'attendre"
 
 strid "deprecated_smbcd_trailer"
-string "Pas convaincu? Regardez la bande annonce!"
+string "Pas convaincu? Regardez la bande annonce !"
 
 strid "deprecated_smbcd_screenshots"
 string "Captures d'écran"
@@ -319,7 +319,7 @@ string "Méthode avec le patcheur online de Marc Robledo"
 
 
 strid "deprecated_tutorial_step1"
-string "<b>Etape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Version Downloads</a>. Elle sera téléchargée sous la forme d'un fichier zip."
+string "<b>Etape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Téléchargement des differentes versions</a>. Elle sera téléchargée sous la forme d'un fichier zip."
 
 strid "deprecated_tutorial_step2"
 string "<b>Etape 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
@@ -328,7 +328,7 @@ strid "deprecated_tutorial_step3"
 string "<b>Etape 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
 
 strid "deprecated_tutorial_step4"
-string "<b>Etape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>Marc Robledo's Online Patcher</a>."
+string "<b>Etape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
 
 strid "deprecated_tutorial_step5"
 string "<b>Etape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
@@ -337,7 +337,7 @@ strid "deprecated_tutorial_step6"
 string "<b>Etape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
 
 strid "deprecated_tutorial_step7"
-string "<b>Etape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté par le <a href=« https://famicomcd.org/smbcd/supportsheet »>SMBCD Support Sheet</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
+string "<b>Etape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
 
 
 strid "deprecated_smbcdteam_meet"
@@ -407,14 +407,14 @@ strid "deprecated_speedrun_updatename"
 string "Version 2.2!!!!"
 
 strid "deprecated_speedrun_descupdate"
-string "Le jeu a été corrigé pour inclure des corrections de bugs, des changements de graphismes et de couleurs, et des améliorations de la mécanique du speedrun ! Vous pouvez désormais obtenir des temps encore plus rapides en piétinant des Goombas, des Sidesteppers, des Tweeters et des Cheep Cheeps, ainsi que redémarrer les runs plus vite en appuyant rapidement sur L et R ! Téléchargez-le ci-dessous ! La date de fin du concours a été repoussée au 12 avril pour tenir compte de la mise à jour de la démo!"
+string "Le jeu a été corrigé pour inclure des corrections de bugs, des changements de graphismes et de couleurs, et des améliorations de la mécanique du speedrun ! Vous pouvez désormais obtenir des temps encore plus rapides en piétinant des Goombas, des Sidesteppers, des Tweeters et des Cheep Cheeps, ainsi que redémarrer les runs plus vite en appuyant rapidement sur L et R ! Téléchargez-le ci-dessous ! La date de fin du concours a été repoussée au 12 avril pour tenir compte de la mise à jour de la démo !"
 
 
 strid "deprecated_speedrun_desc1"
-string "Préparez-vous à entrer dans la course avec la compétition de speedrun SMBCD!"
+string "Préparez-vous à entrer dans la course avec la compétition de speedrun SMBCD !"
 
 strid "deprecated_speedrun_desc2"
-string "La démo de compétition de speedrun SMBCD est 2en1 ! C'est une démo pour ceux qui veulent juste essayer le jeu, ainsi qu'une compétition pour ceux qui veulent speedrunner les niveaux pour avoir une chance de devenir playtesters pour les builds de développement, ou simplement pour speedrunner le jeu!"
+string "La démo de compétition de speedrun SMBCD est 2en1 ! C'est une démo pour ceux qui veulent juste essayer le jeu, ainsi qu'une compétition pour ceux qui veulent speedrunner les niveaux pour avoir une chance de devenir playtesters pour les builds de développement, ou simplement pour speedrunner le jeu !"
 
 strid "deprecated_speedrun_desc3"
 string "Le jeu dispose d'un chronomètre intégré, vous n'avez donc pas à vous préoccuper de vos propres chronomètres ! Le concours est divisé en trois catégories en raison des différents systèmes de contrôle, alors n'oubliez pas d'indiquer celui que vous utilisez dans le titre de votre vidéo:"
@@ -427,7 +427,7 @@ strid "deprecated_speedrun_keyboard"
 string "Emulateur utilisant un clavier"
 
 strid "deprecated_speedrun_controller"
-string "Emulateur utilisant une manette/ecran tactile"
+string "Emulateur utilisant une manette/écran tactile"
 
 
 strid "deprecated_speedrun_submit"

@@ -23,7 +23,7 @@ strid "language_button"
 string "Changer de langue 🇫🇷"
 
 strid "legal_mumbo_jumbo"
-string "L'équipe de FamicomCD n'est pas affiliée de quelque manière que ce soit à Nintendo. Toutes les marques déposées sont la propriété de leurs détenteurs respectifs. Aucune violation des droits d'auteur n'est recherchée.. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
+string "L'équipe de FamicomCD n'est pas affiliée de quelque manière que ce soit à Nintendo. Toutes les marques déposées sont la propriété de leurs détenteurs respectifs. Aucune violation des droits d'auteur n'est recherchée. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  Team FamicomCD, King Mayro"
@@ -194,7 +194,7 @@ strid "about_about_famicomcd_desc"
 string "L'équipe FamicomCD est un groupe à but non lucratif spécialisé dans la création de jeux vidéo, de logiciels et de modifications/hacks. Le nom FamicomCD s'applique à la fois à l'équipe et au périphérique d'extension fictif de la Famicom sur lequel tous nos jeux sont basés. A ne pas confondre avec le CD-ROM Super NES/Super Famicom qui n'a jamais été commercialisé.<br><br>Le projet FamicomCD a été créé par King Mayro en février 2023. À l'origine, le concept n'était utilisé que pour partager des maquettes de jeux et de logiciels qui auraient pu etre developés pour un périphérique comme le FamicomCD s'il avait existé. Peu après, le premier titre, Super Mario Bros. CD, a été adapté au concept. Bien que nous ne travaillions actuellement que sur Super Mario Bros. CD, nous aimerions nous diversifier et créer toutes sortes d'autres jeux et logiciels sous l'appelation FamicomCD !"
 
 strid "about_other_stuff"
-string "Divers!"
+string "Petite info!"
 
 strid "about_other_stuff_desc"
 string "Nous préférons que notre nom soit écrit en un seul mot, FamicomCD, plutôt que séparé en Famicom CD ou abrégé en FCD. Si nécessaire, vous pouvez cependant l'abréger en FCD."
@@ -272,10 +272,10 @@ strid "deprecated_smbcd_footnote1"
 string "• Plus de 40 niveaux interconnectés formant une histoire cohérente"
 
 strid "deprecated_smbcd_footnote2"
-string "• Une histoire approfondie racontée dans des cutscenes et des niveaux au fur et à mesure de votre progression.."
+string "• Une histoire approfondie racontée dans des cutscenes et des niveaux au fur et à mesure de votre progression."
 
 strid "deprecated_smbcd_footnote3"
-string "• Une bande-son entièrement nouvelle avec de la pop urbaine et des vibes des années 80.."
+string "• Une bande-son entièrement nouvelle avec de la pop urbaine et des vibes des années 80."
 
 strid "deprecated_smbcd_footnote4"
 string "• Des nouveaux bonus (power-ups) originaux qui vous aideront dans votre voyage."
@@ -299,13 +299,13 @@ strid "deprecated_tutorial_note1"
 string "Ce guide couvre à la fois l'installation des rom hacks de Super Mario World (SMW) et l'utilisation du MSU-1. Bien que le guide mentionne SMBCD, les instructions peuvent s'appliquer à la plupart des autres rom hacks Super NES."
 
 strid "deprecated_tutorial_note2"
-string "Le MSU-1 est le principal moyen par lequel SMBCD délivre un son riche de qualité CD et d'autres caractéristiques qu'une vraie Super Nintendo ne pourrait obtenir, en tant que tel, MSU-1 est nécessaire pour que SMBCD fonctionne. S'il vous manque le MSU-1 ou si vous ne l'avez pas correctement installé, SMBCD ne démarrera pas. Si vous avez suivi le guide et installé tous les fichiers MSU-1 requis mais que SMBCD ne démarre toujours pas, vérifiez si votre émulateur supporte le MSU-1 ou rejoignez le Discord FamicomCD pour obtenir de l'aide.."
+string "Le MSU-1 est le principal moyen par lequel SMBCD délivre un son riche de qualité CD et d'autres caractéristiques qu'une vraie Super Nintendo ne pourrait obtenir, en tant que tel, MSU-1 est nécessaire pour que SMBCD fonctionne. S'il vous manque le MSU-1 ou si vous ne l'avez pas correctement installé, SMBCD ne démarrera pas. Si vous avez suivi le guide et installé tous les fichiers MSU-1 requis mais que SMBCD ne démarre toujours pas, vérifiez si votre émulateur supporte le MSU-1 ou rejoignez le Discord FamicomCD pour obtenir de l'aide."
 
 strid "deprecated_tutorial_note3"
-string "<b>Important: </b>Vous avez besoin de votre propre rom de Super Mario World USA pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche SMW Super Nintendo officielle. Nous ne vous indiquerons pas comment et/où obtenir la rom du jeu si vous ne voulez pas ou ne pouvez pas dumper votre propre cartouche.."
+string "<b>Important: </b>Vous avez besoin de votre propre rom de Super Mario World américaine pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle de Super Mario World (USA) pour Super Nintendo . Nous ne vous indiquerons pas comment et/où obtenir la rom du jeu si vous ne voulez pas ou ne pouvez pas dumper votre propre cartouche.."
 
 strid "deprecated_tutorial_note4"
-string "(Les premières étapes concernent l'installation des hacks SMW en général. Si vous savez déjà comment installer/configurer les hacks SMW, passez à l'étape 5.)."
+string "(Les premières étapes concernent l'installation des hacks SMW en général. Si vous savez déjà comment installer/configurer les hacks SMW, passez à l'étape 5)."
 
 strid "deprecated_tutorial_note5"
 string "*Les fichiers PCM ne respectent qu'à moitié cette règle, car leur numéro de piste doit être placé après le nom. Ceci est indiqué par le trait d'union et le numéro."
@@ -315,7 +315,7 @@ strid "deprecated_tutorial_methodflips"
 string "Méthode Floating IPS"
 
 strid "deprecated_tutorial_methodmarc"
-string "Méthode du patcheur online de Marc Robledo"
+string "Méthode avec le patcheur online de Marc Robledo"
 
 
 strid "deprecated_tutorial_step1"
@@ -325,7 +325,7 @@ strid "deprecated_tutorial_step2"
 string "<b>Step 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
 
 strid "deprecated_tutorial_step3"
-string "<b>Step 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW USA."
+string "<b>Step 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
 
 strid "deprecated_tutorial_step4"
 string "<b>Step 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>Marc Robledo's Online Patcher</a>."
@@ -456,16 +456,16 @@ strid "deprecated_about_risk"
 string "Nintendo va-t-il faire supprimer FamicomCD ou SMBCD ?"
 
 strid "deprecated_about_famicomcddesc"
-string "FamicomCD est le nom d'une extension fictive de la console Famicom, la partie add-on s'apparentant au Famicom Disk System. Le projet FamicomCD a été créé par King Mayro en février 2023. À l'origine, le concept n'était utilisé que pour partager des maquettes de jeux et de logiciels qui auraient pu etre developés pour un périphérique comme le FamicomCD et rapidement Super Mario Bros. CD a été adapté au concept car le projet original SMBCD a été réalisé bien avant la création de FamicomCD.."
+string "FamicomCD est le nom d'une extension fictive de la console Famicom, la partie add-on s'apparentant au Famicom Disk System. Le projet FamicomCD a été créé par King Mayro en février 2023. À l'origine, le concept n'était utilisé que pour partager des maquettes de jeux et de logiciels qui auraient pu etre developés pour un périphérique comme le FamicomCD et rapidement Super Mario Bros. CD a été adapté au concept car le projet original SMBCD a été réalisé bien avant la création de FamicomCD."
 
 strid "deprecated_about_ar1"
-string "En termes de réalité alternative, FamicomCD est un add-on pour la Famicom, ainsi qu'une console tout-en-un qui est sortie en 1989/1990. Avant cela, des rumeurs faisaient état d'un module d'extension à base de disquettes appelé Famicom Disk System, mais elles n'ont pas abouti et ont été rapidement remplacées par le concept de FamicomCD.."
+string "En termes de réalité alternative, FamicomCD est un add-on pour la Famicom, ainsi qu'une console tout-en-un qui est sortie en 1989/1990. Avant cela, des rumeurs faisaient état d'un module d'extension à base de disquettes appelé Famicom Disk System, mais elles n'ont pas abouti et ont été rapidement remplacées par le concept de FamicomCD."
 
 strid "deprecated_about_ar2"
 string "Le FamicomCD n'était pas seulement un jeu Famicom avec un son de qualité CD, c'était une excellente mise à jour de tous les aspects de la Famicom:"
 
 strid "deprecated_about_arwall"
-string "• Un processeur 16 bits<br><br>- 4 couches permettant de nombreuses superpositions de parallaxe et de champs de jeu (par exemple, 2 couches pour représenter le premier plan et 2 couches pour représenter les arrière-plans). <br><br>- Audio de qualité CD<br><br>- 1 canal DPCM supplémentaire (pour un total de 2) et 1 canal de synthèse FM lors de la lecture d'un CD audio<br><br>- 8 canaux DPCM et 1 canal de synthèse FM étendu lors de la non-lecture d'un CD audio (Tous les canaux DPCM et les canaux de synthèse FM étendus sont construits sur la base de la technologie de la Famicom). Le son est créé grace au 2A03 original de la Famicom)<br><br>- Effets de transparence sur une seule couche à la fois<br><br>- Tilemap/FMV streaming<br><br>- 112 Sprites à l'écran à la fois<br><br>- Manettes FamicomCD avec prise en charge d'un D- PAD, Start, Select, 4 boutons de face et des boutons L/R sur le dessus. Malgré la nouvelle manette, le FamicomCD supporte les manettes Famicom originales, et les jeux peuvent choisir de quelle configuration de manette peut être utilisé.<br><br>- Chargement de couleurs où le système peut envoyer des couleurs directement dans la palette ou envoyer des couleurs directement dans un pixel sur l'écran. Ces couleurs sont des valeurs RVB 15 bits au lieu des couleurs spécifiques de la Famicom, mais les couleurs sont téléchargées à chaque image, ce qui augmente le temps d'utilisation du CPU.)."
+string "• Un processeur 16 bits<br><br>- 4 couches permettant de nombreuses superpositions de parallaxe et de champs de jeu (par exemple, 2 couches pour représenter le premier plan et 2 couches pour représenter les arrière-plans). <br><br>- Audio de qualité CD<br><br>- 1 canal DPCM supplémentaire (pour un total de 2) et 1 canal de synthèse FM lors de la lecture d'un CD audio<br><br>- 8 canaux DPCM et 1 canal de synthèse FM étendu lors de la non-lecture d'un CD audio (Tous les canaux DPCM et les canaux de synthèse FM étendus sont construits sur la base de la technologie de la Famicom). Le son est créé grace au 2A03 original de la Famicom)<br><br>- Effets de transparence sur une seule couche à la fois<br><br>- Tilemap/FMV streaming<br><br>- 112 Sprites à l'écran à la fois<br><br>- Manettes FamicomCD avec prise en charge d'un D- PAD, Start, Select, 4 boutons de face et des boutons L/R sur le dessus. Malgré la nouvelle manette, le FamicomCD supporte les manettes Famicom originales, et les jeux peuvent choisir de quelle configuration de manette peut être utilisé.<br><br>- Chargement de couleurs où le système peut envoyer des couleurs directement dans la palette ou envoyer des couleurs directement dans un pixel sur l'écran. Ces couleurs sont des valeurs RVB 15 bits au lieu des couleurs spécifiques de la Famicom, mais les couleurs sont téléchargées à chaque image, ce qui augmente le temps d'utilisation du CPU)."
 
 strid "deprecated_about_riskdesc"
 string "Avec toute utilisation de propriété intellectuelle sans licence, il y a toujours un risque que Nintendo fasse quelque chose, mais compte tenu de l'etat actuel des projets similaires à notre projet Super Mario Bros. CD qui est un rom hack de Super Mario World, une multitude de roms hacks perdurent depuis des décennies maintenant avec très peu ou pas d'interférence de la part de Nintendo, nous supposons donc que nous sommes tout aussi "à l'abri" que d'autres hacks SMW le sont depuis des années. <br><br>Nous n'avons pas l'intention de violer les droits d'auteur ou de faciliter le piratage avec le projet SMBCD, et nous n'avons pas non plus l'intention de faire du profit avec nos projets de quelque manière que ce soit.<br><br>En fin de compte, il n'y a pas de oui ou de non catégorique à ce sujet car Nintendo peut légalement faire ce qu'il veut d'un projet comme celui-ci, mais nous n'avons pas vraiment de raison de penser qu'il le fera pour les raisons mentionnées ci-dessus."

@@ -23,7 +23,7 @@ strid "language_button"
 string "Changer de langue 🇫🇷"
 
 strid "legal_mumbo_jumbo"
-string "L'équipe de FamicomCD n'est pas affiliée de quelque manière que ce soit à Nintendo. Toutes les marques déposées sont la propriété de leurs détenteurs respectifs. Aucune violation des droits d'auteur n'est recherchée. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
+string "L'équipe de FamicomCD n'est pas affiliée de quelque manière que ce soit à Nintendo. Toutes les marques déposées sont la propriété de leurs détenteurs respectifs. Aucune violation des droits d'auteur n'est recherchée. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">En savoir plus ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  Team FamicomCD, King Mayro"

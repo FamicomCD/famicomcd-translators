@@ -34,7 +34,7 @@ string "© 2022-2024  Team FamicomCD, King Mayro"
 & Main Page &
 
 strid "main_page_tagline"
-string "Hey! Bienvenue sur la refonte beta du site FamicomCD! Vous avez des suggestions? Rejoignez notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
+string "Hey! Bienvenue sur la refonte beta du site FamicomCD! Vous avez des suggestions? Rejoignez notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a> !"
 
 
 

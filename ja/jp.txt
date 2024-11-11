@@ -3,10 +3,10 @@
 
  
 strid "test_message"
-string "This is a test message!"
+string "テストメッセージ"
 
 strid "discette"
-string "Hiya! I'm Discette."
+string "やあ！ディスケットだよ！"
 
 
 
@@ -14,19 +14,19 @@ string "Hiya! I'm Discette."
 & General &
 
 strid "about_button"
-string "About FamicomCD"
+string "FamicomCDについて"
 
 strid "contact_button"
-string "Contact Us"
+string "連絡先"
 
 strid "language_button"
-string "Language Switcher 🇺🇸"
+string "言語選択　jp"
 
 strid "legal_mumbo_jumbo"
-string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
+string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  FamicomCD Team, King Mayro"
+string "© 2022-2024  FamicomCD開発連盟, King Mayro"
 
 
 
@@ -34,7 +34,7 @@ string "© 2022-2024  FamicomCD Team, King Mayro"
 & Main Page &
 
 strid "main_page_tagline"
-string "Hiya! Welcome to the FamicomCD website overhaul beta! Have any suggestions? Join our <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "FamicomCDの新しいホームページへようこそ！何か気になることがあったら<a href="https://discord.gg/wpSGt5aTuw">Discord</a>や<a href="mailto:support@famicomcd.org">メール</a>からご連絡ください！"
 
 
 
@@ -42,28 +42,28 @@ string "Hiya! Welcome to the FamicomCD website overhaul beta! Have any suggestio
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console."
+string "スーパーマリオブラザーズCD （マリオCD）はCDのゲーム機でマリオのゲームがでたら、と想像するスーパーマリオワールドのハックです。"
 
 strid "learn_more_button"
-string "Visit Page"
+string "もっと見る"
 
 strid "show_more_smbcd_button"
-string "Show Resources ▼"
+string "詳しく▼"
 
 strid "show_less_smbcd_button"
-string "Hide Resources ▲"
+string "隠す▲"
 
 strid "download_smbcd_button"
-string "Download SMBCD"
+string "ダウンロード"
 
 strid "support_sheet_smbcd_button"
-string "Support Sheet"
+string "エミュレータサポート"
 
 strid "tutorial_smbcd_button"
-string "Installation Tutorial"
+string "インストールのしかた"
 
 strid "smbcd_team_button"
-string "SMBCD Team Members"
+string "開発者一覧"
 
 
 
@@ -71,94 +71,94 @@ string "SMBCD Team Members"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Support Sheet"
+string "エミュレータサポート"
 
 strid "support_sheet_description"
-string "Since SMBCD is a rom hack and not a computer game, emulator and hardware support is vital for a smooth experience."
+string "マリオCDはハックのため、エミュレータや本機種の対応性が必要です。"
 
 strid "support_sheet_description_p2"
-string "If you're using an emulator or hardware that isn't shown on the list below, feel free to submit notes via our <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, or by <a href="mailto:support@famicomcd.org">emailing us</a>. If you're looking for the SD Card support sheet for the FXPak Pro/SD2SNES, please check the <a href="https://sd2snes.de/blog/card-list">SD2SNES Card List</a>."
+string "以下にあなたのエミュレータやハードが書かれていない場合、自由に<a href="https://discord.gg/wpSGt5aTuw">Discord</a>や<a href="mailto:support@famicomcd.org">メール</a>からお知らせください。FXPak Pro/SD2SNESの対応性については<a href="https://sd2snes.de/blog/card-list">ここ</a>から確認ください。"
 
 strid "support_sheet_description_p3"
-string "For more info about an emulator (or hardware) including accuracy and links, just click on the emulator/hardware's panel."
+string "さらにエミュレータやハードについて知りたい場合はボタンを押してください。"
 
 strid "yes"
-string "yes"
+string "はい"
 
 strid "no"
-string "no"
+string "いいえ"
 
 strid "msu1_supported"
-string "MSU-1 Supported"
+string "MSU-1対応"
 
 strid "msu1_unsupported"
-string "No MSU-1 Support"
+string "MSU-1非対応"
 
 strid "support_type"
-string "Type"
+string "種類"
 
 strid "support_hardware_flashcarts"
-string "Hardware and Flashcarts"
+string "ハード、ゲームカード"
 
 strid "support_emulators"
-string "Emulators"
+string "エミュレータ"
 
 strid "support_download"
-string "Download"
+string "ダウンロード"
 
 
 strid "support_notes"
-string "Notes"
+string "その他"
 
 strid "support_description"
-string "Description"
+string "詳細"
 
 strid "support_tested_with"
-string "Tested with"
+string "テスト法"
 
 strid "support_accuracy"
-string "Emulator Accuracy"
+string "正確度"
 
 strid "support_platforms"
-string "Platforms"
+string "機種"
 
 strid "support_type_emulator"
-string "Software Emulation"
+string "エミュレーション"
 
 strid "support_type_fpga"
-string "FPGA Hardware Emulation"
+string "FPGAエミュレーション"
 
 strid "support_type_hardware"
-string "Hardware"
+string "ハード"
 
 
 strid "support_rank_flawless"
-string "Flawless"
+string "完璧"
 
 strid "support_rank_well"
-string "Excellent"
+string "素晴らしい"
 
 strid "support_rank_fine"
-string "Good"
+string "良い"
 
 strid "support_rank_good"
-string "Okay"
+string "普通"
 
 strid "support_rank_poor"
-string "Bad"
+string "悪い"
 
 strid "support_rank_awful"
-string "Poor"
+string "ひどい"
 
 strid "support_rank_nono"
-string "Awful"
+string "最悪"
 
 
 strid "hardware_superfamicom"
-string "Super NES"
+string "スーパーファミコン"
 
 strid "emulator_superfamicom"
-string "Super NES Classic"
+string "スーパーファミコンミニ"
 
 
 
@@ -171,48 +171,48 @@ string "Super NES Classic"
 & Contact and About &
 
 strid "contact_title"
-string "Contact Us"
+string "連絡先"
 
 strid "contact_description"
-string "If you need to get in contact with us for any particular reason, or just wish to follow our social media accounts, our entire list of sites and contacts is here!"
+string "何かしらの理由でチームに問い合わせしたい場合に使えるリンクです。"
 
 strid "contact_title_famicomcd"
-string "FamicomCD Accounts"
+string "FamicomCDアカウント"
 
 strid "contact_title_kingmayro"
-string "King Mayro's Accounts (Founder)"
+string "King Mayroのアカウント(設立者)"
 
 
 
 strid "copyright_and_trademarks"
-string "Copyright and Trademarks"
+string "著作権、トレードマーク"
 
 strid "copyright_last_updated"
-string "Last updated: --/--/----"
+string "更新日: --/--/----"
 
 strid "about_about_famicomcd_desc"
-string "FamicomCD is a group that specializes in creating non-profit video games, software, and video game modifications/hacks. The name relates both to the team, and the fictional Famicom add-on that our games are based on; it should not be confused with the unreleased Super NES CD-ROM/Super Famicom CD-ROM.<br><br>The FamicomCD project was founded by King Mayro in Feburary of 2023. Originally, it was created with the intention of sharing mockups of games and software that could have been made for the FamicomCD add-on. Soon after, the first title, Super Mario Bros. CD, was adapted for the concept.<br><br>Currently we're only working on Super Mario Bros. CD, but we'd love to branch out and make all sorts of other games and software with the FamicomCD brand!"
+string "FamicomCDは無償のゲーム、ソフト、モッドをつくるチームです。 FamicomCDはチームの名前でもありますが、ファミコンの周辺機器の名前でもあり、もしファミコンCDが存在したらどんなゲームが出たかということを想像してソフトを作っています。また、FamicomCDは実在したスーパーファミコンのCD周辺機器とは関係ありません。<br><br>FamicomCDは2023年2月にKing Mayroにより設立されました。設立されたころはファミコンCDのゲームのコンセプトを作るアカウントでしたが、そのうちスーパーマリオブラザーズCDの制作が始まりました。<br><br>現在開発中のソフトはスーパーマリオブラザーズCDのみですが、近いうちにはほかのゲームも作る予定があります！"
 
 strid "about_other_stuff"
-string "Other stuff!"
+string "その他"
 
 strid "about_other_stuff_desc"
-string "We prefer our name to be written as a full single word, FamicomCD, rather than separated as Famicom CD or abbreviated as FCD. If necessary, though, you may abbreviate it to FCD."
+string "基本的に名称はFamicomCD、と一つの言葉です。Famicom CDと二つの別の言葉ではなく、FCDと短縮できる言葉ではありません。"
 
 strid "about_copyright"
-string "Copyright"
+string "著作権"
 
 strid "about_copyright_note"
-string "A Note For Our Supporters"
+string "ファンの皆様に"
 
 strid "about_copyright_note_desc"
-string "With any unlicensed IP use, there's always a risk of Nintendo doing something, but considering the precedent of stuff like our project Super Mario Bros. CD being a Super Mario World rom hack, an avenue of rom hacking that's been around for decades now with very little to no interference of Nintendo, we'd imagine we are just as safe as other SMW hacks have been for years.<br><br>We are not intending to infringe copyright or facilitate piracy with the SMBCD project, nor do we intend on making profit from our projects in any way.<br><br>Ultimately, there is no hard yes or no on this matter as Nintendo legally can do whatever they want to a project like this, but we don't really have any reason to think they will for the reasons above."
+string "どのようなシリーズの非公式使用でも、必ず任天堂が開発を停止させるというリスクはあります。しかし、過去の任天堂の行動を確認してみると、スーパーマリオワールドは何十年もハックされているゲームで、任天堂から法的中断がされていないものなので、あまり心配をする理由はないと思われます。<br><br>このモッドの開発で任天堂のソフトの著作権、および海賊版を広めるつもりはなく、当ハックから経済的利益をするつもりはありません。<br><br>最終的には任天堂が著作権を持つため、完全に安全だとは言いませんが、特に特別にこのハックが停止の危機にはないと思われます。"
 
 strid "about_copyright_legal"
-string "Legal Information"
+string "法律情報"
 
 strid "about_copyright_legal_desc"
-string "FamicomCD and the FamicomCD Team are not affiliated with Nintendo in any way. The names Famicom and Family Computer, as well as related trademarks, are owned by Nintendo. The FamicomCD branding, mascot (Discette), and font (FamicomCD Logo Font Family) are property of King Mayro.<br><br>Any projects sold for monetary gain (such as cartridges, CD-ROMs, or soundtrack CDs) are not produced, supported, or endorsed by the FamicomCD Team. All projects created by the FamicomCD Team are free and will remain free.<br><br>FamicomCD does not host, share, or provide links to ROMs, ROM websites, or instructions for downloading ROMs.<br><br>Mario, Luigi, Yoshi, and related characters are the property of Nintendo. The Archipelago of Brixurei, Barracuda Barry, soundtrack, and other original concepts are the intellectual property of the FamicomCD Team and The Super Mario Bros. CD Team."
+string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切関係ありません。ファミコン、ファミリーコンピュータの名称、及び関連する著作物は任天堂のものとなります。ファミコンCD、ディスケット、及びファミコンCDロゴフォントはKing Mayroのものとなります。<br><br>カートリッジ、CD-ROMやサウンドトラックCDなど、経済的利益をするつもりで売られている商品はFamicomCD開発連盟により制作されているものではなく、承認されていません。FamicomCD開発連盟により制作されたものは配信されている限り永久的に無料で提供されます。<br><br>FamicomCDはROMやROM配信サイトへのリンクやダウンロードの仕方を制作、提供を一切していません。<br><br>マリオ、ルイージ、ヨッシー、及び関連しているキャラクターは任天堂の著作物です。ブルクセイ諸島、バラクーダバリー、ゲーム内の音楽及びゲームに含まれる新しい内容はFamicomCD開発連盟、及びスーパーマリオブラザーズCD開発連盟の著作物です。"
 
 
 
@@ -244,228 +244,228 @@ imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 & deprecated pages &
 
 strid "deprecated_smbcd_about"
-string "About"
+string "概要"
 
 strid "deprecated_smbcd_story"
-string "Story"
+string "あらすじ"
 
 strid "deprecated_smbcd_expectations"
-string "What to Expect"
+string "特徴"
 
 strid "deprecated_smbcd_trailer"
-string "Not convinced? watch the trailer!"
+string "予告編"
 
 strid "deprecated_smbcd_screenshots"
-string "Screenshots"
+string "メディア"
 
 strid "deprecated_smbcd_tagline1"
-string "Super Mario Bros. CD (SMBCD) is a rom hack of Super Mario World that is a "what if" of sorts for a SMB game on a CD based console! The CD based console in this situation is the FamicomCD, which is a fictional add-on for the Famicom/NES and is not the Super NES CD, which some people seem to mix up."
+string "スーパーマリオブラザーズCD（マリオCD）はマリオのゲームはCD機種にでた世界を想像したスーパーマリオワールドのハックです。ファミコンCDはファミコンのCD周辺機器であり、実在するスーパーファミコンのCD周辺機器「ニンテンドープレイステーション」とは関係ありません。"
 
 strid "deprecated_smbcd_tagline2"
-string "SMBCD utilizes the MSU-1 chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro! SMBCD also heavily utilizes Mode 0 (a SNES background mode, akin to Mode 7) for its levels, providing more layers for foreground environments and background parallax. Mode 0 allows for 4 layers at once rather than the usual 2-3 layers found in SMW by using Mode 1, but it will cause all layers to be 2BPP or 4 colors per tile (this does not include sprite layers and they retain usage of 16 colors)."
+string "マリオCDはMSU-1チップを使いCD級音声、フルアニメーションシーンや繊細な背景を描きます。さらに、SD2SNESやFXPak Proを使い、実際のスーパーファミコンで遊ぶことができます。マリオCDはこの上にモード０を使ってレベル内の背景やレベル前のグラフィックを拡張します。モード０は色の使用を制限する代わりに、画面中のレイヤーを増やします。"
 
 strid "deprecated_smbcd_story1"
-string "SMBCD takes place upon the small yet diverse Archipelago of Brixurei. One day, mysteriously, The Guardian of Brixurei — the primary source of protection and security for the archipelago — had gone mad, resulting in adverse weather and upset wildlife to run rampant. Locals were left baffled and worried. Those who left their towns to find out what was going on were never heard from since.<br><br>Amidst the chaos caused by the Guardian's sudden outburst, the locals called upon the one and only Mario Bros. to help them. As the Mushroom Kingdom wished farewells, Mario set off by boat towards the Archipelago of Brixurei, bringing Luigi along for the ride. In this journey, the brothers will also meet a new friendly face who will accompany them."
+string "マリオCDの舞台ははるか遠い自然豊かなブルクセイ諸島。ある日、突然ブルクセイ諸島の守り主がおかしくなり、島の天気や動物がめちゃくちゃになってしまう。諸島の住人たちは混乱し、解決しようと決心して冒険にいった少数派は村を出た以来帰ってこない。<br><br>どうするかわからず、住人たちはマリオ兄弟を呼ぶ。キノコ王国に応援されながら、マリオとルイージは船でブルクセイ諸島に向かう。しかしそこについた二人は新しい仲間に出会う...?"
 
 strid "deprecated_smbcd_footnote1"
-string "• 40+ interconnected levels helping to form a cohesive story"
+string "•1つのストーリーを構成する40以上のつながるコース"
 
 strid "deprecated_smbcd_footnote2"
-string "• An in-depth story that'll be told through cutscenes and levels as you progress."
+string "•レベル、フルアニメーションシーンで進める奥深いストーリー"
 
 strid "deprecated_smbcd_footnote3"
-string "• An entirely new soundtrack with city pop, and mid 80s vibes."
+string "•シティポップ、80年代をもとにした完全新作のサウンドトラック"
 
 strid "deprecated_smbcd_footnote4"
-string "• A few new and original power-ups that will assist you in your journey."
+string "•ゲームを進めるために役立ついくつもの新しいアイテム"
 
 strid "deprecated_smbcd_footnote5"
-string "• Many old and new, unfamiliar foes that will attempt to cut your journey short."
+string "•マリオの冒険を止めようとする懐かしい敵、新しい敵盛りだくさん"
 
 
 
 
 strid "deprecated_tutorial_thingstonote"
-string "Things to Note"
+string "知っておくこと"
 
 strid "deprecated_tutorial_videoversion"
-string "Video Version of the Guide"
+string "動画ガイド"
 
 strid "deprecated_tutorial_setup"
-string "Setting up SMBCD and MSU-1"
+string マリオCD、MSU-1"
 
 strid "deprecated_tutorial_note1"
-string "This guide covers both how to install Super Mario World (SMW) rom hacks, and how to use MSU-1. Though the guide mentions SMBCD, the instructions could apply to most other Super NES rom hacks."
+string "このガイドではスーパーマリオワールドのハックをインストールする方法、またMSU-1をセットアップする方法を説明します。ここではマリオCDの話をしますが、基本的にはこのガイドはどんなハックでも同じように適用できます。"
 
 strid "deprecated_tutorial_note2"
-string "MSU-1 is the main way that SMBCD delivers its rich CD quality audio among other features that a real Super NES would struggle with, and as such MSU-1 is required for SMBCD to start. If you're missing MSU-1 or haven't installed it correctly, SMBCD will not start. If you have followed the guide and installed all the required MSU-1 files but SMBCD still will not start, check if your emulator supports MSU-1 or join the FamicomCD Discord for support."
+string "マリオCDはMSU-1を使って本来普通のスーパーファミコンでは出せないCD音声を演奏するため、マリオCDを遊ぶにとってMSU-1は必須です。MSU-1が正しくインストールされていない場合、マリオCDは起動しません。ガイド通りにインストールしたにかかわらずマリオCDが起動できない場合、エミュレータがMSU-1に対応していることを確認し、FamicomCDのDiscordからサポートにお問い合わせください。"
 
 strid "deprecated_tutorial_note3"
-string "<b>Important: </b>You need your own USA Super Mario World game file to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get the game files if you don't want to or can't dump your own cartridge."
+string "<b>＜重要＞</b>マリオCDのBPSファイルをパッチするには米国版のスーパーマリオワールドのゲームファイルが必要です。基本的には自分が持っているカートリッジを合法的にデータ化することを勧めます。"
 
 strid "deprecated_tutorial_note4"
-string "(The first few steps are for general SMW Hack setup. If you already know how to set up SMW hacks, skip to step 5)."
+string "(すでにスーパーマリオワールドのハックのインストールの仕方がわかる人はステップ５から読んでください。)"
 
 strid "deprecated_tutorial_note5"
-string "*PCM files only half follow this rule as they need their track number to come after the name. This is indicated by the hyphen and the number."
+string "*PCMファイルはファイル名にトラック番号が必要です。ハイフンと数字は一切消したり、変更したりしないでください。"
 
 
 strid "deprecated_tutorial_methodflips"
-string "Floating IPS Method"
+string "Floating IPSでパッチ"
 
 strid "deprecated_tutorial_methodmarc"
-string "Marc's Online Patcher Method"
+string "Marc's Online Patcherでパッチ"
 
 
 strid "deprecated_tutorial_step1"
-string "<b>Step 1: </b>First of all, download a SMBCD build from the <a href="https://famicomcd.org/smbcd/download">Version Downloads</a> page. It will download as a zip file."
+string "<b>ステップ１：</b>マリオCDのファイルを<a href="https://famicomcd.org/smbcd/download">ダウンロード</a>ページから入手してください。ZIPファイルとしてダウンロードされます。"
 
 strid "deprecated_tutorial_step2"
-string "<b>Step 2: </b>Open the zip to reveal its contents. If you don't have a zip archive opener, we recommend using 7-Zip."
+string "<b>ステップ２：</b>ZIPを解凍してください。解凍の仕方がない場合、7-Zipが勧められています。"
 
 strid "deprecated_tutorial_step3"
-string "<b>Step 3: </b>When opening the zip archive to a SMBCD build, you will see the SMBCD BPS patch file, an MSU file, and PCM files. You only have to worry about the BPS for now. This is where your USA SMW game file comes into play."
+string "<b>ステップ３：</b>ZIPファイルを開いたとき、BPSファイル、MSUファイルと複数のPCMファイルがあることを確認してください。また、マリオワールドのファイルがあることを確認してください。"
 
 strid "deprecated_tutorial_step4"
-string "<b>Step 4: </b>Patch the SMBCD BPS to the USA SMW game file using <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> or <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
+string "<b>ステップ４：</b><a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a>、または<a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>を使いマリオCDのBPSをマリオワールドにパッチしてください。"
 
 strid "deprecated_tutorial_step5"
-string "<b>Step 5: </b>Once you have your SMBCD game file, test if it works. If the MSU-1 required screen appears, you've patched it correctly, but you're not done yet. You'll need the MSU-1 files to complete the installation."
+string "<b>ステップ５：</b>マリオCDのゲームファイルがあると確認できた後、正しく作動しているか見てください。MSU-1が必要という画面が見えたら正しくインストールできています。"
 
 strid "deprecated_tutorial_step6"
-string "<b>Step 6: </b>Remember the MSU file and PCM files from before? You need these files to be in the same directory and the same name* as your SMBCD game file. For organization, it's recommended that you store all of SMBCD's files in a folder of its own."
+string "<b>ステップ６：</b>フォルダに入っているMSUファイル、PCMファイルをマリオCDのゲームファイルと同名にしてください。*整理するため、マリオCDのファイルをすべて一つのフォルダに入れることを勧めます。"
 
 strid "deprecated_tutorial_step7"
-string "<b>Step 7: </b>Once all of the files are in place, SMBCD should start as normal. If you are still getting the MSU-1 is missing error, please make sure your emulator is supported under the  <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Support Sheet</a> or join the FamicomCD Discord for support."
+string "<b>ステップ７：</b>ファイルがすべて規定通りに整理されている場合、マリオCDは正しく起動します。まだMSU-1がないとエラーが出ている場合、<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>からエミュレータがサポートされているか確認し、FamicomCDのDiscordからサポートをお問い合わせください。"
 
 
 strid "deprecated_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "スーパーマリオブラザーズCD開発連盟一同"
 
 strid "deprecated_smbcdteam_translators"
-string "Translators"
+string "翻訳者"
 
 strid "deprecated_smbcdteam_director"
-string "Director and Producer"
+string "監督・制作"
 
 strid "deprecated_smbcdteam_art"
-string "Art Director"
+string "美術監督"
 
 strid "deprecated_smbcdteam_sound"
-string "Music/Sound Director"
+string "音声監督"
 
 strid "deprecated_smbcdteam_graphics"
-string "Art/Graphics"
+string "グラフィック"
 
 strid "deprecated_smbcdteam_music"
-string "Music"
+string "作曲"
 
 strid "deprecated_smbcdteam_voice"
-string "Voice Actor"
+string "声優"
 
 strid "deprecated_smbcdteam_asm"
-string "ASM Programming"
+string "ASMプログラム"
 
 strid "deprecated_smbcdteam_es"
-string "Spanish Translation"
+string "スペイン語翻訳"
 
 strid "deprecated_smbcdteam_jp"
-string "Japanese Translation"
+string "日本語翻訳"
 
 strid "deprecated_smbcdteam_it"
-string "Italian Translation"
+string "イタリア語翻訳"
 
 strid "deprecated_smbcdteam_ru"
-string "Russian Translation"
+string "ロシア語翻訳"
 
 strid "deprecated_download_downloads"
-string "Downloads"
+string "ダウンロード"
 
 strid "deprecated_download_special"
-string "Special and Event Demos/Downloads"
+string "特別デモダウンロード"
 
 
 strid "deprecated_download_oops"
-string "Well, unfortunately there aren't any downloads in this section yet."
+string "残念ながら、まだダウンロードできるものはありません。"
 
 
 strid "deprecated_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "スピードラン大会デモv2.2"
 
 strid "deprecated_download_"
-string "Speedrun Comp. Demo v2.2 Mirror"
+string "大会デモミラー"
 
 
 strid "deprecated_speedrun_name"
-string "Speedrun Competition"
+string "スピードラン大会"
 
 strid "deprecated_speedrun_thanks"
-string "The competition is over and the scores have been tallied! Thank you to those who participated."
+string "大会は終了しました！参加した皆さんはありがとうございます。"
 
 strid "deprecated_speedrun_updatename"
-string "Version 2.2!!!!"
+string "2.2アップデート！"
 
 strid "deprecated_speedrun_descupdate"
-string "The game has been patched to include bugfixes, graphical/color changes, and speedrun mechanic improvements! Now you can get even fast times by stomping on Goombas, Sidesteppers, Tweeters, and Cheep Cheeps, as well as restart runs faster by pressing L and R! Download it below! Also, the competition end date has been moved to April 12th to compensate for the demo's update!"
+string "バグ、色の修正がされました。クリボー、カニ、リートンやプクプクを踏むとタイムが短くなるようになりました。また、LRボタンを同時に押すことによりレベルをリセットできるようになりました。アップデートの配信に合わせ、大会の終了日が4月12日に移動されました。"
 
 
 strid "deprecated_speedrun_desc1"
-string "Get ready to take off running with the SMBCD Speedrun Competition!"
+string "スピードラン大会デモで走り出せ！"
 
 strid "deprecated_speedrun_desc2"
-string "The SMBCD Speedrun Competition Demo is two things in one! It's a demo for those who just want to try out the game, as well as a competition for those who want to speedrun the levels for a chance to become playtesters for development builds, or simply just want to speedrun the game!"
+string "マリオCDスピードラン大会特別デモはゲームを体験してみたい人のためのデモでありますが、スピードランをしてみたい人、大会で勝ってテスターになりたい人の機会ともなります。"
 
 strid "deprecated_speedrun_desc3"
-string "The game has a built-in timer, so you don't need to worry about your own timers! The competition is split into three categories due to different control schemes, so be sure to mark which one you're using in your video title:"
+string "ゲーム内にタイマーが含まれているため、自分でタイマーを準備する必要はありません！大会は使用機種によってカテゴリーに分かれているため、記録を送るときはタイトルにどれかを含めてください。"
 
 
 strid "deprecated_speedrun_sfc"
-string "Hardware (SNES/SFC or FPGA Solutions)"
+string "本体ハード"
 
 strid "deprecated_speedrun_keyboard"
-string "Emulator using Keyboard"
+string "エミュレータ（キーボード）"
 
 strid "deprecated_speedrun_controller"
-string "Emulator using Controller/Touch"
+string "エミュレータ（コントローラ・タッチ）"
 
 
 strid "deprecated_speedrun_submit"
-string "Join our Discord to submit runs!*<br>*Do not submit runs using v1.3 and do not submit runs with the game display stretched to anything more than 4:3 or a square aspect ratio (8:7, 1:1, etc.), so runs submitted with the game in something like 16:9 are not accepted (your video size can be these sizes, just not the game)."
+string "記録を送るためにはDiscordに入ってください！*<br>*1.3以前のデモを使った記録、画面が4：3以上に伸ばされている映像はカウントされません。"
 
 strid "deprecated_speedrun_"
-string "Watch the Announcement!"
+string "発表映像"
 
 strid "deprecated_speedrun_2.2"
-string "Download v2.2"
+string "2.2ダウンロード"
 
 strid "deprecated_speedrun_2.2mirror"
-string "Download v2.2 Mirror"
+string "2.2ダウンロードミラー"
 
 strid "deprecated_speedrun_1.3"
-string "Download v1.3"
+string "1.3ダウンロード"
 
 
 strid "deprecated_about_famicomcd"
-string "What is FamicomCD?"
+string "ファミコンCDってなに？"
 
 strid "deprecated_about_ar"
-string "What is FamicomCD in Terms of Alternate Reality?"
+string "ファミコンCDの歴史"
 
 strid "deprecated_about_risk"
-string "Will Nintendo Take FamicomCD or SMBCD Down?"
+string "FamicomCDやマリオCDは開発停止されるの？"
 
 strid "deprecated_about_famicomcddesc"
-string "FamicomCD is the name of a fictitious Famicom add-on/all-in-one console, the add-on portion akin to the Famicom Disk System. The FamicomCD project was created by King Mayro in Feburary 2023. It was originally created to share mockups of games and software that could've have been on the FamicomCD console/add-on, and soon Super Mario Bros. CD was adapted for the concept as the original SMBCD project had come far before the creation of FamicomCD."
+string "ファミコンCDは別の世界のファミコンディスクシステムのようなファミコン周辺機器、及びマルチ機器です。FamicomCDは2023年2月にKing Mayroにより設立されました。設立されたころはファミコンCDのゲームのコンセプトを作るアカウントでしたが、そのうちスーパーマリオブラザーズCDの制作が始まりました。"
 
 strid "deprecated_about_ar1"
-string "In terms of alternate reality, FamicomCD is an add-on for the Famicom, as well as an all-in-one console that released in 1989/1990. There were rumors before this of a floppy disk based add-on called the Famicom Disk System, but nothing came of it and it was soon replaced by the concept of the FamicomCD."
+string "ファミコンCDは別の世界のファミコンディスクシステムのようなファミコン周辺機器、及びマルチ機器です。この世界ではファミコンCD1989年に発売され、ファミコンディスクシステムを開発中にCDが人気になり、代わりにCD機種が作られました。"
 
 strid "deprecated_about_ar2"
-string "The FamicomCD wasn't just Famicom games with CD quality audio though, it was an excellent upgrade to every aspect of the Famicom:"
+string "ファミコンCDはただCD音声だけではなく、ファミコンを様々な面から改良したものです。"
 
 strid "deprecated_about_arwall"
-string "• A 16-Bit CPU<br><br>• 4 layers allowing for lots of parallax and playfield layering (such as 2 layers to represent foreground and 2 layers to represent backgrounds).<br><br>• CD quality audio<br><br>• 1 Extra DPCM Channel (for a total of 2) and 1 FM Synthesizer Channel when playing CD audio<br><br>• 8 DPCM Channels and 1 Expanded FM Synthesizer Channel when not playing CD audio (All sound is built on the Famicom's original 2A03)<br><br>• Transparency effects on one layer at once only<br><br>• Tilemap/FMV streaming<br><br>• 112 Sprites on screen at once<br><br>• Expanded FamicomCD controllers with a D-PAD, Start, Select, 4 face buttons, and L/R buttons on the top. Despite the new controller, the FamicomCD supports original Famicom controllers, and games can choose to limit which controller can be used.<br><br>• Color upload where the system can upload colors directly to the palette or upload colors directly to a pixel on the screen. These colors are 15bit RGB values instead of the Famicom's specific colors, but colors are uploaded each frame so more CPU time is used)."
+string "•16ビットCPU<br><br>•さらに奥行きのある世界観を作る4つのレイヤーを同時表示<br><br>•CD音声<br><br>•CD音声再生中に使える３つの音声チャンネル<br><br>•CD音声を再生してないときに使える９つの音声チャンネル<br><br>•１レイヤーにかけられる透明効果<br><br>•フルアニメーションシーンを再生できるタイルマッピング<br><br>•112スプライトを同時表示<br><br>•行動ボタンを４つ、上にLRボタンを増やし拡張されたコントローラ（初期のファミコンのコントローラも対応している）<br><br>•スプライトのパレットに限られない15ビットのカラーアップロード."
 
 strid "deprecated_about_riskdesc"
-string "With any unlicensed IP use, there's always a risk of anything happening but considering the precedent of stuff like our project Super Mario Bros. CD being a Super Mario World romhack, an avenue of romhacking that's been around for decades now with very little to no interference of Nintendo, we'd imagine we are just as safe as other SMW hacks have been for years.<br><br>We are not intending to infringe copyright or facilitate piracy with the SMBCD project, nor do we intend on making profit from our projects in any way.<br><br><br>Ultimately, there is no hard yes or no on this matter as Nintendo legally can do whatever they want to a project like this, but we don't really have any reason to think they will for the reasons above."
+string "どのようなシリーズの非公式使用でも、必ず任天堂が開発を停止させるというリスクはあります。しかし、過去の任天堂の行動を確認してみると、スーパーマリオワールドは何十年もハックされているゲームで、任天堂から法的中断がされていないものなので、あまり心配をする理由はないと思われます。<br><br>このモッドの開発で任天堂のソフトの著作権、および海賊版を広めるつもりはなく、当ハックから経済的利益をするつもりはありません。<br><br>最終的には任天堂が著作権を持つため、完全に安全だとは言いませんが、特に特別にこのハックが停止の危機にはないと思われます。"
 

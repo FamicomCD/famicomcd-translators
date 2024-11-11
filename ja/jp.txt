@@ -20,10 +20,10 @@ strid "contact_button"
 string "連絡先"
 
 strid "language_button"
-string "言語選択　jp"
+string "言語選択 🇯🇵"
 
 strid "legal_mumbo_jumbo"
-string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a data-linkid="about_famicomcd" href="#" class="learnmorefooter">Learn More ➜</a>"
+string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
 string "© 2022-2024  FamicomCD開発連盟, King Mayro"
@@ -221,7 +221,7 @@ string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切�
 & Images &
 
 imgid "famicomcd_main_logo"
-imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogojp.png"
 
 imgid "discord_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
@@ -230,7 +230,7 @@ imgid "translators_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
 imgid "smbcd_main_logo"
-imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
+imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogojp.png"
 
 imgid "deprecated_general_back_button"
 imagesrc "https://famicomcd.org/graphics/banners/back.png"

@@ -8,10 +8,10 @@ We will not accept translations created using Google Translate or other translat
 Our list of currently supported languages are:
 - English (en),
 - Español (es) (managed by ![famicomCD](https://github.com/ThunderLionForever.png?size=20) [ThunderLeon](https://bsky.app/profile/thunderleon7.bsky.social)),
-- 日本語 (ja) (managed by ![famicomCD](https://github.com/JessDoesVids.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)) (In Progress),
+- 日本語 (ja) (managed by ![famicomCD](https://github.com/JessDoesVids.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)),
 - Italiano (it) (managed by ![famicomCD](https://github.com/Peppe021203.png?size=20) [Peppe](https://twitter.com/Peppe021203)),
 - Русский (ru) (managed by ![famicomCD](https://github.com/eugenephil.png?size=20) [Phil](https://bsky.app/profile/philmarseille.bsky.social)),
-- Français (fr) (managed by ![famicomCD](https://github.com/Lemongrwab.png?size=20) [Lemongrwab](https://github.com/Lemongrwab)} (In Progress)
+- Français (fr) (managed by ![famicomCD](https://github.com/Lemongrwab.png?size=20) [Lemongrwab](https://github.com/Lemongrwab))
 
 
 # Pull Requests and Issues

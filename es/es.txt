@@ -230,7 +230,7 @@ imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
 imgid "translators_main_page_banner"
 imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
 
-imgid "kofi_main_page_banner"
+imgid "smbcd_main_logo"
 imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
 
 imgid "deprecated_general_back_button"

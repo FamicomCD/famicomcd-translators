@@ -28,7 +28,8 @@ string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trade
 strid "copyright"
 string "© 2022-2024  FamicomCD Team, King Mayro"
 
-
+strid "back_button"
+string "Back"
 
 
 & Main Page &
@@ -60,7 +61,7 @@ strid "support_sheet_smbcd_button"
 string "Support Sheet"
 
 strid "tutorial_smbcd_button"
-string "Installation Tutorial"
+string "Installation Tutorials"
 
 strid "smbcd_team_button"
 string "SMBCD Team Members"
@@ -215,6 +216,114 @@ strid "about_copyright_legal_desc"
 string "FamicomCD and the FamicomCD Team are not affiliated with Nintendo in any way. The names Famicom and Family Computer, as well as related trademarks, are owned by Nintendo. The FamicomCD branding, mascot (Discette), and font (FamicomCD Logo Font Family) are property of King Mayro.<br><br>Any projects sold for monetary gain (such as cartridges, CD-ROMs, or soundtrack CDs) are not produced, supported, or endorsed by the FamicomCD Team. All projects created by the FamicomCD Team are free and will remain free.<br><br>FamicomCD does not host, share, or provide links to ROMs, ROM websites, or instructions for downloading ROMs.<br><br>Mario, Luigi, Yoshi, and related characters are the property of Nintendo. The Archipelago of Brixurei, Barracuda Barry, soundtrack, and other original concepts are the intellectual property of the FamicomCD Team and The Super Mario Bros. CD Team."
 
 
+
+& Installation Guides &
+
+strid "install_desc"
+string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel to contact us on Discord or email us!"
+
+strid "install_note_automatic"
+string "Automatic"
+
+strid "install_note_manual"
+string "Manual"
+
+strid "install_note_windows"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+
+strid "install_note_pc"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+
+strid "install_method_smbcmd"
+string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
+
+strid "install_method_flips"
+string "Patching with Floating IPS"
+
+strid "install_method_marc"
+string "Patching with Marc Robledo's Online Patcher"
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+
+
+& SMBCD Page &
+
+strid "smbcd_button_story"
+string "Story and Game Info"
+
+strid "smbcd_button_play_bgm"
+string "Play BGM"
+
+strid "smbcd_button_learn_more"
+string "Learn More ➜"
+
+strid "smbcd_support_tagline"
+string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the support sheet."
+
+strid "smbcd_name_powerup_mushroom"
+string "Super Mushroom"
+
+strid "smbcd_name_powerup_flower"
+string "Fire Flower"
+
+strid "smbcd_name_powerup_star"
+string "Starman"
+
+strid "smbcd_desc_powerup_mushroom"
+string "Bash bricks with your head!"
+
+strid "smbcd_desc_powerup_flower"
+string "Shoot fire from your fingertips at enemies!"
+
+strid "smbcd_desc_powerup_star"
+string "Invincibility against most threats aside from pits!"
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
+
+strid ""
+string ""
 
 
 

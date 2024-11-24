@@ -240,9 +240,9 @@ string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
 strid "install_method_flips"
 string "Patching with Floating IPS"
 
-
 strid "install_method_marc"
 string "Patching with Marc Robledo's Online Patcher"
+
 
 strid "install_guide_requirements"
 string "For this method you will need:"
@@ -258,6 +258,9 @@ string "A zip archive extractor (we heavily recommend <a href="https://www.7-zip
 
 strid "install_guide_marc_requirements"
 string "A zip archive extractor<br>A web browser"
+
+strid "install_guide_warning"
+string "<b>Important:</b> You need your own USA Super Mario World ROM to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get a ROM if you don't want to, or are unable to dump your own cartridge."
 
 
 

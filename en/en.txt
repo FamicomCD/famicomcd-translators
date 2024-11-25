@@ -248,16 +248,16 @@ strid "install_guide_requirements"
 string "For this method you will need:"
 
 strid "install_guide_autopatcher_requirements"
-string "A computer running a version of Windows OS."
+string "- A computer running a version of Windows OS."
 
 strid "install_guide_autopatcher_py_requirements"
-string "A device with Python 3.12 or above."
+string "- A device with Python 3.12 or above."
 
 strid "install_guide_flips_requirements"
-string "A zip archive extractor (we heavily recommend <a href="https://www.7-zip.org/">7-Zip</a>)<br>A computer running a version of Windows or Linux OS.<br><a href="https://github.com/Alcaro/Flips">Floating IPS</a>"
+string "- A zip archive extractor (we heavily recommend <a href="https://www.7-zip.org/">7-Zip</a>)<br>- A computer running a version of Windows or Linux OS.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
-string "A zip archive extractor<br>A web browser"
+string "- A zip archive extractor<br>- A web browser"
 
 strid "install_guide_warning"
 string "<b>Important:</b> You need your own USA Super Mario World ROM to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get a ROM if you don't want to, or are unable to dump your own cartridge."
@@ -266,8 +266,11 @@ string "<b>Important:</b> You need your own USA Super Mario World ROM to patch S
 
 & Flips &
 
-strid "install_guide_flips_prestep_button"
-string "Pre-setup for 7-Zip and Floating IPS"
+strid "install_guide_flips_prestep_button_show"
+string "Pre-setup for 7-Zip and Floating IPS ▼"
+
+strid "install_guide_flips_prestep_button_hide"
+string "Pre-setup for 7-Zip and Floating IPS ▲"
 
 strid "install_guide_flips_prestep_step1"
 string "p.1. Visit the <a href="https://www.7-zip.org/">7-Zip website</a>"
@@ -287,8 +290,11 @@ string "1. Download a zip archive SMBCD build from the <a href="https://famicomc
 strid "install_guide_flips_marc_step2"
 string "2. Extract the build zip file to your folder or directory of choice."
 
-strid "install_guide_flips_marc_step2_detailed_button"
-string "Detailed Step 2"
+strid "install_guide_flips_marc_step2_detailed_button_show"
+string "Detailed Step 2 ▼"
+
+strid "install_guide_flips_marc_step2_detailed_button_hide"
+string "Detailed Step 2 ▲"
 
 strid "install_guide_flips_marc_step2_detailed_stepa"
 string "2.a. Open the zip file"
@@ -302,8 +308,11 @@ string "2.c. Drag and drop them into your folder or directory of choice"
 strid "install_guide_flips_step3"
 string "3. Open Floating IPS and Select "Apply Patch", then patch SMBCD.bps to your SMW ROM."
 
-strid "install_guide_flips_marc_step3_detailed_button"
-string "Detailed Step 3"
+strid "install_guide_flips_marc_step3_detailed_button_show"
+string "Detailed Step 3 ▼"
+
+strid "install_guide_flips_marc_step3_detailed_button_hide"
+string "Detailed Step 3 ▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
 string "3.a. Open Floating IPS"

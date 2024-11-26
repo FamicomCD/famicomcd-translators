@@ -61,7 +61,7 @@ strid "support_sheet_smbcd_button"
 string "Список эмуляторов"
 
 strid "tutorial_smbcd_button"
-string "Гайд по установке"
+string "Как установить"
 
 strid "smbcd_team_button"
 string "Члены команды SMBCD"

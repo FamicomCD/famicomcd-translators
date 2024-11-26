@@ -560,7 +560,7 @@ strid "deprecated_download_speedrundemo_2.2"
 string "SMBCD Speedrun Comp. Demo v2.2"
 
 strid "deprecated_download_"
-string "Speedrun Comp. Demo v2.2 (Зеркало)"
+string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 
 
 strid "deprecated_speedrun_name"

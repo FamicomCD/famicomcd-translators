@@ -560,7 +560,7 @@ strid "deprecated_download_speedrundemo_2.2"
 string "スピードラン大会デモv2.2"
 
 strid "deprecated_download_"
-string "大会デモミラー"
+string "スピードラン大会デモv2.2 Auto-patcher"
 
 
 strid "deprecated_speedrun_name"

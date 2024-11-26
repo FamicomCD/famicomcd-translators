@@ -28,7 +28,8 @@ string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はな
 strid "copyright"
 string "© 2022-2024  FamicomCD開発連盟, King Mayro"
 
-
+strid "back_button"
+string "Back"
 
 
 & Main Page &
@@ -214,6 +215,172 @@ string "法律情報"
 strid "about_copyright_legal_desc"
 string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切関係ありません。ファミコン、ファミリーコンピュータの名称、及び関連する著作物は任天堂のものとなります。ファミコンCD、ディスケット、及びファミコンCDロゴフォントはKing Mayroのものとなります。<br><br>カートリッジ、CD-ROMやサウンドトラックCDなど、経済的利益をするつもりで売られている商品はFamicomCD開発連盟により制作されているものではなく、承認されていません。FamicomCD開発連盟により制作されたものは配信されている限り永久的に無料で提供されます。<br><br>FamicomCDはROMやROM配信サイトへのリンクやダウンロードの仕方を制作、提供を一切していません。<br><br>マリオ、ルイージ、ヨッシー、及び関連しているキャラクターは任天堂の著作物です。ブルクセイ諸島、バラクーダバリー、ゲーム内の音楽及びゲームに含まれる新しい内容はFamicomCD開発連盟、及びスーパーマリオブラザーズCD開発連盟の著作物です。"
 
+
+
+& Installation Guides &
+
+strid "install_desc"
+string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+
+strid "install_note_automatic"
+string "Automatic"
+
+strid "install_note_manual"
+string "Manual"
+
+strid "install_note_windows"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+
+strid "install_note_pc"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+
+strid "install_method_smbcmd"
+string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
+
+strid "install_method_flips"
+string "Patching with Floating IPS"
+
+strid "install_method_marc"
+string "Patching with Marc Robledo's Online Patcher"
+
+
+strid "install_guide_requirements"
+string "For this method you will need:"
+
+strid "install_guide_autopatcher_requirements"
+string "- A computer running a version of Windows OS."
+
+strid "install_guide_autopatcher_py_requirements"
+string "- A device with Python 3.12 or above."
+
+strid "install_guide_flips_requirements"
+string "- A zip archive extractor (we heavily recommend <a href="https://www.7-zip.org/">7-Zip</a>)<br>- A computer running a version of Windows or Linux OS.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+
+strid "install_guide_marc_requirements"
+string "- A zip archive extractor<br>- A web browser"
+
+strid "install_guide_warning"
+string "<b>Important:</b> You need your own USA Super Mario World ROM to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get a ROM if you don't want to, or are unable to dump your own cartridge."
+
+
+
+& Flips &
+
+strid "install_guide_flips_prestep_button_show"
+string "Pre-setup for 7-Zip and Floating IPS ▼"
+
+strid "install_guide_flips_prestep_button_hide"
+string "Pre-setup for 7-Zip and Floating IPS ▲"
+
+strid "install_guide_flips_prestep_step1"
+string "p.1. Visit the <a href="https://www.7-zip.org/">7-Zip website</a>"
+
+strid "install_guide_flips_prestep_step2"
+string "p.2. Navigate to "Downloads", download the latest version, and follow the installer flow (you may need to download an old version depending on your OS version)."
+
+strid "install_guide_flips_prestep_step3"
+string "p.3. Visit the <a href="https://github.com/Alcaro/Flips">Floating IPS Github repository</a>"
+
+strid "install_guide_flips_prestep_step4"
+string "p.4. Navigate to "Releases" and download the latest version"
+
+strid "install_guide_flips_marc_step1"
+string "1. Download a zip archive SMBCD build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
+
+strid "install_guide_flips_marc_step2"
+string "2. Extract the build zip file to your folder or directory of choice."
+
+strid "install_guide_flips_marc_step2_detailed_button_show"
+string "Detailed Step 2 ▼"
+
+strid "install_guide_flips_marc_step2_detailed_button_hide"
+string "Detailed Step 2 ▲"
+
+strid "install_guide_flips_marc_step2_detailed_stepa"
+string "2.a. Open the zip file"
+
+strid "install_guide_flips_marc_step2_detailed_stepb"
+string "2.b. Highlight all of the files with ctrl + A"
+
+strid "install_guide_flips_marc_step2_detailed_stepc"
+string "2.c. Drag and drop them into your folder or directory of choice"
+
+strid "install_guide_flips_step3"
+string "3. Open Floating IPS and Select <q>Apply Patch</q>, then patch SMBCD.bps to your SMW ROM."
+
+strid "install_guide_flips_marc_step3_detailed_button_show"
+string "Detailed Step 3 ▼"
+
+strid "install_guide_flips_marc_step3_detailed_button_hide"
+string "Detailed Step 3 ▲"
+
+strid "install_guide_flips_step3_detailed_stepa"
+string "3.a. Open Floating IPS"
+
+strid "install_guide_flips_step3_detailed_stepb"
+string "3.b. Click the <q>Apply Patch</q> button"
+
+strid "install_guide_flips_step3_detailed_stepc"
+string "3.c. Navigate to the folder you stored your SMBCD files in and select SMBCD.bps"
+
+strid "install_guide_flips_step3_detailed_stepd"
+string "3.d. Navigate to the folder your SMW ROM is stored in and select it"
+
+strid "install_guide_flips_step3_detailed_stepe"
+string "3.e. Return to the folder your SMBCD files are stored in and save the patched ROM as SMBCD.smc or SMBCD.sfc"
+
+strid "install_guide_flips_marc_step4"
+string "4. Test if the patch was successful by opening the ROM in your emulator of choice. If the game starts, you've patched it correctly and you are ready to play and you can ignore step 5!<br><br>If the MSU-1 missing screen appears, you have patched it correctly, but there was a problem detecting the MSU-1 files. Move on to step 5 to troubleshoot."
+
+strid "install_guide_flips_marc_step5"
+string "5. Make sure the PCM and MSU files are in the same folder and the same name as the ROM. (Ex. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>In Windows, if you have file extensions disabled, that can cause issues with identifying file names. You can enable file extensions in File Explorer by going to <q>View</q> and checking the <q>File name extensions</q> checkbox on the top panel.<br><br>If everything seems set up correctly, make sure your emulator is supported in the <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
+
+
+
+& Marc Patcher &
+
+strid "install_guide_marc_step3"
+string "3. Open <a href="https://www.marcrobledo.com/RomPatcher.js/">Marc Robledo's Online Patcher</a>, then patch SMBCD.bps to your SMW ROM. (If the patcher is showing the warning <q>Source ROM checksum mismatch</q>, check the <q>Remove header</q> checkbox)."
+
+strid "install_guide_marc_step3_detailed_stepa"
+string "3.a. <a href="https://www.marcrobledo.com/RomPatcher.js/">Open Marc Robledo's Online Patcher</a>"
+
+strid "install_guide_marc_step3_detailed_stepb"
+string "3.b. Click the <q>No file selected.</q> button next to <q>ROM File:</q>"
+
+strid "install_guide_marc_step3_detailed_stepc"
+string "3.c. Navigate to the folder your SMW ROM is stored in and select it"
+
+strid "install_guide_marc_step3_detailed_stepd"
+string "3.d. Click the <q>No file selected.</q> button next to <q>Patch File:</q>"
+
+strid "install_guide_marc_step3_detailed_stepe"
+string "3.e. Navigate to the folder you stored your SMBCD files in and select SMBCD.bps"
+
+strid "install_guide_marc_step3_detailed_stepf"
+string "3.f. Click <q>Apply Patch</q>, (If the patcher is showing the warning <q>Source ROM checksum mismatch</q>, check the <q>Remove header</q> checkbox)"
+
+strid "install_guide_marc_step3_detailed_stepg"
+string "3.g. Navigate to the folder your SMBCD files are stored in and save the patched ROM as SMBCD.smc or SMBCD.sfc"
+
+
+
+& AutoPatcher &
+
+strid "install_guide_autopatcher_step1"
+string "1. Download an SMBCD Auto-Patcher build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
+
+strid "install_guide_autopatcher_step2"
+string "2. Open the program. It should open to a command prompt-esque window."
+
+strid "install_guide_autopatcher_step3"
+string "3. Drag and drop your SMW ROM into the window, then hit enter."
+
+strid "install_guide_autopatcher_step4"
+string "4. Drag and drop the folder you want to hold all of your SMBCD files into the window, then hit enter."
+
+strid "install_guide_autopatcher_step5"
+string "5. Test if the game starts as normal. If the MSU-1 missing screen appears, make sure your emulator is supported in the <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
 
 
 

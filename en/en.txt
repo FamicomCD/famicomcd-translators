@@ -220,7 +220,7 @@ string "FamicomCD and the FamicomCD Team are not affiliated with Nintendo in any
 & Installation Guides &
 
 strid "install_desc"
-string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel free to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
 
 strid "install_note_automatic"
 string "Automatic"
@@ -513,62 +513,6 @@ string "• A few new and original power-ups that will assist you in your journe
 
 strid "deprecated_smbcd_footnote5"
 string "• Many old and new, unfamiliar foes that will attempt to cut your journey short."
-
-
-
-
-strid "deprecated_tutorial_thingstonote"
-string "Things to Note"
-
-strid "deprecated_tutorial_videoversion"
-string "Video Version of the Guide"
-
-strid "deprecated_tutorial_setup"
-string "Setting up SMBCD and MSU-1"
-
-strid "deprecated_tutorial_note1"
-string "This guide covers both how to install Super Mario World (SMW) rom hacks, and how to use MSU-1. Though the guide mentions SMBCD, the instructions could apply to most other Super NES rom hacks."
-
-strid "deprecated_tutorial_note2"
-string "MSU-1 is the main way that SMBCD delivers its rich CD quality audio among other features that a real Super NES would struggle with, and as such MSU-1 is required for SMBCD to start. If you're missing MSU-1 or haven't installed it correctly, SMBCD will not start. If you have followed the guide and installed all the required MSU-1 files but SMBCD still will not start, check if your emulator supports MSU-1 or join the FamicomCD Discord for support."
-
-strid "deprecated_tutorial_note3"
-string "<b>Important: </b>You need your own USA Super Mario World game file to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get the game files if you don't want to or can't dump your own cartridge."
-
-strid "deprecated_tutorial_note4"
-string "(The first few steps are for general SMW Hack setup. If you already know how to set up SMW hacks, skip to step 5)."
-
-strid "deprecated_tutorial_note5"
-string "*PCM files only half follow this rule as they need their track number to come after the name. This is indicated by the hyphen and the number."
-
-
-strid "deprecated_tutorial_methodflips"
-string "Floating IPS Method"
-
-strid "deprecated_tutorial_methodmarc"
-string "Marc's Online Patcher Method"
-
-
-strid "deprecated_tutorial_step1"
-string "<b>Step 1: </b>First of all, download a SMBCD build from the <a href="https://famicomcd.org/smbcd/download">Version Downloads</a> page. It will download as a zip file."
-
-strid "deprecated_tutorial_step2"
-string "<b>Step 2: </b>Open the zip to reveal its contents. If you don't have a zip archive opener, we recommend using 7-Zip."
-
-strid "deprecated_tutorial_step3"
-string "<b>Step 3: </b>When opening the zip archive to a SMBCD build, you will see the SMBCD BPS patch file, an MSU file, and PCM files. You only have to worry about the BPS for now. This is where your USA SMW game file comes into play."
-
-strid "deprecated_tutorial_step4"
-string "<b>Step 4: </b>Patch the SMBCD BPS to the USA SMW game file using <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> or <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
-
-strid "deprecated_tutorial_step5"
-string "<b>Step 5: </b>Once you have your SMBCD game file, test if it works. If the MSU-1 required screen appears, you've patched it correctly, but you're not done yet. You'll need the MSU-1 files to complete the installation."
-
-strid "deprecated_tutorial_step6"
-string "<b>Step 6: </b>Remember the MSU file and PCM files from before? You need these files to be in the same directory and the same name* as your SMBCD game file. For organization, it's recommended that you store all of SMBCD's files in a folder of its own."
-
-strid "deprecated_tutorial_step7"
-string "<b>Step 7: </b>Once all of the files are in place, SMBCD should start as normal. If you are still getting the MSU-1 is missing error, please make sure your emulator is supported under the  <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Support Sheet</a> or join the FamicomCD Discord for support."
 
 
 strid "deprecated_smbcdteam_meet"

@@ -450,62 +450,6 @@ strid "deprecated_smbcd_footnote5"
 string "• Множество старых и новых противников, которые попытаются вас остановить."
 
 
-
-
-strid "deprecated_tutorial_thingstonote"
-string "Что нужно учитывать"
-
-strid "deprecated_tutorial_videoversion"
-string "Видео-версия гайда"
-
-strid "deprecated_tutorial_setup"
-string "Установка SMBCD и MSU-1"
-
-strid "deprecated_tutorial_note1"
-string "Этот гайд подходит как для установки SMW ромхаков, так и для установки пачта MSU-1. Несмотря на упоминание SMBCD, эта инструкция применима и для других игр, выходивших на SNES."
-
-strid "deprecated_tutorial_note2"
-string "С помощью MSU-1, SMBCD имеет саундтрек CD-качества, в то время как на самой SNES такое реализовать невозможно, а потому MSU-1 патч необходим для запуска игры. Если он отсутствует или установлен неправильно, игра не запустится. Если вы всё сделали по инструкции, но игра всё равно не запускается, проверьте ваш эмулятор на совместимость с игрой или же заходите на Discord сервер FamicomCD за помощью."
-
-strid "deprecated_tutorial_note3"
-string "<b>Важно: </b>Для патча, вам необходим ROM файл Super Mario World американского (USA) региона. Мы рекомендуем вам сдампить ROM файл с оригинального картриджа. Здесь не будет указано, где найти ROM файл игры, если вы не можете или не хотите делать дамп картриджа."
-
-strid "deprecated_tutorial_note4"
-string "(Первые шаги этого раздела применимы и для других ромхаков. Если вы знаете как их ставить, переходите к 5 шагу)."
-
-strid "deprecated_tutorial_note5"
-string "*PCM файлы необходимо называть тем же именем, что и у пропатченного образа игры, необходимо это для того, чтобы эмулятор увидел треки патча при запуске игры."
-
-
-strid "deprecated_tutorial_methodflips"
-string "Через Floating IPS"
-
-strid "deprecated_tutorial_methodmarc"
-string "Через Marc's Online Patcher"
-
-
-strid "deprecated_tutorial_step1"
-string "<b>Шаг 1: </b>В первую очередь, скачайте SMBCD <a href="https://famicomcd.org/smbcd/download">Архив версий</a> отсюда. Вы скачаете ZIP архив."
-
-strid "deprecated_tutorial_step2"
-string "<b>Шаг 2: </b>Откройте ZIP архив и распакуйте его в удобное вам место. Если у вас нету архиватора, мы рекомендуем 7-Zip."
-
-strid "deprecated_tutorial_step3"
-string "<b>Шаг 3: </b>Найдите в архиве BPS патч и выложите его в распакованную папку. Начиная с этого момента, вам пригодится ROM файл."
-
-strid "deprecated_tutorial_step4"
-string "<b>Шаг 4: </b>Пропатчите ROM-файл, используя BPS-файл и <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> либо <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
-
-strid "deprecated_tutorial_step5"
-string "<b>Шаг 5: </b>Уже пропатченный ROM файл запускаем в эмуляторе и проверяем, правильно ли вы всё сделали. Если появилось сообщение об обязательном наличии файлов от MSU-1 патча, значит вы всё сделали правильно."
-
-strid "deprecated_tutorial_step6"
-string "<b>Шаг 6: </b>Помимо BPS патча, в архиве вы могли заметить MSU и PCM файлы. Они и представляют собой MSU-1 патч. Переложите в распакованную папку с ROM-ом файлы от патча. Самое главное, чтобы название ROM файла совпадало с названиями MSU и PCM файлов."
-
-strid "deprecated_tutorial_step7"
-string "<b>Шаг 7: </b>После того, как вы всё сделали, игра должна запустится нормально. Если же нет, то проверьте совместимость вашего эмулятора <a href="https://famicomcd.org/smbcd/supportsheet">здесь</a> или заходите в Discord-сервер за помощью."
-
-
 strid "deprecated_smbcdteam_meet"
 string "Встречайте команду The Super Mario Bros. CD"
 

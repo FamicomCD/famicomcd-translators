@@ -220,7 +220,7 @@ string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切�
 & Installation Guides &
 
 strid "install_desc"
-string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel free to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
 
 strid "install_note_automatic"
 string "Automatic"
@@ -448,62 +448,6 @@ string "•ゲームを進めるために役立ついくつもの新しいアイ
 
 strid "deprecated_smbcd_footnote5"
 string "•マリオの冒険を止めようとする懐かしい敵、新しい敵盛りだくさん"
-
-
-
-
-strid "deprecated_tutorial_thingstonote"
-string "知っておくこと"
-
-strid "deprecated_tutorial_videoversion"
-string "動画ガイド"
-
-strid "deprecated_tutorial_setup"
-string マリオCD、MSU-1"
-
-strid "deprecated_tutorial_note1"
-string "このガイドではスーパーマリオワールドのハックをインストールする方法、またMSU-1をセットアップする方法を説明します。ここではマリオCDの話をしますが、基本的にはこのガイドはどんなハックでも同じように適用できます。"
-
-strid "deprecated_tutorial_note2"
-string "マリオCDはMSU-1を使って本来普通のスーパーファミコンでは出せないCD音声を演奏するため、マリオCDを遊ぶにとってMSU-1は必須です。MSU-1が正しくインストールされていない場合、マリオCDは起動しません。ガイド通りにインストールしたにかかわらずマリオCDが起動できない場合、エミュレータがMSU-1に対応していることを確認し、FamicomCDのDiscordからサポートにお問い合わせください。"
-
-strid "deprecated_tutorial_note3"
-string "<b>＜重要＞</b>マリオCDのBPSファイルをパッチするには米国版のスーパーマリオワールドのゲームファイルが必要です。基本的には自分が持っているカートリッジを合法的にデータ化することを勧めます。"
-
-strid "deprecated_tutorial_note4"
-string "(すでにスーパーマリオワールドのハックのインストールの仕方がわかる人はステップ５から読んでください。)"
-
-strid "deprecated_tutorial_note5"
-string "*PCMファイルはファイル名にトラック番号が必要です。ハイフンと数字は一切消したり、変更したりしないでください。"
-
-
-strid "deprecated_tutorial_methodflips"
-string "Floating IPSでパッチ"
-
-strid "deprecated_tutorial_methodmarc"
-string "Marc's Online Patcherでパッチ"
-
-
-strid "deprecated_tutorial_step1"
-string "<b>ステップ１：</b>マリオCDのファイルを<a href="https://famicomcd.org/smbcd/download">ダウンロード</a>ページから入手してください。ZIPファイルとしてダウンロードされます。"
-
-strid "deprecated_tutorial_step2"
-string "<b>ステップ２：</b>ZIPを解凍してください。解凍の仕方がない場合、7-Zipが勧められています。"
-
-strid "deprecated_tutorial_step3"
-string "<b>ステップ３：</b>ZIPファイルを開いたとき、BPSファイル、MSUファイルと複数のPCMファイルがあることを確認してください。また、マリオワールドのファイルがあることを確認してください。"
-
-strid "deprecated_tutorial_step4"
-string "<b>ステップ４：</b><a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a>、または<a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>を使いマリオCDのBPSをマリオワールドにパッチしてください。"
-
-strid "deprecated_tutorial_step5"
-string "<b>ステップ５：</b>マリオCDのゲームファイルがあると確認できた後、正しく作動しているか見てください。MSU-1が必要という画面が見えたら正しくインストールできています。"
-
-strid "deprecated_tutorial_step6"
-string "<b>ステップ６：</b>フォルダに入っているMSUファイル、PCMファイルをマリオCDのゲームファイルと同名にしてください。*整理するため、マリオCDのファイルをすべて一つのフォルダに入れることを勧めます。"
-
-strid "deprecated_tutorial_step7"
-string "<b>ステップ７：</b>ファイルがすべて規定通りに整理されている場合、マリオCDは正しく起動します。まだMSU-1がないとエラーが出ている場合、<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>からエミュレータがサポートされているか確認し、FamicomCDのDiscordからサポートをお問い合わせください。"
 
 
 strid "deprecated_smbcdteam_meet"

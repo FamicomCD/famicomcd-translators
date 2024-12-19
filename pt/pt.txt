@@ -35,7 +35,7 @@ string "Voltar"
 & Main Page &
 
 strid "main_page_tagline"
-string "Oiê! Bemvindo(a) para a repaginação beta do site FamicomCD! Tem alguma sugestão? Junte-se ao nosso <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">mande-nos um email</a>!"
+string "Oiê! Bemvindo(a) para a repaginação beta do site FamicomCD! Tem alguma sugestão? Junte-se ao nosso <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">mande-nos um e-mail</a>!"
 
 
 
@@ -77,7 +77,7 @@ strid "support_sheet_description"
 string "Como SMBCD é uma ROM Hack e não um jogo de computador, suporte de emulador e hardware é vital para uma experiência suave."
 
 strid "support_sheet_description_p2"
-string "Se você está usando um emulador ou hardware que não está na lista abaixo, sinta-se livre para enviar comentários via <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou por <a href="mailto:support@famicomcd.org">nosso email</a>. Se você está procurando informação sobre Cartões SD para o FXPak Pro/SD2SNES, por favor verifique a <a href="https://sd2snes.de/blog/card-list">lista de cartões SD2SNES</a>."
+string "Se você está usando um emulador ou hardware que não está na lista abaixo, sinta-se livre para enviar comentários via <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou por <a href="mailto:support@famicomcd.org">nosso e-mail</a>. Se você está procurando informação sobre Cartões SD para o FXPak Pro/SD2SNES, por favor verifique a <a href="https://sd2snes.de/blog/card-list">lista de cartões SD2SNES</a>."
 
 strid "support_sheet_description_p3"
 string "Para mais informações sobre um emulador (ou hardware) incluindo precisão e links, clique no painel de emulator/hardware."
@@ -219,19 +219,19 @@ string "O FamicomCD e a equipe do FamicomCD não são afiliados de forma alguma 
 & Installation Guides &
 
 strid "install_desc"
-string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel free to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Estes guias cobrem como instalar Super Mario Bros. CD (SMBCD), e como usar o MSU-1. Se for usar os métodos manuais, o processo de patch pode aplicar a outras rom hacks também. Se você está tendo problemas com o processo de instalação, fique a vontade para entrar em contato no <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou no <a href="mailto:support@famicomcd.org">e-mail</a>!"
 
 strid "install_note_automatic"
-string "Automatic"
+string "Automático"
 
 strid "install_note_manual"
 string "Manual"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Só para Windows"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Só para PC"
 
 strid "install_method_smbcmd"
 string "SMBC(M)D - Usando o Auto-Patcher Super Mario Bros. CD "

@@ -35,7 +35,7 @@ string "Voltar"
 & Main Page &
 
 strid "main_page_tagline"
-string "Oiê! Bemvindo(a) para a repaginação beta do site FamicomCD! Tem alguma sugestão? Junte-se ao nosso<a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">mande-nos um email</a>!"
+string "Oiê! Bemvindo(a) para a repaginação beta do site FamicomCD! Tem alguma sugestão? Junte-se ao nosso <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">mande-nos um email</a>!"
 
 
 

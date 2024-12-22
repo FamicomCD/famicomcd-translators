@@ -228,7 +228,7 @@ strid "install_note_manual"
 string "Manuale"
 
 strid "install_note_usage"
-string "Usage
+string "Uso"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Solo Windows"
@@ -246,7 +246,7 @@ strid "install_method_marc"
 string "Patchare con l'Online Patcher di Marc Robledo"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Usare SMBCD su Retroarch per iOS"
 
 
 strid "install_guide_requirements"

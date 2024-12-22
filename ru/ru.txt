@@ -228,13 +228,13 @@ strid "install_note_manual"
 string "Вручную"
 
 strid "install_note_usage"
-string "Usage
+string "Подробнее"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Только для Windows"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Только для PC"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Только для Win/Linux"
 
 strid "install_method_smbcmd"
 string "Метод с использованием Super Mario Bros. CD Auto-Patcher"
@@ -246,7 +246,7 @@ strid "install_method_marc"
 string "Метод с использованием Marc Robledo's Online Patcher"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Установка в RetroArch для iOS"
 
 
 strid "install_guide_requirements"
@@ -392,22 +392,22 @@ string "5. Проверьте, правильно ли был применен �
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "Из-за особенностей iOS, файловая система Retroarch-а на iPhone-нах довольна специфичная. В зависимости от того, где вы храните файлы для эмулятора, у вас может и не быть проблем в виде отсутствия музыки или ошибки об необходимости установки MSU-1."
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "В данном гайде мы постарались покрыть решение для этих проблем. В остальных случаях, вам возможно придётся связаться с нами."
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "Переместите папку с игрой в папку загрузок эмулятора; Её можно найти здесь:"
 
 strid "tutorial_ios_retroarch_step1_directory"
 string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "После чего, откройте Retroarch, и откройте игру в папке загрузок через <q>Load Content</q> меню (Для этого выберите раздел папки <q>Downloads</q>, а не <q>Open...</q>). Затем, выберите BSNES или SNES9X ядро (Если вы планируете играть через SNES9x, то убедитесь в том, что это не версии от 2005 и 2010 годов)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "Voilà! У вас больше нету назойливых ошибок при запуске игры!"
 
 
 & Images &

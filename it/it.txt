@@ -401,7 +401,7 @@ strid "tutorial_ios_retroarch_step1"
 string "Sposta i tuoi file di SMBCD alla cartella downloads di Retroarch; la puoi trovare in"
 
 strid "tutorial_ios_retroarch_step1_directory"
-string "Esplora > Sul Mio iPhone > Retroarch > Retroarch > Downloads"
+string "Sfoglia > iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
 string "In seguito, apri Retroarch, e naviga verso la carella downloads dal menù <q>Load Content</q> (Assicurati di caricare attraverso <q>Downloads</q> e non <q>Open...</q>). Poi, seleziona il core di BSNES o di SNES9x (se vuoi usare SNES9x, assicurati che non siano i core 2005 o 2010)."

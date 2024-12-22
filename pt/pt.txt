@@ -404,7 +404,7 @@ strid "tutorial_ios_retroarch_step1_directory"
 string "Navegar > No meu iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Depois disso, abra o Retroarch, e vá até a pasta de downloads no menu <q>Carregar Conteúdo</q> (Certifique-se de carregar via <q>Downloads</q> e não <q>Open...</q>). Então, selecione o núcleo BSNES ou SNES9x (se você planeja em usar SNES9x, certifique-se de que não é o núcleo 2005 ou 2010)."
+string "Depois disso, abra o Retroarch, e vá até a pasta de downloads no menu <q>Carregar Conteúdo</q> (Certifique-se de carregar via <q>Downloads</q> e não <q>Abrir...</q>). Então, selecione o núcleo BSNES ou SNES9x (se você planeja em usar SNES9x, certifique-se de que não é o núcleo 2005 ou 2010)."
 
 strid "tutorial_ios_retroarch_note3"
 string "Voilà! Sem tela de MSU-1 ausente, e mais música!"

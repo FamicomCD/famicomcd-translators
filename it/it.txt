@@ -335,7 +335,7 @@ strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Ritorna alla cartella dove sono conservati i file di SMBCD e salva la ROM patchata come SMBCD.smc o come SMBCD.sfc"
 
 strid "install_guide_flips_marc_step4"
-string "4. Prova a vedere se la patch ha avuto successo aprendo la ROM in un emulatore a tua scelta. Se il gioco parte, l'hai patchato correttamente, sei pronto a giocare e puoi ignorare lo step 5!<br><br> Se compare la schermata "MSU-1 Missing", l'hai patchato correttamente, ma c'è stato un problema nel rilevare i file MSU-1. Passa allo step 5 per la risoluzione dei problemi."
+string "4. Prova a vedere se la patch ha avuto successo aprendo la ROM in un emulatore a tua scelta. Se il gioco parte, l'hai patchato correttamente, sei pronto a giocare e puoi ignorare lo step 5!<br><br> Se compare la schermata </q>MSU-1 Missing</q>, l'hai patchato correttamente, ma c'è stato un problema nel rilevare i file MSU-1. Passa allo step 5 per la risoluzione dei problemi."
 
 strid "install_guide_flips_marc_step5"
 string "5. Assicurati che i file PCM e MSU siano nella stessa cartella e con lo stesso nome della ROM. (Es. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Su Windows, se hai le estensioni nomi file disabilitate, questo può causare problemi nell'identificazione dei nomi file. Puoi abilitare le estensioni nomi file su Esplora File andando su <q>Visualizza</q> e spuntando la casella <q>Estensioni nomi file</q> sul pannello in cima.<br><br>Se tutto sembra essere settato correttamente, assicurati che il tuo emulatore sia supportato nella <a href="https://famicomcd.org/smbcd/supportsheet">Tabella di Supporto</a>."
@@ -385,29 +385,29 @@ strid "install_guide_autopatcher_step4"
 string "4. Trascina e rilascia la cartella dove vuoi contenere tutti i file di SMBCD nella finestra, poi premi invio."
 
 strid "install_guide_autopatcher_step5"
-string "5. Prova a vedere se il gioco parte normalmente. Se compare la schermata "MSU-1 Missing", assicurati che il tuo emulatore sia supportato nella <a href="https://famicomcd.org/smbcd/supportsheet">Tabella di Supporto</a>."
+string "5. Prova a vedere se il gioco parte normalmente. Se compare la schermata </q>MSU-1 Missing</q>, assicurati che il tuo emulatore sia supportato nella <a href="https://famicomcd.org/smbcd/supportsheet">Tabella di Supporto</a>."
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "Retroarch su iOS è molto particolare riguardo dove conservi i file. In base a dove li conservi e li carichi potresti non avere problemi, la musica potrebbe non partire o potrebbe comparire la schermata </q>MSU-1 Missing</q>."
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "Questa breve guida dovrebbe rimediare tutti i problemi sopracitati. In caso contrario, dovrai contattarci."
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "Sposta i tuoi file di SMBCD alla cartella downloads di Retroarch; la puoi trovare in"
 
 strid "tutorial_ios_retroarch_step1_directory"
-string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+string "Esplora > Sul Mio iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "In seguito, apri Retroarch, e naviga verso la carella downloads dal menù <q>Load Content</q> (Assicurati di caricare attraverso <q>Downloads</q> e non <q>Open...</q>). Poi, seleziona il core di BSNES o di SNES9x (se vuoi usare SNES9x, assicurati che non siano i core 2005 o 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "Voilà! Niente più schermata </q>MSU-1 Missing</q>, e più musica!"
 
 
 & Images &

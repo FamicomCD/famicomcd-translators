@@ -467,13 +467,13 @@ strid "deprecated_smbcd_footnote2"
 string "• Una emocionante historia que sera contada poco a poco mediante varios cutscenes y niveles."
 
 strid "deprecated_smbcd_footnote3"
-string "• Una banda sonora totalmente nueva tomando inspiraciones de generos como el City Pop y la musica de los mediados de los 80."
+string "• Una banda sonora completamente nueva tomando inspiraciones de generos como el City Pop y la musica de los 80."
 
 strid "deprecated_smbcd_footnote4"
-string "• ¡Power-ups nuevos y clasicos te ayudarán a lo largo de tu aventura!"
+string "• ¡Power-ups nuevos y clasicos que te ayudarán a lo largo de tu aventura!"
 
 strid "deprecated_smbcd_footnote5"
-string "• Varios enemigos, algunos incluso nuevos, tratarán de terminar con tu aventura. ¿Podrás con ellos?"
+string "• Varios enemigos antiguos y nuevos, tratarán de terminar con tu aventura. ¿Podrás con ellos?"
 
 
 strid "deprecated_smbcdteam_meet"

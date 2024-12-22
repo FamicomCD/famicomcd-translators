@@ -39,7 +39,6 @@ string "Ciao! Benvenuto alla beta della ristrutturazione del sito web di Famicom
 
 
 
-
 & SMBCD &
 
 strid "smbcd_tagline"
@@ -228,6 +227,9 @@ string "Automatico"
 strid "install_note_manual"
 string "Manuale"
 
+strid "install_note_usage"
+string "Usage
+
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Solo Windows"
 
@@ -242,6 +244,9 @@ string "Patchare con Floating IPS"
 
 strid "install_method_marc"
 string "Patchare con l'Online Patcher di Marc Robledo"
+
+strid "tutorial_ios_retroarch"
+string "Using SMBCD on Retroarch for iOS"
 
 
 strid "install_guide_requirements"
@@ -383,6 +388,26 @@ strid "install_guide_autopatcher_step5"
 string "5. Prova a vedere se il gioco parte normalmente. Se compare la schermata "MSU-1 Missing", assicurati che il tuo emulatore sia supportato nella <a href="https://famicomcd.org/smbcd/supportsheet">Tabella di Supporto</a>."
 
 
+
+& Retroarch &
+
+strid "tutorial_ios_retroarch_note1"
+string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+
+strid "tutorial_ios_retroarch_note2"
+string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+
+strid "tutorial_ios_retroarch_step1"
+string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+
+strid "tutorial_ios_retroarch_step1_directory"
+string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+
+strid "tutorial_ios_retroarch_step2"
+string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+
+strid "tutorial_ios_retroarch_note3"
+string "Voilà! No more MSU-1 missing screen, and more music!"
 
 
 & Images &

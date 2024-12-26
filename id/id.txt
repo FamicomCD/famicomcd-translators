@@ -384,8 +384,29 @@ string "5. Bisa ditest apakah gamenya bisa dimulai. Jika layar "MSU-1 missing" m
 
 
 
+& Retroarch &
+
+strid "tutorial_ios_retroarch_note1"
+string "Retroarch di iOS sangat sensitif mengenai di mana anda menyimpan file-filenya. Tergantung di mana anda menyimpan dan membukanya, anda bisa jadi tidak mengalami masalah, tidak ada musik, atau mendapatkan layar "MSU-1 missing" lagi."
+
+strid "tutorial_ios_retroarch_note2"
+string "Instruksi di bawah ini menjamin dapat mengatasi segala masalah di atas. Jika tidak, anda dapat menghubungi."
+
+strid "tutorial_ios_retroarch_step1"
+string "Pindahkan file-file SMBCD ke dalam folder downloads Retroarch"
+
+strid "tutorial_ios_retroarch_step1_directory"
+string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+
+strid "tutorial_ios_retroarch_step2"
+string "Setelah itu, buka Retroarch, dan navigasi ke folder downloads dari menu <q>Load Content</q> (Pastikan dibuka melalui <q>Downloads</q> dan bukan <q>Open...</q>). Lalu, pilih BSNES atau SNES9x untuk emulatornya (jika anda menggunakan SNES9x, pastikan buka yang versi 2005 atau 2010)."
+
+strid "tutorial_ios_retroarch_note3"
+string "Voilà! Tidak ada lagi layar "MSU-1 missing", dan musik!"
+
 
 & Images &
+
 
 imgid "famicomcd_main_logo"
 imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"

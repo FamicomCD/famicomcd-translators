@@ -20,7 +20,7 @@ strid "contact_button"
 string "Hubungi Kami"
 
 strid "language_button"
-string "Ganti Bahasa ɪᴅ"
+string "Ganti Bahasa 🇮🇩"
 
 strid "legal_mumbo_jumbo"
 string "Tim FamicomCD tidak bersangkutan dalam hal apapun dengan Nintendo dan semua merek berasal dari setiap pemiliknya. Tidak ada pelanggaran hak cipta yang disengaja. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Pelajari lebih lanjut ➜</a>"

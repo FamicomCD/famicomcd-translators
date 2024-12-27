@@ -243,6 +243,9 @@ string "Patching dengan Floating IPS"
 strid "install_method_marc"
 string "Patching dengan Marc Robledo's Online Patcher"
 
+strid "tutorial_ios_retroarch"
+string "Memainkan SMBCD di Retroarch (iOS)"
+
 
 strid "install_guide_requirements"
 string "Untuk metode ini diperlukan:"

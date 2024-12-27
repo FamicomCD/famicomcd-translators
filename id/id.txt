@@ -207,13 +207,13 @@ strid "about_copyright_note"
 string "Catatan Bagi Para Pendukung"
 
 strid "about_copyright_note_desc"
-string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk Nintendo melakukan sesuatu, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukan karena alasan di atas."
+string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk Nintendo melakukan sesuatu, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukannya karena alasan di atas."
 
 strid "about_copyright_legal"
 string "Informasi Legal"
 
 strid "about_copyright_legal_desc"
-string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal apapun. Penggunaan nama Famicom dan Family Computer, serta merek yang berhubungan, dimiliki oleh Nintendo. branding FamicomCD, maskot (Discette), dan fon (FamicomCD Logo Font Family) adalah milik King Mayro.<br><br>Proyek lainnya untuk mencari untung (seperti cartridge, CD-ROM, atau musik CD) tidak diproduksi atau didukung oleh Tim FamicomCD.Semua proyek yang dibuat oleh Tim FamicomCD adalah gratis dan akan tetap gratis.<br><br>FamicomCD tidak host, share, atau mengedarkan link ke berbagai ROM, situs ROM, atau instruksi untuk download ROM.<br><br>Mario, Luigi, Yoshi, dan karakter lainnya dimiliki oleh Nintendo. Kepulauan Brixurei, Si Barakuda Barry, musik, dan konsep original lainnya adalah hak kekayaan intelektual oleh Tim FamicomCD dan Tim Super Mario Bros. CD."
+string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal apapun. Penggunaan nama Famicom dan Family Computer, serta merek yang berhubungan, dimiliki oleh Nintendo. branding FamicomCD, maskot (Discette), dan fon (FamicomCD Logo Font Family) adalah milik King Mayro.<br><br>Proyek lainnya untuk mencari untung (seperti cartridge, CD-ROM, atau musik CD) tidak diproduksi atau didukung oleh Tim FamicomCD.Semua proyek yang dibuat oleh Tim FamicomCD adalah gratis dan akan tetap gratis.<br><br>FamicomCD tidak host, share, atau mengedarkan link ke berbagai ROM, situs ROM, atau instruksi untuk download ROM.<br><br>Mario, Luigi, Yoshi, dan karakter lainnya dimiliki oleh Nintendo. Kepulauan Brixurei, Si Barracuda Barry, musik, dan konsep original lainnya adalah hak kekayaan intelektual oleh Tim FamicomCD dan Tim Super Mario Bros. CD."
 
 
 
@@ -227,6 +227,9 @@ string "Otomatis"
 
 strid "install_note_manual"
 string "Manual"
+
+strid "install_note_usage"
+string "Penggunaan"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
@@ -257,7 +260,7 @@ strid "install_guide_autopatcher_py_requirements"
 string "- Sebuah perangkat dengan Python 3.12 atau lebih."
 
 strid "install_guide_flips_requirements"
-string "- Alat zip archive extractor (kami sangat menyarankan anda menggunakan <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Sebuah komputar dengan system operasi Windows atau Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- Alat zip archive extractor (kami sangat menyarankan anda menggunakan <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Sebuah komputer dengan system operasi Windows atau Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
 string "- Alat zip archive extractor<br>- Situs browser"
@@ -270,10 +273,10 @@ string "<b>Important:</b> Anda harus memerlukan USA Super Mario World ROM untuk 
 & Flips &
 
 strid "install_guide_flips_prestep_button_show"
-string "Pra setup untuk 7-Zip dan Floating IPS ▼"
+string "Menyiapkan 7-Zip dan Floating IPS ▼"
 
 strid "install_guide_flips_prestep_button_hide"
-string "Pra setup untuk 7-Zip dan Floating IPS ▲"
+string "Menyiapkan 7-Zip dan Floating IPS ▲"
 
 strid "install_guide_flips_prestep_step1"
 string "p.1. Kunjungi <a href="https://www.7-zip.org/">situs 7-Zip</a>"
@@ -291,7 +294,7 @@ strid "install_guide_flips_marc_step1"
 string "1. Download zip archive SMBCD dari <a href="https://famicomcd.org/smbcd/download">laman download SMBCD</a>."
 
 strid "install_guide_flips_marc_step2"
-string "2. Extract the build zip file to your folder or directory of choice."
+string "2. Buka zip filenya ke folder yang anda pilih."
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
 string "Step 2 lebih detail ▼"
@@ -402,7 +405,7 @@ strid "tutorial_ios_retroarch_step1_directory"
 string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Setelah itu, buka Retroarch, dan navigasi ke folder downloads dari menu <q>Load Content</q> (Pastikan dibuka melalui <q>Downloads</q> dan bukan <q>Open...</q>). Lalu, pilih BSNES atau SNES9x untuk emulatornya (jika anda menggunakan SNES9x, pastikan buka yang versi 2005 atau 2010)."
+string "Setelah itu, buka Retroarch, dan navigasi ke folder downloads dari menu <q>Load Content</q> (Pastikan dibuka melalui <q>Downloads</q> dan bukan <q>Open...</q>). Lalu, pilih BSNES atau SNES9x untuk emulatornya (jika anda menggunakan SNES9x, pastikan bukan yang versi 2005 atau 2010)."
 
 strid "tutorial_ios_retroarch_note3"
 string "Voilà! Tidak ada lagi layar "MSU-1 missing", dan musik!"
@@ -441,10 +444,10 @@ strid "deprecated_smbcd_story"
 string "Cerita"
 
 strid "deprecated_smbcd_expectations"
-string "Apa Saja Kontennya"
+string "Apa Saja Kontennya?"
 
 strid "deprecated_smbcd_trailer"
-string "Belum yakin? Tonton video trailernya!"
+string "Penasaran? Tonton video trailernya!"
 
 strid "deprecated_smbcd_screenshots"
 string "Screenshot"
@@ -531,7 +534,7 @@ string "<b>Step 7: </b>Setelah semua file sudah dimasukkan, SMBCD seharusnya dap
 
 
 strid "deprecated_smbcdteam_meet"
-string "Kenalilah Tim Super Mario Bros. CD"
+string "Kenali Tim Super Mario Bros. CD!"
 
 strid "deprecated_smbcdteam_translators"
 string "Penerjemah"
@@ -573,11 +576,11 @@ strid "deprecated_download_downloads"
 string "Download"
 
 strid "deprecated_download_special"
-string "Spesial dan Demo Event/Download"
+string "Spesial dan Event Demo/Download"
 
 
 strid "deprecated_download_oops"
-string "Waduh, sepertinya belum ada yang dapat didownload untuk sekarang."
+string "Waduh, sepertinya belum ada yang dapat didownload untuk sekarang..."
 
 
 strid "deprecated_download_speedrundemo_2.2"
@@ -594,10 +597,10 @@ strid "deprecated_speedrun_thanks"
 string "Kompetisinya telah berakhir dan skornya sudah terhitung! Terima kasih bagi yang sudah berpartisipasi."
 
 strid "deprecated_speedrun_updatename"
-string "Version 2.2!!!!"
+string "Versi 2.2!!!!"
 
 strid "deprecated_speedrun_descupdate"
-string "Gamenya sudah diupdate dengan perbaikan bug, perubahan warna/grafis, dan fasilitas mekanik speedrun! Sekarang anda dapat mengambil rekor Waktu dengan menginjak Goomba, Sidestepper, Tweeter, dan Cheep Cheep, serta mengulang lagi dengan cepat dengan menekan L dan R! Segera download di bawah ini! Tanggal terakhir kompetisi ini dipindah ke 12 April untuk update demonya!"
+string "Gamenya sudah diupdate dengan perbaikan bug, perubahan warna/grafis, dan fasilitas mekanik speedrun! Sekarang anda dapat mengambil rekor Waktu dengan menginjak Goomba, Sidestepper, Tweeter, dan Cheep Cheep, serta mengulang lagi dengan cepat dengan menekan L dan R! Segera download di bawah ini! Tanggal terakhir kompetisi ini dipindah ke 12 April untuk diupdate demonya!"
 
 
 strid "deprecated_speedrun_desc1"
@@ -621,7 +624,7 @@ string "Emulator dengan Controller/Touch"
 
 
 strid "deprecated_speedrun_submit"
-string "Ikuti grup Discord kami untuk melampirkan hasil speedrun anda!*<br>*Jangan lampirkan hasil speedrun menggunakan versi v1.3 dan jangan lampirkan hasil speedrun dengan display selain ukuran 4:3 atau aspek rasio kotak (8:7, 1:1, etc.), jadi hasil sppedrun dengan aspek rasio misalnya 16:9 tidak dapat diterima (ukuran video anda bebas ukurannya berapa saja, hanya tidak boleh di dalam gamenya)."
+string "Ikuti grup Discord kami untuk melampirkan hasil speedrun anda!*<br>*Jangan lampirkan hasil speedrun menggunakan versi v1.3 atau dengan display selain ukuran 4:3 atau aspek rasio kotak (8:7, 1:1, etc.), jadi hasil sppedrun dengan aspek rasio misalnya 16:9 tidak dapat diterima (ukuran video anda bebas ukurannya berapa saja, hanya tidak boleh di dalam gamenya)."
 
 strid "deprecated_speedrun_"
 string "Tonton Pengungumannya!"
@@ -640,7 +643,7 @@ strid "deprecated_about_famicomcd"
 string "Apa Itu FamicomCD?"
 
 strid "deprecated_about_ar"
-string "Apa Itu FamicomCD Dalam Artian Alternate Reality?"
+string "Apa Itu FamicomCD Dari Sisi Alternate Reality?"
 
 strid "deprecated_about_risk"
 string "Apakah Nintendo Akan Mengjatuhkan FamicomCD atau SMBCD?"
@@ -649,14 +652,14 @@ strid "deprecated_about_famicomcddesc"
 string "FamicomCD merupakan nama add-on Famicom/konsol semua-dalam-satu bersifat fiksi, sebagian add-on memiliki kemiripan dengan Famicom Disk System. Proyek FamicomCD dibuat oleh King Mayro pada bulan Feburari 2023. Awalnya dibuat untuk share mockup game dan software yang hanya dapat dibuat untuk konsol/add-on FamicomCD, lalu Super Mario Bros. CD diadaptasikan ke dalam proyek sebagai proyek SMBCD yang sudah direncanakan sebelum pembuatan FamicomCD."
 
 strid "deprecated_about_ar1"
-string "Dalam artian alternate reality, FamicomCD merupakan add-on untuk konsol Famicom, sekaligus sebagai konsol semua-dalam-satu yang dirilis pada tahun 1989/1990. Telah beredar rumor dimana sebelumnya ada add-on berbasis disket bernama Famicom Disk System, namun tidak ada yang muncul dari hal tersebut dan digantikan dengan FamicomCD."
+string "Dari sisi alternate reality, FamicomCD merupakan add-on untuk konsol Famicom, sekaligus sebagai konsol semua-dalam-satu yang dirilis pada tahun 1989/1990. Telah beredar rumor dimana sebelumnya ada add-on berbasis disket bernama Famicom Disk System, namun tidak ada yang muncul dari hal tersebut dan digantikan dengan FamicomCD."
 
 strid "deprecated_about_ar2"
 string "FamicomCD tidak hanya game-game Famicom dengan audio berkualitas CD, namun juga meningkatkan semua aspek dari Famicom secara luar biasa:"
 
 strid "deprecated_about_arwall"
-string "• A 16-Bit CPU<br><br>• 4 layer untuk latar dan paralaks background (seperti 2 layer untuk latar depan dan 2 layer untuk latar belakang).<br><br>• Audio berkualitas CD<br><br>• 1 DPCM Channel ekstra(untuk total menjadi 2) dan 1 FM Synthesizer Channel saat memainkan audio CD<br><br>• 8 DPCM Channel dan ekspansi 1 FM Synthesizer Channel saat tidak memainkan audio CD (Semua suara dibuat berdasarkan chip 2A03 di Famicom asli)<br><br>• Efek transparan pada salah satu layer<br><br>• Penyaluran Tilemap/FMV<br><br>• 112 Sprite dalam satu layar<br><br>• Ekspansi kontroler FamicomCD dengan D-PAD, Start, Select, 4 tombol, dan tombol L/R di atas. Meskipun kontroler baru, FamicomCD cocok dengan kontroler Famicom aslinya, setiap game dalam memilih kontroler mana yang dapat dimainkan.<br><br>• Color Upload dimana sistem ini dapat mengunggah warna langsung ke dalam palet atau mengunggah warna langsung ke suatu piksel di dalam layar. Warna ini merupakan RGB 15bit dibanding spesifik warnanya Famicom, namun warna diunggah setiap frame sehingga banyak waktu CPU yang digunakan)."
+string "• A 16-Bit CPU<br><br>• 4 layer untuk latar dan paralaks background (contohnya 2 layer untuk latar depan dan 2 layer untuk latar belakang).<br><br>• Audio berkualitas CD<br><br>• 1 DPCM Channel ekstra(untuk total menjadi 2) dan 1 FM Synthesizer Channel saat memainkan audio CD<br><br>• 8 DPCM Channel dan ekspansi 1 FM Synthesizer Channel saat tidak memainkan audio CD (Semua suara dibuat berdasarkan chip 2A03 di Famicom asli)<br><br>• Efek transparan pada salah satu layer<br><br>• Penyaluran Tilemap/FMV<br><br>• 112 Sprite dalam satu layar<br><br>• Ekspansi kontroler FamicomCD dengan D-PAD, Start, Select, 4 tombol, dan tombol L/R di atas. Meskipun kontroler baru, FamicomCD cocok dengan kontroler Famicom aslinya, setiap game dalam memilih kontroler mana yang dapat dimainkan.<br><br>• Color Upload dimana sistem ini dapat mengunggah warna langsung ke dalam palet atau mengunggah warna langsung ke suatu piksel di dalam layar. Warna ini merupakan RGB 15bit dibanding spesifik warnanya Famicom, namun warna diunggah setiap frame sehingga banyak waktu CPU yang digunakan)."
 
 strid "deprecated_about_riskdesc"
-string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk hal lain terjadi, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukan karena alasan di atas."
+string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk hal lain terjadi, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukannya karena alasan di atas."
 

@@ -376,13 +376,13 @@ strid "install_guide_autopatcher_step1"
 string "1. Téléchargez une version de SMBCD Auto-Patcher à partir de <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
 
 strid "install_guide_autopatcher_step2"
-string "2. Ouvrez le programme. Il devrait s'ouvrir sur une fenêtre de type invite de commande.."
+string "2. Ouvrez le programme. Il devrait s'ouvrir sur une fenêtre de type invite de commande."
 
 strid "install_guide_autopatcher_step3"
-string "3. Glissez-déposez votre ROM SMW dans la fenêtre, puis appuyez sur la touche Entrée.."
+string "3. Glissez-déposez votre ROM SMW dans la fenêtre, puis appuyez sur la touche Entrée."
 
 strid "install_guide_autopatcher_step4"
-string "4. Faites glisser et déposez le dossier dans lequel vous voulez placer tous vos fichiers SMBCD dans la fenêtre, puis appuyez sur Entrée.r."
+string "4. Faites glisser et déposez le dossier dans lequel vous voulez placer tous vos fichiers SMBCD dans la fenêtre, puis appuyez sur Entrée."
 
 strid "install_guide_autopatcher_step5"
 string "5. Testez si le jeu démarre normalement. Si l'écran d'absence du MSU-1 apparaît, assurez-vous que votre émulateur est pris en charge dans la base de données du <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."

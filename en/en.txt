@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  FamicomCD Team, King Mayro"
+string "© 2022-2025  FamicomCD Team, King Mayro"
 
 strid "back_button"
 string "Back"
@@ -36,7 +36,6 @@ string "Back"
 
 strid "main_page_tagline"
 string "Hiya! Welcome to the FamicomCD website overhaul beta! Have any suggestions? Join our <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
-
 
 
 

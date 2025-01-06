@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  FamicomCD開発連盟, King Mayro"
+string "© 2022-2025  FamicomCD開発連盟, King Mayro"
 
 strid "back_button"
 string "Back"

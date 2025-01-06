@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "El equipo FamicomCD no está afiliado de ninguna manera o forma con Nintendo. Cualquier marca registrada es propiedad de sus respectivos dueños. No se busca infringir ningún derecho de autor. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Lea más ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  Equipo FamicomCD, King Mayro"
+string "© 2022-2025  Equipo FamicomCD, King Mayro"
 
 strid "back_button"
 string "Back"

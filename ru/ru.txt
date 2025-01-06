@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "The FamicomCD Team никак не связаны с Nintendo Inc. Все представленные торговые знаки принадлежат их соответствующим владельцам. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Узнать больше ➜</a>"
 
 strid "copyright"
-string "© 2022-2024  FamicomCD Team, King Mayro"
+string "© 2022-2025  FamicomCD Team, King Mayro"
 
 strid "back_button"
 string "Назад"

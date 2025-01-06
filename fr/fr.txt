@@ -574,7 +574,7 @@ strid "deprecated_download_downloads"
 string "Téléchargements"
 
 strid "deprecated_download_special"
-string "Téléchargements Speciaux et Demos/Evènement"
+string "Téléchargements Spéciaux & Demos"
 
 
 strid "deprecated_download_oops"

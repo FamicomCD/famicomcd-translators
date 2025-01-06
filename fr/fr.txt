@@ -385,7 +385,7 @@ strid "install_guide_autopatcher_step4"
 string "4. Faites glisser et déposez le dossier dans lequel vous voulez placer tous vos fichiers SMBCD dans la fenêtre, puis appuyez sur Entrée."
 
 strid "install_guide_autopatcher_step5"
-string "5. Testez si le jeu démarre normalement. Si l'écran d'absence du MSU-1 apparaît, assurez-vous que votre émulateur est pris en charge dans la base de données du <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
+string "5. Testez si le jeu démarre normalement. Si l'écran d'absence du MSU-1 apparaît, assurez-vous que votre émulateur est pris en charge dans la base de données du <a href="https://famicomcd.org/smbcd/supportsheet">Emulateurs Compatibles</a>."
 
 
 

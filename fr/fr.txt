@@ -228,7 +228,7 @@ strid "install_note_manual"
 string "Installation Manuelle"
 
 strid "install_note_usage"
-string "Usage
+string "Utilisation
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
@@ -246,7 +246,7 @@ strid "install_method_marc"
 string "Patcher avec le patcheur en ligne de Marc Robledo"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Utiliser SMBCD dans Retroarch pour iOS"
 
 
 strid "install_guide_requirements"
@@ -392,22 +392,22 @@ string "5. Testez si le jeu démarre normalement. Si l'écran d'absence du MSU-1
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "Retroarch sur iOS est très pointilleux sur l'endroit où vous stockez vos fichiers. Selon l'endroit où vous les stockez et les chargez, vous pouvez n'avoir aucun problème, ne pas avoir de musique ou obtenir l'écran d'avertissement MSU-1 manquant."
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "Ce bref guide devrait, nous l'espérons, remédier à tous les problèmes susmentionnés. Dans le cas contraire, n'hesitez pas à nous contacter."
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "Déplacez vos fichiers SMBCD dans le dossier de téléchargement de Retroarch ; il se trouve dans"
 
 strid "tutorial_ios_retroarch_step1_directory"
-string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+string "Parcourir > Dans mon smartphone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "Ensuite, ouvrez Retroarch, et naviguez jusqu'au dossier des téléchargements à partir de l'onglet <q>Load Content</q> menu (Soyez sur de charger via <q>Downloads</q> et non <q>Open...</q>). TEnsuite, sélectionnez le core BSNES ou SNES9x (si vous prévoyez d'utiliser SNES9x, assurez-vous qu'il ne s'agit pas du core 2005 ou 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "Voilà! Plus d'écran d'avertissement MSU-1 manquant et profitez de la musique!"
 
 
 & Images &

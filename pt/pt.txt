@@ -228,7 +228,7 @@ strid "install_note_manual"
 string "Manual"
 
 strid "install_note_usage"
-string "Usage
+string "Uso"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Só para Windows"
@@ -246,7 +246,7 @@ strid "install_method_marc"
 string "Patcheando com Patcher Online do Marc Robledo"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Usando SMBCD no Retroarch para iOS"
 
 
 strid "install_guide_requirements"
@@ -338,7 +338,7 @@ strid "install_guide_flips_marc_step4"
 string "4. Verifique se o patch foi bem-sucedido abrindo a ROM em seu emulador. Se o jogo iniciar, você patcheou corretamente e você está pronto para jogar e pode ignorar o passo 5!<br><br>Se a tela de MSU-1 ausente aparecer, você patcheou corretamente, mas teve um problema ao detectar os arquivos MSU-1. Vá para o passo 5 para solucionar o problema."
 
 strid "install_guide_flips_marc_step5"
-string "5. Tenha certeza de que os arquivos PCM e MSU estão na mesma pasta e tem o mesmo nome que a ROM. (Ex. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>No Windows, se você tem as extensões de nomes de arquivos desativadas, pode causar problemas identificando os nomes dos arquivos. Você pode habilitar extensões de nomes de arquivos no seu Explorador de Arquivos indo em <q>Exibir</q> e marcando <q>Extensões de nomes de arquivos</q> no painel superior, verifique se o seu emulador é suportado na <a href="https://famicomcd.org/smbcd/supportsheet">Página de Suporte</a>."
+string "5. certifique-se de que os arquivos PCM e MSU estão na mesma pasta e tem o mesmo nome que a ROM. (Ex. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>No Windows, se você tem as extensões de nomes de arquivos desativadas, pode causar problemas identificando os nomes dos arquivos. Você pode habilitar extensões de nomes de arquivos no seu Explorador de Arquivos indo em <q>Exibir</q> e marcando <q>Extensões de nomes de arquivos</q> no painel superior, verifique se o seu emulador é suportado na <a href="https://famicomcd.org/smbcd/supportsheet">Página de Suporte</a>."
 
 
 
@@ -392,22 +392,22 @@ string "5. Verifique se o jogo inicia normalmente. Se a tela de MSU-1 ausente ap
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "Retroarch do iOS é muito específico sobre onde você guarda seus arquivos. Dependendo de onde você os guarda e carrega, você pode não ter problemas, ficar sem música ou ter a tela de MSU-1 ausente."
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "Esse guia breve deve resolver os problemas acima. Caso contrário, você pode ter que entrar em contato conosco."
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "Mova os arquivos do SMBCD para a pasta de downloads do Retroarch; ela pode ser encontrada em"
 
 strid "tutorial_ios_retroarch_step1_directory"
-string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+string "Explorar > No Meu iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "Depois disso, abra o Retroarch, e vá até a pasta de downloads no menu <q>Carregar Conteúdo</q> (Certifique-se de carregar via <q>Downloads</q> e não <q>Abrir...</q>). Então, selecione o núcleo BSNES ou SNES9x (se você planeja em usar SNES9x, certifique-se de que não é o núcleo 2005 ou 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "Voilà! Sem tela de MSU-1 ausente, e mais música!"
 
 
 

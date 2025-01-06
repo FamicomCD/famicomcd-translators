@@ -1,0 +1,665 @@
+& Use ampersands to comment things out if you need &
+
+
+
+strid "test_message"
+string "ini adalah test pesan"
+
+strid "Discette"
+string "Halo! Nama saya Discette. Salam kenal!"
+
+
+
+
+& General &
+
+strid "about_button"
+string "Tentang FamicomCD"
+
+strid "contact_button"
+string "Hubungi Kami"
+
+strid "language_button"
+string "Ganti Bahasa 🇮🇩"
+
+strid "legal_mumbo_jumbo"
+string "Tim FamicomCD tidak bersangkutan dalam hal apapun dengan Nintendo dan semua merek berasal dari setiap pemiliknya. Tidak ada pelanggaran hak cipta yang disengaja. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Pelajari lebih lanjut ➜</a>"
+
+strid "copyright"
+string "© 2022-2024  Tim FamicomCD, King Mayro"
+
+strid "back_button"
+string "Balik"
+
+
+& Main Page &
+
+strid "main_page_tagline"
+string "Halo! Selamat datang di situs FamicomCD versi Beta! Ada masukan? Ikuti <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
+
+
+
+
+& SMBCD &
+
+strid "smbcd_tagline"
+string "Super Mario Bros. CD (SMBCD) adalah sebuah ROM hack dari Super Mario World, mengubah game SMB yang dapat dimainkan dalam konsol berbasis CD."
+
+strid "learn_more_button"
+string "Kunjungi Laman"
+
+strid "show_more_smbcd_button"
+string "Lihat Sumber ▼"
+
+strid "show_less_smbcd_button"
+string "Sembunyikan Sumber ▲"
+
+strid "download_smbcd_button"
+string "Download SMBCD"
+
+strid "support_sheet_smbcd_button"
+string "Info Emulator"
+
+strid "tutorial_smbcd_button"
+string "Cara Instalasi"
+
+strid "smbcd_team_button"
+string "Anggota Tim SMBCD"
+
+
+
+
+& Support Sheet &
+
+strid "support_sheet_name"
+string "Info Emulator"
+
+strid "support_sheet_description"
+string "Karena SMBCD adalah ROM hack dan bukan game komputer, emulator dan hardware sangat diperlukan untuk pengalaman game yang berkualitas."
+
+strid "support_sheet_description_p2"
+string "Jika tidak ada emulator atau hardware yang anda gunakan di bawah ini, anda dapat mengirim pesan melalui <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, atau <a href="mailto:support@famicomcd.org">email kami</a>. Jika anda mencari info mengenai Kartu SD untuk FXPak Pro/SD2SNES, silahkan bisa cek di <a href="https://sd2snes.de/blog/card-list">List Kartu SD2SNES</a>."
+
+strid "support_sheet_description_p3"
+string "Untuk info selanjutnya mengenai emulator (atau hardware) termasuk akurasi dan link, tinggal klik salah satu ikon emulator/hardware."
+
+strid "yes"
+string "ya"
+
+strid "no"
+string "tidak"
+
+strid "msu1_supported"
+string "Ada MSU-1"
+
+strid "msu1_unsupported"
+string "Tidak ada MSU-1"
+
+strid "support_type"
+string "Tipe"
+
+strid "support_hardware_flashcarts"
+string "Hardware dan Flashcart"
+
+strid "support_emulators"
+string "Emulator"
+
+strid "support_download"
+string "Download"
+
+
+strid "support_notes"
+string "Catatan"
+
+strid "support_description"
+string "Deskripsi"
+
+strid "support_tested_with"
+string "Ditest Menggunakan"
+
+strid "support_accuracy"
+string "Akurasi Emulator"
+
+strid "support_platforms"
+string "Platforms"
+
+strid "support_type_emulator"
+string "Emulasi Software"
+
+strid "support_type_fpga"
+string "Emulasi Hardware FPGA"
+
+strid "support_type_hardware"
+string "Hardware"
+
+
+strid "support_rank_flawless"
+string "Sempurna"
+
+strid "support_rank_well"
+string "Sangat bagus"
+
+strid "support_rank_fine"
+string "Bagus"
+
+strid "support_rank_good"
+string "Lumayan"
+
+strid "support_rank_poor"
+string "Kurang"
+
+strid "support_rank_awful"
+string "Buruk"
+
+strid "support_rank_nono"
+string "Sangat buruk"
+
+
+strid "hardware_superfamicom"
+string "Super NES"
+
+strid "emulator_superfamicom"
+string "Super NES Classic"
+
+
+
+
+& Details Support Sheet &
+
+
+
+
+& Contact and About &
+
+strid "contact_title"
+string "Hubungi Kami"
+
+strid "contact_description"
+string "Jika anda hubungi kami dengan alasan apapun, atau ingin follow akun sosial media kami, semua list situs dan akun ada di sini!"
+
+strid "contact_title_famicomcd"
+string "Akun FamicomCD"
+
+strid "contact_title_kingmayro"
+string "Akun King Mayro (Pembuat)"
+
+
+
+strid "copyright_and_trademarks"
+string "Copyright dan Merek"
+
+strid "copyright_last_updated"
+string "Terakhir diupdate: --/--/----"
+
+strid "about_about_famicomcd_desc"
+string "FamicomCD adalah sebuah grup berdedikasi untuk membuat game tanpa profit, software, dan modifikasi game. Namanya merujuk pada nama tim, dan nama add-on Famicom fiksi dimana game kami dibuat; jangan sampai ketukar dengan Super NES CD-ROM/Super Famicom CD-ROM yang tidak pernah dirilis.<br><br>Proyek FamicomCD dibuat oleh King Mayro pada bulan Februari 2023. Awalnya dibuat untuk sharing mockup game dan software yang hanya dapat dibuat untuk add-on Famicom. Setelah itu, game pertama kami, Super Mario Bros. CD, diadaptasikan untuk konsep tersebut.<br><br>Sekarang kami hanya mengerjakan Super Mario Bros. CD, kami senang sekali ingin membuat cabang untuk setiap jenis game dan software dengan brand FamicomCD!"
+
+strid "about_other_stuff"
+string "Hal lainnya!"
+
+strid "about_other_stuff_desc"
+string "Kami lebih memilih untuk namanya disambung menjadi satu kata, FamicomCD, daripada Famicom CD atau disingkat jadi FCD. Jika perlu, dapat disingkat jadi FCD."
+
+strid "about_copyright"
+string "Copyright"
+
+strid "about_copyright_note"
+string "Catatan Bagi Para Pendukung"
+
+strid "about_copyright_note_desc"
+string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk Nintendo melakukan sesuatu, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukannya karena alasan di atas."
+
+strid "about_copyright_legal"
+string "Informasi Legal"
+
+strid "about_copyright_legal_desc"
+string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal apapun. Penggunaan nama Famicom dan Family Computer, serta merek yang berhubungan, dimiliki oleh Nintendo. branding FamicomCD, maskot (Discette), dan fon (FamicomCD Logo Font Family) adalah milik King Mayro.<br><br>Proyek lainnya untuk mencari untung (seperti cartridge, CD-ROM, atau musik CD) tidak diproduksi atau didukung oleh Tim FamicomCD.Semua proyek yang dibuat oleh Tim FamicomCD adalah gratis dan akan tetap gratis.<br><br>FamicomCD tidak host, share, atau mengedarkan link ke berbagai ROM, situs ROM, atau instruksi untuk download ROM.<br><br>Mario, Luigi, Yoshi, dan karakter lainnya dimiliki oleh Nintendo. Kepulauan Brixurei, Si Barracuda Barry, musik, dan konsep original lainnya adalah hak kekayaan intelektual oleh Tim FamicomCD dan Tim Super Mario Bros. CD."
+
+
+
+& Installation Guides &
+
+strid "install_desc"
+string "Berikut ini petunjuk cara menginstall Super Mario Bros. CD (SMBCD), dan cara menggunakan MSU-1. Jika menggunakan cara manual, proses pemasangannya juga berlaku pada tipe rom hack lainnya. Jika anda mengalami kendala dalam proses instalasi, hubungi kami di <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
+
+strid "install_note_automatic"
+string "Otomatis"
+
+strid "install_note_manual"
+string "Manual"
+
+strid "install_note_usage"
+string "Penggunaan"
+
+strid "install_note_windows"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+
+strid "install_note_pc"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+
+strid "install_method_smbcmd"
+string "SMBC(M)D - Menggunakan Super Mario Bros. CD Auto-Patcher"
+
+strid "install_method_flips"
+string "Patching dengan Floating IPS"
+
+strid "install_method_marc"
+string "Patching dengan Marc Robledo's Online Patcher"
+
+strid "tutorial_ios_retroarch"
+string "Memainkan SMBCD di Retroarch (iOS)"
+
+
+strid "install_guide_requirements"
+string "Untuk metode ini diperlukan:"
+
+strid "install_guide_autopatcher_requirements"
+string "- Sebuah komputer dengan system operasi Windows."
+
+strid "install_guide_autopatcher_py_requirements"
+string "- Sebuah perangkat dengan Python 3.12 atau lebih."
+
+strid "install_guide_flips_requirements"
+string "- Alat zip archive extractor (kami sangat menyarankan anda menggunakan <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Sebuah komputer dengan system operasi Windows atau Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+
+strid "install_guide_marc_requirements"
+string "- Alat zip archive extractor<br>- Situs browser"
+
+strid "install_guide_warning"
+string "<b>Important:</b> Anda harus memerlukan USA Super Mario World ROM untuk pemasangan file BPS SMBCD. Kami sarankan untuk mengeluarkan cartridge SMW Super NES milik anda. Kami tidak akan memberi instruksi bagaimana atau dimana mendapatkan ROM jika anda tidak mau, atau tidak bisa mengeluarkan cartridge milik anda."
+
+
+
+& Flips &
+
+strid "install_guide_flips_prestep_button_show"
+string "Menyiapkan 7-Zip dan Floating IPS ▼"
+
+strid "install_guide_flips_prestep_button_hide"
+string "Menyiapkan 7-Zip dan Floating IPS ▲"
+
+strid "install_guide_flips_prestep_step1"
+string "p.1. Kunjungi <a href="https://www.7-zip.org/">situs 7-Zip</a>"
+
+strid "install_guide_flips_prestep_step2"
+string "p.2. Klik bagian "Downloads", download versi terbaru, dan ikuti instruksi pemasangannya (anda memungkinkan untuk download versi lama berdasarkan system operasi anda)."
+
+strid "install_guide_flips_prestep_step3"
+string "p.3. Kunjungi <a href="https://github.com/Alcaro/Flips">repositori GitHub Floating IPS</a>"
+
+strid "install_guide_flips_prestep_step4"
+string "p.4. Klik bagian "Releases" dan download versi terbaru"
+
+strid "install_guide_flips_marc_step1"
+string "1. Download zip archive SMBCD dari <a href="https://famicomcd.org/smbcd/download">laman download SMBCD</a>."
+
+strid "install_guide_flips_marc_step2"
+string "2. Buka zip filenya ke folder yang anda pilih."
+
+strid "install_guide_flips_marc_step2_detailed_button_show"
+string "Step 2 lebih detail ▼"
+
+strid "install_guide_flips_marc_step2_detailed_button_hide"
+string "Step 2 lebih detail ▲"
+
+strid "install_guide_flips_marc_step2_detailed_stepa"
+string "2.a. Buka zip filenya"
+
+strid "install_guide_flips_marc_step2_detailed_stepb"
+string "2.b. Pilih semua file dengan tekan tombol ctrl + A"
+
+strid "install_guide_flips_marc_step2_detailed_stepc"
+string "2.c. Tahan dengan mouse dan letakkan ke folder atau folder yang dijadikan tempat asal"
+
+strid "install_guide_flips_step3"
+string "3. Buka Floating IPS dan pilih <q>Apply Patch</q>, lalu tambahkan SMBCD.bps ke ROM SMW."
+
+strid "install_guide_flips_marc_step3_detailed_button_show"
+string "Step 3 lebih detail ▼"
+
+strid "install_guide_flips_marc_step3_detailed_button_hide"
+string "Step 3 lebih detail ▲"
+
+strid "install_guide_flips_step3_detailed_stepa"
+string "3.a. Buka Floating IPS"
+
+strid "install_guide_flips_step3_detailed_stepb"
+string "3.b. Klik tombol <q>Apply Patch</q>"
+
+strid "install_guide_flips_step3_detailed_stepc"
+string "3.c. Navigasi ke folder file SMBCD pilihanmu dan pilih SMBCD.bps"
+
+strid "install_guide_flips_step3_detailed_stepd"
+string "3.d. Navigasi ke folder ROM SMW pilihanmu dan pilih ROM tersebut"
+
+strid "install_guide_flips_step3_detailed_stepe"
+string "3.e. Kembali lagi ke folder SMBCD dan simpan ROM yang sudah ditambahkan dengan nama SMBCD.smc atau SMBCD.sfc"
+
+strid "install_guide_flips_marc_step4"
+string "4. Bisa ditest jika pemasangan berhasil dengan menggunakan emulator pilihanmu. Jika game dapat dimulai, anda memasangnya dengan benar dan bisa segera dimainkan, anda dapat abaikan step 5!<br><br>Jika layar "MSU-1 missing" muncul, anda memasangnya dengan benar... tapi ada masalah dengan pendeteksian file MSU-1nya. Lanjut ke step 5 untuk troubleshoot."
+
+strid "install_guide_flips_marc_step5"
+string "5. Pastikan bahwa file PCM dan MSU berada di folder yang sama dan diberi nama yang sama dengan ROMnya. (Cth. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Di Windows, jika file extensions anda dimatikan, akan mengakibatkan masalah dalam mengidentifikasi nama file. Anda dapat menyalakan file extensions di File Explorer dengan klik <q>View</q> dan beri cek di <q>File name extensions</q>.<br><br>Jika semua sudah disetup dengan benar, pastikan emulator anda cocok dengan yang ada di <a href="https://famicomcd.org/smbcd/supportsheet">Info Emulator</a>."
+
+
+
+& Marc Patcher &
+
+strid "install_guide_marc_step3"
+string "3. Buka <a href="https://www.marcrobledo.com/RomPatcher.js/">Marc Robledo's Online Patcher</a>, lalu tambahkan SMBCD.bps ke ROM SMW anda. (Jika saat pemasangan terdapat peringatan <q>Source ROM checksum mismatch</q>, beri cek di <q>Remove header</q>)."
+
+strid "install_guide_marc_step3_detailed_stepa"
+string "3.a. <a href="https://www.marcrobledo.com/RomPatcher.js/">Buka Marc Robledo's Online Patcher</a>"
+
+strid "install_guide_marc_step3_detailed_stepb"
+string "3.b. Klik tombol <q>No file selected.</q> disamping <q>ROM File:</q>"
+
+strid "install_guide_marc_step3_detailed_stepc"
+string "3.c. Navigasi ke folder ROM SMW pilihanmu dan pilih ROM tersebut"
+
+strid "install_guide_marc_step3_detailed_stepd"
+string "3.d. Klik tombol <q>No file selected.</q> disamping <q>Patch File:</q>"
+
+strid "install_guide_marc_step3_detailed_stepe"
+string "3.e. Navigasi ke folder file SMBCD pilihanmu dan pilih SMBCD.bps"
+
+strid "install_guide_marc_step3_detailed_stepf"
+string "3.f. Klik <q>Apply Patch</q>, (Jika saat pemasangan terdapat peringatan <q>Source ROM checksum mismatch</q>, beri cek di <q>Remove header</q>)"
+
+strid "install_guide_marc_step3_detailed_stepg"
+string "3.g. Navigasi ke folder file SMBCD pilihanmu dan simpan ROM yang sudah ditambahkan dengan nama SMBCD.smc or SMBCD.sfc"
+
+
+
+& AutoPatcher &
+
+strid "install_guide_autopatcher_step1"
+string "1. Download sebuah SMBCD Auto-Patcher dari <a href="https://famicomcd.org/smbcd/download">Laman Download SMBCD</a>."
+
+strid "install_guide_autopatcher_step2"
+string "2. Buka programnya. Seharusnya terbuka seperti CMD window."
+
+strid "install_guide_autopatcher_step3"
+string "3. Tahan dengan mouse dan letakkan ROM SMW anda ke dalam window, lalu tekan enter."
+
+strid "install_guide_autopatcher_step4"
+string "4. Tahan dan letakkan folder pilihanmu untuk menyimpan semua file SMBCD ke dalam window, lalu tekan enter."
+
+strid "install_guide_autopatcher_step5"
+string "5. Bisa ditest apakah gamenya bisa dimulai. Jika layar "MSU-1 missing" muncul, pastikan emulator anda cocok dengan yang ada di <a href="https://famicomcd.org/smbcd/supportsheet">Info Emulator</a>."
+
+
+
+& Retroarch &
+
+strid "tutorial_ios_retroarch_note1"
+string "Retroarch di iOS sangat sensitif mengenai di mana anda menyimpan file-filenya. Tergantung di mana anda menyimpan dan membukanya, anda bisa jadi tidak mengalami masalah, tidak ada musik, atau mendapatkan layar "MSU-1 missing" lagi."
+
+strid "tutorial_ios_retroarch_note2"
+string "Instruksi di bawah ini menjamin dapat mengatasi segala masalah di atas. Jika tidak, anda dapat menghubungi."
+
+strid "tutorial_ios_retroarch_step1"
+string "Pindahkan file-file SMBCD ke dalam folder downloads Retroarch"
+
+strid "tutorial_ios_retroarch_step1_directory"
+string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
+
+strid "tutorial_ios_retroarch_step2"
+string "Setelah itu, buka Retroarch, dan navigasi ke folder downloads dari menu <q>Load Content</q> (Pastikan dibuka melalui <q>Downloads</q> dan bukan <q>Open...</q>). Lalu, pilih BSNES atau SNES9x untuk emulatornya (jika anda menggunakan SNES9x, pastikan bukan yang versi 2005 atau 2010)."
+
+strid "tutorial_ios_retroarch_note3"
+string "Voilà! Tidak ada lagi layar "MSU-1 missing", dan musik!"
+
+
+& Images &
+
+
+imgid "famicomcd_main_logo"
+imagesrc "https://famicomcd.org/graphics/famicomcdlogo.png"
+
+imgid "discord_main_page_banner"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcddiscord.png"
+
+imgid "translators_main_page_banner"
+imagesrc "https://famicomcd.org/graphics/banners/famicomcdtranslators.webp"
+
+imgid "smbcd_main_logo"
+imagesrc "https://famicomcd.org/graphics/smbcdlogo/smbcdlogo.png"
+
+imgid "deprecated_general_back_button"
+imagesrc "https://famicomcd.org/graphics/banners/back.png"
+
+imgid "kofi_main_page_banner"
+imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
+
+
+
+
+& deprecated pages &
+
+strid "deprecated_smbcd_about"
+string "Tentang"
+
+strid "deprecated_smbcd_story"
+string "Cerita"
+
+strid "deprecated_smbcd_expectations"
+string "Apa Saja Kontennya?"
+
+strid "deprecated_smbcd_trailer"
+string "Penasaran? Tonton video trailernya!"
+
+strid "deprecated_smbcd_screenshots"
+string "Screenshot"
+
+strid "deprecated_smbcd_tagline1"
+string "Super Mario Bros. CD (SMBCD) adalah ROM hack dari Super Mario World yang diubah menjadi game SMB apabila dimainkan di dalam konsol berbasis CD! Konsol berbasis CD ini yang dimaksud adalah FamicomCD, yang merupakan add-on fiksi untuk konsol Famicom/NES dan bukan Super NES CD, karena beberapa orang suka ketukar dengan kedua hal itu."
+
+strid "deprecated_smbcd_tagline2"
+string "SMBCD memanfaatkan chip MSU-1 untuk memberikan lagu-lagu yang berkualitas layaknya musik dalam CD, adegan animasi, dan lingkungan yang lebih kompleks, bahkan di hardware asli melalui SD2SNES/FXPak Pro! SMBCD sangat memanfaatkan Mode 0 (sebuah mode SNES background, mirip seperti Mode 7) untuk setiap level, memberikan lebih banyak layer untuk elemen foreground dan paralaks background. Mode 0 memberikan 4 layer dibanding 2-3 layer yang dapat ditemukan dalam SMW dengan menggunakan Mode 1, tetapi semua layer diubah menjadi 2BPP atau 4 warna per tile (layer sprite tidak dihitung karena tetap menggunakan 16 warna)."
+
+strid "deprecated_smbcd_story1"
+string "SMBCD terjadi di sebuah kepulauan kecil namun beragam yang Bernama Kepulauan Brixurei. Suatu hari, secara misterius, Pelindung Brixurei — sumber keamanan dan kenyamanan bagi kepulauan tersebut — menjadi marah, mengakibatkan cuaca buruk dan mengganggu satwa liar untuk berkeliaran merajalela. Para penduduk merasa cemas dan khawatir. Mereka yang meninggalkan tempat tinggalnya untuk mencari tahu penyebabnya tidak pernah kembali lagi.<br><br>Di tengah kekacauan tersebut, Para penduduk meminta pertolongan satu-satunya yaitu Mario Bros. untuk membantu mereka. Sesudah Mushroom Kingdom mengucapkan selamat tinggal, Mario segera berangkat ke Kepulauan Brixurei dengan kapal, bersama adiknya Luigi dalam perjalanannya. Dalam pertualangan ini, mereka akan bertemu dengan teman baru yang akan menemani mereka."
+
+strid "deprecated_smbcd_footnote1"
+string "• 40+ level yang saling menyambung untuk menghasilkan alur cerita yang kohesif."
+
+strid "deprecated_smbcd_footnote2"
+string "• Cerita yang mendalam dan diceritakan melalui adegan dan level saat melewatinya."
+
+strid "deprecated_smbcd_footnote3"
+string "• Lagu-lagu original dengan genre city pop, berasa seperti lagu 80an."
+
+strid "deprecated_smbcd_footnote4"
+string "• Beberapa power-up baru dan lama yang akan membantu anda dalam perjalanan ini."
+
+strid "deprecated_smbcd_footnote5"
+string "• Berbagai musuh baru dan lama yang akan menghalangi perjalanan anda."
+
+
+
+
+strid "deprecated_tutorial_thingstonote"
+string "Hal yang Perlu Dicatat"
+
+strid "deprecated_tutorial_videoversion"
+string "Video Petunjuk"
+
+strid "deprecated_tutorial_setup"
+string "Pemasangan SMBCD dan MSU-1"
+
+strid "deprecated_tutorial_note1"
+string "Petunjuk ini memberikan arahan cara menginstall ROM hack Super Mario World (SMW), dan cara menggunakan MSU-1. Meskipun memberi petunjuk mengenai SMBCD, Namun bisa dijadikan panduan untuk ROM hack Super NES lainnya."
+
+strid "deprecated_tutorial_note2"
+string "MSU-1 merupakan cara SMBCD memberikan lagu-lagu yang berkualitas CD dengan fitur lainnya yang susah dilakukan oleh Super NES yang asli, dan itulah MSU-1 sangat diperlukan oleh SMBCD untuk dimulai. Jika anda tidak mempunyai MSU-1 atau tidak diinstal dengan benar, SMBCD tidak dapat dimainkan. Jika anda mengikuti petunjuk dan menginstal semua file untuk MSU-1 tapi SMBCD masih belum dapat dimainkan, cek apakah emulator anda cocok dengan MSU-1 atau ikuti FamicomCD Discord untuk bantuan."
+
+strid "deprecated_tutorial_note3"
+string "<b>Important: </b>Anda harus memerlukan USA Super Mario World ROM untuk pemasangan file BPS SMBCD. Kami sarankan untuk mengeluarkan cartridge SMW Super NES milik anda. Kami tidak akan memberi instruksi bagaimana atau dimana mendapatkan ROM jika anda tidak mau, atau tidak bisa mengeluarkan cartridge milik anda."
+
+strid "deprecated_tutorial_note4"
+string "(Pada bagian awal petunjuk adalah pemasangan ROM hack SMW secara umum. Jika anda tahu bagaimana cara memasangnya, lompat ke step 5)."
+
+strid "deprecated_tutorial_note5"
+string "*File PCM hanya menyangkut pada aturan ini karena dibutuhkan nomor treknya untuk muncul setelah namanya. Disimbolkan dengan tanda penghubung dan angkanya."
+
+
+strid "deprecated_tutorial_methodflips"
+string "Metode Floating IPS"
+
+strid "deprecated_tutorial_methodmarc"
+string "Metode Marc's Online Patcher"
+
+
+strid "deprecated_tutorial_step1"
+string "<b>Step 1: </b>Pertama, download sebuah SMBCD dari laman <a href="https://famicomcd.org/smbcd/download">Download</a>. Setelah itu, akan didownload dalam zip file."
+
+strid "deprecated_tutorial_step2"
+string "<b>Step 2: </b>Buka zipe filenya untuk melihat kontennya. Jika anda tidak mempunyai alat pembuka zip archive, kami menyarankan menggunakan 7-Zip."
+
+strid "deprecated_tutorial_step3"
+string "<b>Step 3: </b>Ketika membuka zip archivenya, anda akan melihat file patch SMBCD BPS, file MSU, dan PCM file. Anda harus waswas dengan file BPSnya. Disinilah game file SMW anda digunakan."
+
+strid "deprecated_tutorial_step4"
+string "<b>Step 4: </b>Tambahkan SMBCD BPS ke dalam game file SMW menggunakan <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> atau <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
+
+strid "deprecated_tutorial_step5"
+string "<b>Step 5: </b>Setelah anda memasangnya, bisa ditest apakah dapat dimulai. Jika layar "MSU-1 required" muncul, anda berhasil memasangnya, namun belum selesai. Anda memerlukan file-file MSU-1 untuk menyelesaikan instalasi."
+
+strid "deprecated_tutorial_step6"
+string "<b>Step 6: </b>Masih ingatkah file MSU dan file PCM sebelumnya? Anda perlu memasukkan file-file tersebut ke dalam folder yang sama dan dengan nama yang sama sesuai game file SMBCD. Untuk kerapian, disarakan bagi anda untuk menyimpan semua file SMBCD di dalam foldernya tersendiri."
+
+strid "deprecated_tutorial_step7"
+string "<b>Step 7: </b>Setelah semua file sudah dimasukkan, SMBCD seharusnya dapat dimulai dengan normal. Jika anda masih mendapatkan error "MSU-1 is missing", pastikan emulator anda cocok dengan <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Info Emulator</a> atau ikuti FamicomCD Discord untuk bantuan."
+
+
+strid "deprecated_smbcdteam_meet"
+string "Kenali Tim Super Mario Bros. CD!"
+
+strid "deprecated_smbcdteam_translators"
+string "Penerjemah"
+
+strid "deprecated_smbcdteam_director"
+string "Direktor dan Produser"
+
+strid "deprecated_smbcdteam_art"
+string "Direktor Seni"
+
+strid "deprecated_smbcdteam_sound"
+string "Direktor Musik/Suara"
+
+strid "deprecated_smbcdteam_graphics"
+string "Seni/Grafis"
+
+strid "deprecated_smbcdteam_music"
+string "Musik"
+
+strid "deprecated_smbcdteam_voice"
+string "Pengisi Suara"
+
+strid "deprecated_smbcdteam_asm"
+string "Programmer ASM"
+
+strid "deprecated_smbcdteam_es"
+string "Terjemahan Spanyol"
+
+strid "deprecated_smbcdteam_jp"
+string "Terjemahan Jepang"
+
+strid "deprecated_smbcdteam_it"
+string "Terjemahan Italia"
+
+strid "deprecated_smbcdteam_ru"
+string "Terjemahan Rusia"
+
+strid "deprecated_download_downloads"
+string "Download"
+
+strid "deprecated_download_special"
+string "Spesial dan Event Demo/Download"
+
+
+strid "deprecated_download_oops"
+string "Waduh, sepertinya belum ada yang dapat didownload untuk sekarang..."
+
+
+strid "deprecated_download_speedrundemo_2.2"
+string "SMBCD Speedrun Comp. Demo v2.2"
+
+strid "deprecated_download_"
+string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+
+
+strid "deprecated_speedrun_name"
+string "Kompetisi Speedrun"
+
+strid "deprecated_speedrun_thanks"
+string "Kompetisinya telah berakhir dan skornya sudah terhitung! Terima kasih bagi yang sudah berpartisipasi."
+
+strid "deprecated_speedrun_updatename"
+string "Versi 2.2!!!!"
+
+strid "deprecated_speedrun_descupdate"
+string "Gamenya sudah diupdate dengan perbaikan bug, perubahan warna/grafis, dan fasilitas mekanik speedrun! Sekarang anda dapat mengambil rekor Waktu dengan menginjak Goomba, Sidestepper, Tweeter, dan Cheep Cheep, serta mengulang lagi dengan cepat dengan menekan L dan R! Segera download di bawah ini! Tanggal terakhir kompetisi ini dipindah ke 12 April untuk diupdate demonya!"
+
+
+strid "deprecated_speedrun_desc1"
+string "Siapkan diri anda untuk mengikuti kompetisi speedrun SMBCD!"
+
+strid "deprecated_speedrun_desc2"
+string "Demo SMBCD Speedrun Competition ini dapat dimainkan dengan 2 cara! Demo ini dapat dicoba bagi yang mau memainkan gamenya, sekaligus sebuah kompetisi bagi mereka yang mau speedrun melewati berbagai macam level untuk mendapat kesempatan menjadi playtester di versi internal berikutnya, atau hanya ingin speedrun keseluruhan gamenya!"
+
+strid "deprecated_speedrun_desc3"
+string "Game ini memiliki fitur timer, jadi anda tidak perlu khawatir untuk menyiapkan timer sendiri! Kompetisi ini dibagi menjadi tiga kategori karena adanya perbedaan skema kontrol, bisa ditentukan segera untuk judul video anda:"
+
+
+strid "deprecated_speedrun_sfc"
+string "Hardware (SNES/SFC atau FPGA Solutions)"
+
+strid "deprecated_speedrun_keyboard"
+string "Emulator dengan keyboard"
+
+strid "deprecated_speedrun_controller"
+string "Emulator dengan Controller/Touch"
+
+
+strid "deprecated_speedrun_submit"
+string "Ikuti grup Discord kami untuk melampirkan hasil speedrun anda!*<br>*Jangan lampirkan hasil speedrun menggunakan versi v1.3 atau dengan display selain ukuran 4:3 atau aspek rasio kotak (8:7, 1:1, etc.), jadi hasil sppedrun dengan aspek rasio misalnya 16:9 tidak dapat diterima (ukuran video anda bebas ukurannya berapa saja, hanya tidak boleh di dalam gamenya)."
+
+strid "deprecated_speedrun_"
+string "Tonton Pengungumannya!"
+
+strid "deprecated_speedrun_2.2"
+string "Download v2.2"
+
+strid "deprecated_speedrun_2.2mirror"
+string "Download v2.2 Mirror"
+
+strid "deprecated_speedrun_1.3"
+string "Download v1.3"
+
+
+strid "deprecated_about_famicomcd"
+string "Apa Itu FamicomCD?"
+
+strid "deprecated_about_ar"
+string "Apa Itu FamicomCD Dari Sisi Alternate Reality?"
+
+strid "deprecated_about_risk"
+string "Apakah Nintendo Akan Mengjatuhkan FamicomCD atau SMBCD?"
+
+strid "deprecated_about_famicomcddesc"
+string "FamicomCD merupakan nama add-on Famicom/konsol semua-dalam-satu bersifat fiksi, sebagian add-on memiliki kemiripan dengan Famicom Disk System. Proyek FamicomCD dibuat oleh King Mayro pada bulan Feburari 2023. Awalnya dibuat untuk share mockup game dan software yang hanya dapat dibuat untuk konsol/add-on FamicomCD, lalu Super Mario Bros. CD diadaptasikan ke dalam proyek sebagai proyek SMBCD yang sudah direncanakan sebelum pembuatan FamicomCD."
+
+strid "deprecated_about_ar1"
+string "Dari sisi alternate reality, FamicomCD merupakan add-on untuk konsol Famicom, sekaligus sebagai konsol semua-dalam-satu yang dirilis pada tahun 1989/1990. Telah beredar rumor dimana sebelumnya ada add-on berbasis disket bernama Famicom Disk System, namun tidak ada yang muncul dari hal tersebut dan digantikan dengan FamicomCD."
+
+strid "deprecated_about_ar2"
+string "FamicomCD tidak hanya game-game Famicom dengan audio berkualitas CD, namun juga meningkatkan semua aspek dari Famicom secara luar biasa:"
+
+strid "deprecated_about_arwall"
+string "• A 16-Bit CPU<br><br>• 4 layer untuk latar dan paralaks background (contohnya 2 layer untuk latar depan dan 2 layer untuk latar belakang).<br><br>• Audio berkualitas CD<br><br>• 1 DPCM Channel ekstra(untuk total menjadi 2) dan 1 FM Synthesizer Channel saat memainkan audio CD<br><br>• 8 DPCM Channel dan ekspansi 1 FM Synthesizer Channel saat tidak memainkan audio CD (Semua suara dibuat berdasarkan chip 2A03 di Famicom asli)<br><br>• Efek transparan pada salah satu layer<br><br>• Penyaluran Tilemap/FMV<br><br>• 112 Sprite dalam satu layar<br><br>• Ekspansi kontroler FamicomCD dengan D-PAD, Start, Select, 4 tombol, dan tombol L/R di atas. Meskipun kontroler baru, FamicomCD cocok dengan kontroler Famicom aslinya, setiap game dalam memilih kontroler mana yang dapat dimainkan.<br><br>• Color Upload dimana sistem ini dapat mengunggah warna langsung ke dalam palet atau mengunggah warna langsung ke suatu piksel di dalam layar. Warna ini merupakan RGB 15bit dibanding spesifik warnanya Famicom, namun warna diunggah setiap frame sehingga banyak waktu CPU yang digunakan)."
+
+strid "deprecated_about_riskdesc"
+string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk hal lain terjadi, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukannya karena alasan di atas."
+

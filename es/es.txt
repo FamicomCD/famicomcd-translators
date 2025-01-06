@@ -219,53 +219,53 @@ string "FamicomCD y el equipo FamicomCD no están afiliados de ninguna manera o 
 & Installation Guides &
 
 strid "install_desc"
-string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel free to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Estas guías indican cómo instalar Super Mario Bros. CD (SMBCD), y cómo utilizar MSU-1. Si sigues los pasos del manual, el proceso de parche puede también aplicar a otros tipos de rom hacks. Si estás teniendo problemas con el proceso de instalación, no dudes en contactarnos en <a href="https://discord.gg/wpSGt5aTuw">Discord</a> o <a href="mailto:support@famicomcd.org">escribir a nuestro correo</a>!"
 
 strid "install_note_automatic"
-string "Automatic"
+string "Automático"
 
 strid "install_note_manual"
 string "Manual"
 
 strid "install_note_usage"
-string "Usage
+string "Uso"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Para Windows"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Para PC"
 
 strid "install_method_smbcmd"
-string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
+string "SMBC(M)D - Usando el auto-parcheador de Super Mario Bros. CD"
 
 strid "install_method_flips"
-string "Patching with Floating IPS"
+string "Parcheo usando Floating IPS"
 
 strid "install_method_marc"
-string "Patching with Marc Robledo's Online Patcher"
+string "Parcheo usando el parcheador de navegador de Marc Robledo"
 
 strid "tutorial_ios_retroarch"
 string "Using SMBCD on Retroarch for iOS"
 
 
 strid "install_guide_requirements"
-string "For this method you will need:"
+string "Para este metodo necesitas:"
 
 strid "install_guide_autopatcher_requirements"
-string "- A computer running a version of Windows OS."
+string "- Una computadora con una versión de SO Windows."
 
 strid "install_guide_autopatcher_py_requirements"
-string "- A device with Python 3.12 or above."
+string "- Un dispositivo con Python 3.12 o superior."
 
 strid "install_guide_flips_requirements"
-string "- A zip archive extractor (we heavily recommend <a href="https://www.7-zip.org/">7-Zip</a>)<br>- A computer running a version of Windows or Linux OS.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- Un extractor de archivos zip (recomendamos <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Una computadora con una versión de SO Windows o Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
-string "- A zip archive extractor<br>- A web browser"
+string "- Un extractor de archivos zip<br>- Un navegador web"
 
 strid "install_guide_warning"
-string "<b>Important:</b> You need your own USA Super Mario World ROM to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get a ROM if you don't want to, or are unable to dump your own cartridge."
+string "<b>Importante:</b> Necesitas tener tu propio ROM norteamericano de Super Mario World para parchar el archivo BPS de SMBCD. recomendamos que hagas un dump (copia) de tu cartucho original de SMW para la super NES. No te indicaremos cómo o donde conseguir el ROM si no prefieres, o no puedes hacer un dump de tu cartucho."
 
 
 
@@ -467,13 +467,13 @@ strid "deprecated_smbcd_footnote2"
 string "• Una emocionante historia que sera contada poco a poco mediante varios cutscenes y niveles."
 
 strid "deprecated_smbcd_footnote3"
-string "• Una banda sonora totalmente nueva tomando inspiraciones de generos como el City Pop y la musica de los mediados de los 80."
+string "• Una banda sonora completamente nueva tomando inspiraciones de generos como el City Pop y la musica de los 80."
 
 strid "deprecated_smbcd_footnote4"
-string "• ¡Power-ups nuevos y clasicos te ayudarán a lo largo de tu aventura!"
+string "• ¡Power-ups nuevos y clasicos que te ayudarán a lo largo de tu aventura!"
 
 strid "deprecated_smbcd_footnote5"
-string "• Varios enemigos, algunos incluso nuevos, tratarán de terminar con tu aventura. ¿Podrás con ellos?"
+string "• Varios enemigos antiguos y nuevos, tratarán de terminar con tu aventura. ¿Podrás con ellos?"
 
 
 strid "deprecated_smbcdteam_meet"

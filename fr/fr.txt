@@ -71,16 +71,16 @@ string "Membres de la Team SMBCD"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Emulateurs Compatibles"
+string "Matériel & Emulateurs Compatibles"
 
 strid "support_sheet_description"
 string "Parce que SMBCD est un rom hack et non un jeu PC natif, la bonne compatibilité des emulateurs et du hardware (consoles originales ou compatibles) est vitale pour une expérience de jeu optimale."
 
 strid "support_sheet_description_p2"
-string "Si vous utilisez un émulateur ou une console (compatible) qui n'apparait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos commentaires sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou par <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>. Si vous cherchez des informations sur les cartes SD compatibles FXPak Pro/SD2SNES, veuillez vous référer à la <a href="https://sd2snes.de/blog/card-list">liste des cartes compatibles SD2SNES</a>."
+string "Si vous utilisez une console (compatible) ou un émulateur qui n'apparait pas dans la liste ci-dessous, n'hésitez pas à faire parvenir vos commentaires sur notre <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>. Si vous cherchez des informations sur les cartes SD compatibles FXPak Pro/SD2SNES, veuillez vous référer à la <a href="https://sd2snes.de/blog/card-list">liste des cartes SD compatibles SD2SNES</a>."
 
 strid "support_sheet_description_p3"
-string "Si vous voulez plus d'informations sur l'efficacité d'un émulateur (ou d'un matériel), cliquez simplement sur le panneau d'information de l'émulateur/du matériel."
+string "Si vous souhaitez plus d'informations sur l'efficacité d'un émulateur ou d'une console, cliquez simplement sur le panneau de l'émulateur ou console."
 
 strid "yes"
 string "oui"
@@ -120,7 +120,7 @@ strid "support_accuracy"
 string "Précision des émulateurs"
 
 strid "support_platforms"
-string "Platformes"
+string "Plateformes"
 
 strid "support_type_emulator"
 string "Emulation Logicielle"
@@ -129,7 +129,7 @@ strid "support_type_fpga"
 string "Emulation FPGA"
 
 strid "support_type_hardware"
-string "Materiel"
+string "Matériel"
 
 
 strid "support_rank_flawless"
@@ -158,7 +158,7 @@ strid "hardware_superfamicom"
 string "Super Nintendo"
 
 strid "emulator_superfamicom"
-string "Super Nintendo Classic"
+string "Super Nintendo Classic Mini"
 
 
 
@@ -265,7 +265,7 @@ strid "install_guide_marc_requirements"
 string "- Un extracteur de fichiers zip<br>- Un navigateur internet"
 
 strid "install_guide_warning"
-string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super NES. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche ".
+string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super Nintendo. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche ".
 
 
 

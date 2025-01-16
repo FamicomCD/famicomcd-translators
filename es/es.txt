@@ -246,7 +246,7 @@ strid "install_method_marc"
 string "Parcheo usando el parcheador de navegador de Marc Robledo"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Usando SMBCD en Retroarch para iOS"
 
 
 strid "install_guide_requirements"

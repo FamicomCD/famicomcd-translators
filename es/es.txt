@@ -345,28 +345,28 @@ string "5. 5. Asegurate de que los archivos PCM y MSU se encuentren en la misma 
 & Marc Patcher &
 
 strid "install_guide_marc_step3"
-string "3. Open <a href="https://www.marcrobledo.com/RomPatcher.js/">Marc Robledo's Online Patcher</a>, then patch SMBCD.bps to your SMW ROM. (If the patcher is showing the warning <q>Source ROM checksum mismatch</q>, check the <q>Remove header</q> checkbox)."
+string "3. Abre <a href="https://www.marcrobledo.com/RomPatcher.js/">el parcheador de navegador de Marc Robledo</a>y parchea SMBCD.bps a tu ROM de SMW. (Si el parcheador muestra una advertencia que dice <q>Source ROM checksum mismatch</q>, revisa la casilla <q>Remove header</q>)."
 
 strid "install_guide_marc_step3_detailed_stepa"
-string "3.a. <a href="https://www.marcrobledo.com/RomPatcher.js/">Open Marc Robledo's Online Patcher</a>"
+string "3.a. <a href="https://www.marcrobledo.com/RomPatcher.js/">Abre el parcheador de navegador de Marc Robledo</a>"
 
 strid "install_guide_marc_step3_detailed_stepb"
-string "3.b. Click the <q>No file selected.</q> button next to <q>ROM File:</q>"
+string "3.b. Haz click en <q>No file selected.</q> al lado de <q>ROM File:</q>"
 
 strid "install_guide_marc_step3_detailed_stepc"
-string "3.c. Navigate to the folder your SMW ROM is stored in and select it"
+string "3.c. Navega a la carpeta donde ubicaste tu ROM de SMW y selecciónalo"
 
 strid "install_guide_marc_step3_detailed_stepd"
-string "3.d. Click the <q>No file selected.</q> button next to <q>Patch File:</q>"
+string "3.d. Haz click en <q>No file selected.</q> al lado de <q>Patch File:</q>"
 
 strid "install_guide_marc_step3_detailed_stepe"
-string "3.e. Navigate to the folder you stored your SMBCD files in and select SMBCD.bps"
+string "3.e. Navega a la carpeta donde ubicaste tus archivos de SMBCD y selecciona SMBCD.bps"
 
 strid "install_guide_marc_step3_detailed_stepf"
-string "3.f. Click <q>Apply Patch</q>, (If the patcher is showing the warning <q>Source ROM checksum mismatch</q>, check the <q>Remove header</q> checkbox)"
+string "3.f. Haz click en <q>Apply Patch</q>, (Si el parcheador muestra una advertencia que dice <q>Source ROM checksum mismatch</q>, revisa la casilla <q>Remove header</q>)"
 
 strid "install_guide_marc_step3_detailed_stepg"
-string "3.g. Navigate to the folder your SMBCD files are stored in and save the patched ROM as SMBCD.smc or SMBCD.sfc"
+string "3.g. Navega a la carpeta donde ubicaste tus archivos de SMBCD y guarda el ROM parcheado como SMBCD.smc o SMBCD.sfc"
 
 
 

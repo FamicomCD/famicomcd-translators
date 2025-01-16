@@ -373,41 +373,41 @@ string "3.g. Navega a la carpeta donde ubicaste tus archivos de SMBCD y guarda e
 & AutoPatcher &
 
 strid "install_guide_autopatcher_step1"
-string "1. Download an SMBCD Auto-Patcher build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
+string "1. Descarga un "build" del auto-parcheador de SMBCD de la <a href="https://famicomcd.org/smbcd/download">Pagina de descargas</a>."
 
 strid "install_guide_autopatcher_step2"
-string "2. Open the program. It should open to a command prompt-esque window."
+string "2. Abre el programa. Una ventana identica a la del Símbolo de sistema se abrirá."
 
 strid "install_guide_autopatcher_step3"
-string "3. Drag and drop your SMW ROM into the window, then hit enter."
+string "3. Arrastra y suelta tu ROM de SMW a la ventana, luego presiona enter."
 
 strid "install_guide_autopatcher_step4"
-string "4. Drag and drop the folder you want to hold all of your SMBCD files into the window, then hit enter."
+string "4. Arrastra y suelta la carpeta donde quieres almacenar todos tus archivos de SMBCD en la ventana, luego presiona enter."
 
 strid "install_guide_autopatcher_step5"
-string "5. Test if the game starts as normal. If the MSU-1 missing screen appears, make sure your emulator is supported in the <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
+string "5. Prueba si el juego se ejecuta correctamente. Si te sale una pantalla que dice "MSU-1 missing", asegurate de que tu emulador sea compatible verificando que aparezca en la <a href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "Retroarch en iOS es muy especifico cuando se trata de almacenar tus archivos. según dónde almacenas y cargas tus archivos, puede que no tengas problemas o que no suene la música o aparezca la pantalla "MSU-1 missing"."
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "Esta breve guía debería remediar todos los problemas mencionados. De lo contrario, deberias contactarnos."
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "Mueve tus archivos de SMBCD a la carpeta de descagas de Retroarch; se puede encontrar en"
 
 strid "tutorial_ios_retroarch_step1_directory"
 string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "Luego, abre Retroarch, y navega a la carpeta de descargas desde el menú de <q>Load Content</q>(Asegurate de cargar los archivos en "descargas" <q>Downloads</q> y no en <q>Open...</q>). Luego, Selecióna el "core" de BSNES o SNES9x (Si piensas usar SNES9x, asegurate de que no sea el "core" de 2005 o 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "¡Ya está! La pantalla de "MSU-1 missing" no aparecerá al cargar el juego, ¡y podrás jugar con música!"
 
 
 & Images &

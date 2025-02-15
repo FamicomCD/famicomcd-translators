@@ -413,14 +413,24 @@ string "Voilà! No more MSU-1 missing screen, and more music!"
 
 & SMBCD Page &
 
-strid "smbcd_button_story"
-string "Story and Game Info"
+strid "smbcd_button_enemies"
+string "Enemies"
+
+strid "smbcd_button_storyinfo"
+string "Story and Info"
 
 strid "smbcd_button_play_bgm"
 string "Play BGM"
 
+strid "smbcd_button_stop_bgm"
+string "Stop BGM"
+
 strid "smbcd_button_learn_more"
 string "Learn More ➜"
+
+strid "smbcd_heading_screenshots"
+string "SCREENSHOTS"
+&& In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
 string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the support sheet."
@@ -443,36 +453,162 @@ string "Shoot fire from your fingertips at enemies!"
 strid "smbcd_desc_powerup_star"
 string "Invincibility against most threats aside from pits!"
 
-strid ""
-string ""
+strid "smbcd_mario_or_luigi"
+string "Play as either Mario or Luigi in this single player adventure!"
 
-strid ""
-string ""
+strid "smbcd_end_convincing"
+string "Not convinced? You can also:"
 
-strid ""
-string ""
+strid "smbcd_end_convincing_learn"
+string "Learn More"
 
-strid ""
-string ""
+strid "smbcd_end_convincing_or"
+string "Or"
 
-strid ""
-string ""
+strid "smbcd_end_convincing_download"
+string "Try SMBCD Out"
 
-strid ""
-string ""
+&& unused currently &&
+strid "smbcd_controller_map_jump"
+string "Ⓑ Jump"
 
-strid ""
-string ""
+strid "smbcd_controller_map_dismount"
+string "Ⓐ Jump/Dismount"
 
-strid ""
-string ""
+strid "smbcd_controller_map_fireball"
+string "Ⓧ/Ⓨ Dash/Shoot Fireball/Pick Up Item"
 
-strid ""
-string ""
+strid "smbcd_controller_map_pan"
+string "🄻 Pan Left/🅁 Pan Right"
 
-strid ""
-string ""
+strid "smbcd_controller_map_pause"
+string "(Start) Pause"
 
+strid "smbcd_controller_map_move"
+string "(D-PAD) Move"
+&& end of unused &&
+
+
+
+&& SMBCD Download &&
+
+strid "smbcd_download_description_main"
+string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the Installation Guides! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows (and of course your own rom).
+
+strid "smbcd_download_demos_heading"
+string "Demo Builds"
+
+strid "smbcd_download_event_heading"
+string "Special/Event Builds"
+
+strid "smbcd_content_download_feb2025demo"
+string "February C3 SMBCD Demo"
+
+strid "smbcd_content_download_autopatcher_feb2025demo"
+string "February C3 SMBCD Demo Auto-patcher"
+
+strid "smbcd_content_download_speedrundemo_2.2"
+string "SMBCD Speedrun Comp. Demo v2.2"
+
+strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
+string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+
+
+
+&& SMBCD Enemies &&
+
+strid "smbcd_enemy_goomba"
+string "Goomba"
+
+strid "smbcd_enemy_goomba_desc"
+string "Not originally inhabitants of the Archipelago. Due to their presence, many ecosystems have been thrown from equilibrium."
+
+strid "smbcd_enemy_lobba"
+string "Lobba"
+
+strid "smbcd_enemy_lobba_desc"
+string "They can flail their legs incredibly quickly in defense. In fact, their struggle can destroy fireballs."
+
+strid "smbcd_enemy_koopa"
+string "Koopa"
+
+strid "smbcd_enemy_koopa_desc"
+string "When Koopas feel threatened, they will hide in their shell."
+
+strid "smbcd_enemy_piranha_plant"
+string "Piranha Plant"
+
+strid "smbcd_enemy_piranha_plant_desc"
+string "Not originally inhabitants of the Archipelago. Their ferocious bite proves useless when they're stuck in a pipe."
+
+strid "smbcd_enemy_smoocher"
+string "Smoocher"
+
+strid "smbcd_enemy_smoocher_desc"
+string "Despite their lack of teeth, the clamp force of their lips is dangerous."
+
+strid "smbcd_enemy_buzzy"
+string "Buzzy Beetle"
+
+strid "smbcd_enemy_buzzy_desc"
+string "They can survive on little sustenance for months, making them well-suited for cave life."
+
+strid "smbcd_enemy_swooper"
+string "Swooper"
+
+strid "smbcd_enemy_swooper_desc"
+string "Brixureian Swoopers prefer their surroundings slightly illuminated when sleeping."
+
+strid "smbcd_enemy_wiggler"
+string "Wiggler"
+
+strid "smbcd_enemy_wiggler_desc"
+string "When the flower atop their head falls off, it takes a year for it to grow back."
+
+strid "smbcd_enemy_slicer"
+string "Berrysuit"
+
+strid "smbcd_enemy_slicer_desc"
+string "The tough skin of this vaguely vegetative creature makes it invulnerable to fireballs."
+
+strid "smbcd_enemy_slices"
+string "Round(s)"
+
+strid "smbcd_enemy_slices_desc"
+string "Often coming in pairs, they are particularly vulnerable when their Berrysuit is broken."
+
+strid "smbcd_enemy_nipper"
+string "Nipper Plant"
+
+strid "smbcd_enemy_nipper_desc"
+string "On average, they can nip up to 200 times a minute without tiring."
+
+strid "smbcd_enemy_ptooie"
+string "Ptooie"
+
+strid "smbcd_enemy_ptooie_desc"
+string "What they lack in teeth, these plants make up for in their exorbitant breath capacity."
+
+strid "smbcd_enemy_tweeter"
+string "Tweeter"
+
+strid "smbcd_enemy_tweeter_desc"
+string "Their wings are far too small to produce much more than a hop. The higher the hop, the more energy they expend."
+
+strid "smbcd_enemy_sidestepper"
+string "Sidestepper"
+
+strid "smbcd_enemy_sidestepper_desc"
+string "Sidesteppers are quick to agitate. Encroaching on their territory can have devastating consequences."
+
+strid "smbcd_enemy_spiny"
+string "Spiny"
+
+strid "smbcd_enemy_spiny_desc"
+string "Most Brixureian Spinies have shells that are far too small for them to hide in, as such they are easily separated from their shells by predators."
+
+strid "smbcd_enemy_"
+string ""
 
 
 & Images &
@@ -588,13 +724,6 @@ string "Special and Event Demos/Downloads"
 
 strid "deprecated_download_oops"
 string "Well, unfortunately there aren't any downloads in this section yet."
-
-
-strid "deprecated_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
-
-strid "deprecated_download_"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 
 
 strid "deprecated_speedrun_name"

@@ -3,25 +3,25 @@
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the Installation Guides! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows (and of course your own rom).
+string "Il posto per trovare qualsiasi build di Super Mario Bros. CD! Puoi imparare come installare SMBCD dai Tutorial Installazione! Nota: L'Auto-Patcher SMBCD richiede una connessione internet, e un dispositivo con Windows (e ovviamente la tua ROM).
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Build Demo"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Build Speciali/Evento"
 
 strid "smbcd_content_download_feb2025demo"
-string "February C3 SMBCD Demo"
+string "SMBCD Demo Febbraio C3"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February C3 SMBCD Demo Auto-patcher"
+string "SMBCD Demo Febbraio C3 Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "SMBCD Demo Comp. Speedrun v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
 
 
 

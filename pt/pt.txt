@@ -478,28 +478,28 @@ string ""
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string "O lugar para baixar qualquer versão de Super Mario Bros.CD! Você pode aprender a instalar o SMBCD pelo <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Obs: O Autopatcher SMBCD precisa de conexão à internet, e um dispositivo Windows, (e sua própria rom, claro)."
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "Espelhado"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Versões Demo"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Versões Speciais/de Eventos"
 
 strid "smbcd_content_download_feb2025demo"
-string "February SMBCD Demo v1.2"
+string "Demo SMBCD de Fevereiro v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "Auto-patcher da Demo SMBCD de Fevereiro v1.2 "
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "Demo da Competição de Speedrun SMBCD v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "Auto-patcher da Demo da Competição de Speedrun SMBCD v2.2"
 
 
 

@@ -493,7 +493,10 @@ string "(D-PAD) Move"
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the Installation Guides! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows (and of course your own rom).
+string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+
+strid "smbcd_download_tag_mirror"
+string "Mirror"
 
 strid "smbcd_download_demos_heading"
 string "Demo Builds"
@@ -502,10 +505,10 @@ strid "smbcd_download_event_heading"
 string "Special/Event Builds"
 
 strid "smbcd_content_download_feb2025demo"
-string "February C3 SMBCD Demo"
+string "February SMBCD Demo v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February C3 SMBCD Demo Auto-patcher"
+string "February SMBCD Demo v1.2 Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
 string "SMBCD Speedrun Comp. Demo v2.2"
@@ -517,23 +520,51 @@ string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 
 && SMBCD Enemies &&
 
+strid "smbcd_enemy_tag_grab"
+string "Grabbable"
+
+strid "smbcd_enemy_tag_fireimmune"
+string "Fireball-immune"
+
+strid "smbcd_enemy_tag_hidden"
+string "Hidden"
+& Can also been known as camouflaged & 
+
+strid "smbcd_enemy_tag_stationary"
+string "Stationary"
+
+strid "smbcd_enemy_tag_water"
+string "Water"
+
+strid "smbcd_enemy_tag_flight"
+string "Flying"
+
+strid "smbcd_enemy_tag_disguise"
+string "Disguise"
+
+strid "smbcd_enemy_tag_nostomp"
+string "Unstompable"
+
+strid "smbcd_enemy_tag_winged"
+string "Can have wings"
+
 strid "smbcd_enemy_goomba"
 string "Goomba"
 
 strid "smbcd_enemy_goomba_desc"
-string "Not originally inhabitants of the Archipelago. Due to their presence, many ecosystems have been thrown from equilibrium."
+string "Not originally inhabitants of the Archipelago. Due to their presence, many ecosystems have been thrown out of equilibrium."
 
 strid "smbcd_enemy_lobba"
 string "Lobba"
 
 strid "smbcd_enemy_lobba_desc"
-string "They can flail their legs incredibly quickly in defense. In fact, their struggle can destroy fireballs."
+string "They can flail their feet incredibly quickly in defense. In fact, their struggle can destroy fireballs."
 
 strid "smbcd_enemy_koopa"
 string "Koopa"
 
 strid "smbcd_enemy_koopa_desc"
-string "When Koopas feel threatened, they will hide in their shell."
+string "When Koopas feel threatened, they will hide in their shells."
 
 strid "smbcd_enemy_piranha_plant"
 string "Piranha Plant"
@@ -545,7 +576,7 @@ strid "smbcd_enemy_smoocher"
 string "Smoocher"
 
 strid "smbcd_enemy_smoocher_desc"
-string "Despite their lack of teeth, the clamp force of their lips is dangerous."
+string "Despite their lack of teeth, the clamping force of their lips is dangerous."
 
 strid "smbcd_enemy_buzzy"
 string "Buzzy Beetle"
@@ -606,6 +637,12 @@ string "Spiny"
 
 strid "smbcd_enemy_spiny_desc"
 string "Most Brixureian Spinies have shells that are far too small for them to hide in, as such they are easily separated from their shells by predators."
+
+strid "smbcd_enemy_cheep_cheep"
+string "Cheep Cheep"
+
+strid "smbcd_enemy_cheep_cheep_desc"
+string ""
 
 strid "smbcd_enemy_"
 string ""

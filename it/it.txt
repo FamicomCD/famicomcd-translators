@@ -1,30 +1,3 @@
-&TEMP DONT MIND&
-
-&& SMBCD Download &&
-
-strid "smbcd_download_description_main"
-string "Il posto per trovare qualsiasi build di Super Mario Bros. CD! Puoi imparare come installare SMBCD dai Tutorial Installazione! Nota: L'Auto-Patcher SMBCD richiede una connessione internet, e un dispositivo con Windows (e ovviamente la tua ROM).
-
-strid "smbcd_download_demos_heading"
-string "Build Demo"
-
-strid "smbcd_download_event_heading"
-string "Build Speciali/Evento"
-
-strid "smbcd_content_download_feb2025demo"
-string "SMBCD Demo Febbraio C3"
-
-strid "smbcd_content_download_autopatcher_feb2025demo"
-string "SMBCD Demo Febbraio C3 Auto-patcher"
-
-strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Demo Comp. Speedrun v2.2"
-
-strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
-
-
-
 & Use ampersands to comment things out if you need &
 
 
@@ -435,6 +408,35 @@ string "In seguito, apri Retroarch, e naviga verso la carella downloads dal men�
 
 strid "tutorial_ios_retroarch_note3"
 string "Voilà! Niente più schermata </q>MSU-1 Missing</q>, e più musica!"
+
+
+
+&& SMBCD Download &&
+
+strid "smbcd_download_description_main"
+string "Il posto per trovare qualsiasi build di Super Mario Bros. CD! Puoi imparare come installare SMBCD dai <a href="https://famicomcd.org/smbcd/installation">Tutorial Installazione</a>! Nota: L'Auto-Patcher SMBCD richiede una connessione internet, e un dispositivo con Windows (e ovviamente la tua ROM).
+
+strid "smbcd_download_tag_mirror"
+string "Mirror"
+
+strid "smbcd_download_demos_heading"
+string "Build Demo"
+
+strid "smbcd_download_event_heading"
+string "Build Speciali/Evento"
+
+strid "smbcd_content_download_feb2025demo"
+string "SMBCD Demo Febbraio v1.2"
+
+strid "smbcd_content_download_autopatcher_feb2025demo"
+string "SMBCD Demo Febbraio v1.2 Auto-patcher"
+
+strid "smbcd_content_download_speedrundemo_2.2"
+string "SMBCD Demo Comp. Speedrun v2.2"
+
+strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
+string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
+
 
 
 & Images &

@@ -414,28 +414,28 @@ string "Voilà! У вас больше нету назойливых ошибо�
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string " Здесь можно скачать все версии Super Mario Bros. CD! О том, как это сделать, вы можете узнать <a href="https://famicomcd.org/smbcd/installation">вот здесь</a>! П.С: Для работы авто-патчера необходимо стабильное интернет-соединение, а также компьютер с установленным Windows (и РОМ файл, само собой).
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "Зеркало"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Демо-версии"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Особые/Ивентовые демо-версии"
 
 strid "smbcd_content_download_feb2025demo"
 string "February SMBCD Demo v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "February SMBCD Demo v1.2 Авто-патчер"
 
 strid "smbcd_content_download_speedrundemo_2.2"
 string "SMBCD Speedrun Comp. Demo v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "SMBCD Speedrun Comp. Demo v2.2 Авто-патчер"
 
 
 

@@ -176,7 +176,7 @@ strid "contact_title"
 string "Hubungi Kami"
 
 strid "contact_description"
-string "Jika anda hubungi kami dengan alasan apapun, atau ingin follow akun sosial media kami, semua list situs dan akun ada di sini!"
+string "Jika anda hubungi kami dengan alasan apapun, atau ingin follow akun sosial media kami, semua situs dan akun ada di sini!"
 
 strid "contact_title_famicomcd"
 string "Akun FamicomCD"
@@ -416,28 +416,28 @@ string "Voilà! Tidak ada lagi layar "MSU-1 missing", dan musik!"
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string "Laman untuk mendownload semua versi Super Mario Bros. CD! Anda dapat mempelajari cara menginstal SMBCD di <a href="https://famicomcd.org/smbcd/installation">Cara Instalasi</a>! Note : SMBCD Auto-patcher memerlukan koneksi internet dan perangkat berbasis Windows, (dan juga ROM milik anda).
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "Alternatif"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Versi Demo"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Versi Spesial/Event"
 
 strid "smbcd_content_download_feb2025demo"
-string "February SMBCD Demo v1.2"
+string "SMBCD Demo Februari v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "SMBCD Demo Februari v1.2 Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "SMBCD Demo Speedrun v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "SMBCD Demo Speedrun v2.2 Auto-patcher"
 
 
 

@@ -478,7 +478,7 @@ string ""
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "O lugar para baixar qualquer versão de Super Mario Bros.CD! Você pode aprender a instalar o SMBCD pelo <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Obs: O Autopatcher SMBCD precisa de conexão à internet, e um dispositivo Windows, (e sua própria rom, claro)."
+string "O lugar para baixar qualquer versão de Super Mario Bros.CD! Você pode aprender a instalar o SMBCD pelos <a href="https://famicomcd.org/smbcd/installation">Guias de Instalação</a>! Obs: O Autopatcher SMBCD precisa de conexão à internet, e um dispositivo Windows, (e sua própria rom, claro)."
 
 strid "smbcd_download_tag_mirror"
 string "Espelhado"

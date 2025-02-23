@@ -642,7 +642,7 @@ strid "smbcd_enemy_cheep_cheep"
 string "Cheep Cheep"
 
 strid "smbcd_enemy_cheep_cheep_desc"
-string ""
+string "Despite their overall small size, they can leap out of the water as high as a dolphin."
 
 strid "smbcd_enemy_"
 string ""

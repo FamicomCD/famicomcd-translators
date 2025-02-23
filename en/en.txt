@@ -521,32 +521,32 @@ string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 && SMBCD Enemies &&
 
 strid "smbcd_enemy_tag_grab"
-string "Grabbable"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/grabbable.png"> Grabbable"
 
 strid "smbcd_enemy_tag_fireimmune"
-string "Fireball-immune"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/fireproof.png"> Fireball-immune"
 
 strid "smbcd_enemy_tag_hidden"
-string "Hidden"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/berrysuit.png"> Hidden"
 & Can also been known as camouflaged & 
 
 strid "smbcd_enemy_tag_stationary"
-string "Stationary"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/piranhaplant.png"> Stationary"
 
 strid "smbcd_enemy_tag_water"
-string "Water"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/underwater.png"> Water"
 
 strid "smbcd_enemy_tag_flight"
-string "Flying"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/wing.png"> Flying"
 
 strid "smbcd_enemy_tag_disguise"
-string "Disguise"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/berrysuit.png"> Disguise"
 
 strid "smbcd_enemy_tag_nostomp"
-string "Unstompable"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/spike.png"> Unstompable"
 
 strid "smbcd_enemy_tag_winged"
-string "Can have wings"
+string "<img class="enemytagicon" src="graphics/smbcdnew/enemies/icons/wing.png"> Can have wings"
 
 strid "smbcd_enemy_goomba"
 string "Goomba"

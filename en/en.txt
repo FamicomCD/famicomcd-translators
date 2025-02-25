@@ -231,10 +231,10 @@ strid "install_note_usage"
 string "Usage
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/graphics/icons/consoles/linux.png" loading="lazy">PC Only"
 
 strid "install_method_smbcmd"
 string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
@@ -521,45 +521,44 @@ string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 && SMBCD Enemies &&
 
 strid "smbcd_enemies_desc"
-string "Meet the old and new foes that you'll meet on your journey!"
-& don't translate this one &
+string "Meet the old and new, unfamiliar foes that you'll discover on your journey! If you find the animation overwhelming or uncomfortable, you can disable it using the Sidestepper button located next to the list buttons."
 
 strid "smbcd_enemy_tag_grab"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/grabbable.png"> Grabbable"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/grabbable.png"> Grabbable"
 
 strid "smbcd_enemy_tag_fireimmune"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/fireproof.png"> Fireball-immune"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/fireproof.png"> Fireball-immune"
 
 strid "smbcd_enemy_tag_hidden"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/berrysuit.png"> Hidden"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/berrysuit.png"> Hidden"
 & Can also been known as camouflaged & 
 
 strid "smbcd_enemy_tag_stationary"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/piranhaplant.png"> Stationary"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/piranhaplant.png"> Stationary"
 
 strid "smbcd_enemy_tag_water"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/underwater.png"> Water"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/underwater.png"> Water"
 
 strid "smbcd_enemy_tag_flight"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/wing.png"> Flying"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/wing.png"> Flying"
 
 strid "smbcd_enemy_tag_disguise"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/berrysuit.png"> Disguise"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/berrysuit.png"> Disguise"
 
 strid "smbcd_enemy_tag_nostomp"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/spike.png"> Unstompable"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/spike.png"> Unstompable"
 
 strid "smbcd_enemy_tag_stompproof"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/stompproof.png"> Stomp Proof"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/stompproof.png"> Stomp-proof"
 
 strid "smbcd_enemy_tag_winged"
-string "<img class="enemytagicon" src="../graphics/smbcdnew/enemies/icons/wing.png"> Can have wings"
+string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/wing.png"> Can have wings"
 
 strid "smbcd_enemy_goomba"
 string "Goomba"
 
 strid "smbcd_enemy_goomba_desc"
-string "Not originally inhabitants of the Archipelago. Due to their presence, many ecosystems have been thrown out of equilibrium."
+string "Not originally inhabitants of the Archipelago. Goombas often slack off on the job to mingle with other creatures, due to their sheer abundance, many ecosystems have been thrown out of equilibrium."
 
 strid "smbcd_enemy_lobba"
 string "Lobba"

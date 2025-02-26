@@ -521,7 +521,7 @@ string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
 && SMBCD Enemies &&
 
 strid "smbcd_enemies_desc"
-string "Meet the old and new, unfamiliar foes that you'll discover on your journey! If you find the animation overwhelming or uncomfortable, you can disable it using the Sidestepper button located next to the list buttons."
+string "Meet the old and new, unfamiliar foes that you'll discover on your journey! If you find the animations overwhelming or uncomfortable, you can disable it using the Sidestepper button located next to the list buttons."
 
 strid "smbcd_enemy_tag_grab"
 string "<img class="enemytagicon" src="https://famicomcd.org/graphics/smbcdnew/enemies/icons/grabbable.png"> Grabbable"
@@ -558,7 +558,7 @@ strid "smbcd_enemy_goomba"
 string "Goomba"
 
 strid "smbcd_enemy_goomba_desc"
-string "Not originally inhabitants of the Archipelago. Goombas often slack off on the job to mingle with other creatures, due to their sheer abundance, many ecosystems have been thrown out of equilibrium."
+string "Not originally inhabitants of the Archipelago. Goombas often slack off on the job to mingle with other creatures. On top of that, due to their sheer abundance, many ecosystems have been thrown out of equilibrium."
 
 strid "smbcd_enemy_lobba"
 string "Lobba"
@@ -654,6 +654,64 @@ strid "smbcd_enemy_"
 string ""
 
 
+
+& SMBCD Team Members &
+
+strid "smbcd_smbcdteam_meet"
+string "Meet The Super Mario Bros. CD Team"
+
+strid "smbcd_smbcdteam_translators"
+string "Translators"
+
+strid "smbcd_smbcdteam_directors"
+string "Directors"
+
+strid "smbcd_smbcdteam_director"
+string "Director and Producer"
+
+strid "smbcd_smbcdteam_art"
+string "Art Director"
+
+strid "smbcd_smbcdteam_sound"
+string "Music/Sound Director"
+
+strid "smbcd_smbcdteam_graphics"
+string "Art/Graphics"
+
+strid "smbcd_smbcdteam_music"
+string "Music/Sound"
+
+strid "smbcd_smbcdteam_voice"
+string "Voice Acting"
+
+strid "smbcd_smbcdteam_asm"
+string "ASM Programming"
+
+strid "smbcd_smbcdteam_translation"
+string "Translation"
+
+strid "smbcd_smbcdteam_es"
+string "Spanish Translation"
+
+strid "smbcd_smbcdteam_ja"
+string "Japanese Translation"
+
+strid "smbcd_smbcdteam_it"
+string "Italian Translation"
+
+strid "smbcd_smbcdteam_ru"
+string "Russian Translation"
+
+strid "smbcd_smbcdteam_it"
+string "French Translation"
+
+strid "smbcd_smbcdteam_pt"
+string "Portuguese Translation"
+
+strid "smbcd_smbcdteam_id"
+string "Indonesian Translation"
+
+
 & Images &
 
 imgid "famicomcd_main_logo"
@@ -717,56 +775,6 @@ string "• A few new and original power-ups that will assist you in your journe
 
 strid "deprecated_smbcd_footnote5"
 string "• Many old and new, unfamiliar foes that will attempt to cut your journey short."
-
-
-strid "deprecated_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
-
-strid "deprecated_smbcdteam_translators"
-string "Translators"
-
-strid "deprecated_smbcdteam_director"
-string "Director and Producer"
-
-strid "deprecated_smbcdteam_art"
-string "Art Director"
-
-strid "deprecated_smbcdteam_sound"
-string "Music/Sound Director"
-
-strid "deprecated_smbcdteam_graphics"
-string "Art/Graphics"
-
-strid "deprecated_smbcdteam_music"
-string "Music"
-
-strid "deprecated_smbcdteam_voice"
-string "Voice Actor"
-
-strid "deprecated_smbcdteam_asm"
-string "ASM Programming"
-
-strid "deprecated_smbcdteam_es"
-string "Spanish Translation"
-
-strid "deprecated_smbcdteam_jp"
-string "Japanese Translation"
-
-strid "deprecated_smbcdteam_it"
-string "Italian Translation"
-
-strid "deprecated_smbcdteam_ru"
-string "Russian Translation"
-
-strid "deprecated_download_downloads"
-string "Downloads"
-
-strid "deprecated_download_special"
-string "Special and Event Demos/Downloads"
-
-
-strid "deprecated_download_oops"
-string "Well, unfortunately there aren't any downloads in this section yet."
 
 
 strid "deprecated_speedrun_name"

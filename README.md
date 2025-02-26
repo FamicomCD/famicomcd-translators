@@ -7,7 +7,7 @@ We will not accept translations created using Google Translate or other translat
 
 Our list of currently supported languages are:
 - English (en),
-- Español (es) (managed by ![famicomCD](https://github.com/MagicMous3.png?size=20) [Magic Mouse](https://www.sudomemo.net/user/5912E180CEF9E084@DSi)),
+- Español (es) (managed by ![famicomCD] [Magic Mouse](https://www.sudomemo.net/user/5912E180CEF9E084@DSi)),
 - 日本語 (ja) (managed by ![famicomCD](https://github.com/JessDoesVids.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com)),
 - Italiano (it) (managed by ![famicomCD](https://github.com/Peppe021203.png?size=20) [Peppe](https://twitter.com/Peppe021203)),
 - Русский (ru) (managed by ![famicomCD](https://github.com/eugenephil.png?size=20) [Phil](https://bsky.app/profile/philmarseille.bsky.social)),

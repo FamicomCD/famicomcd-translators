@@ -12,7 +12,7 @@ Our list of currently supported languages are:
 - Italiano (it) (managed by ![famicomCD](https://github.com/Peppe021203.png?size=20) [Peppe](https://twitter.com/Peppe021203))
 - Русский (ru) (managed by ![famicomCD](https://github.com/eugenephil.png?size=20) [Phil](https://bsky.app/profile/philmarseille.bsky.social))
 - Français (fr) (managed by ![famicomCD](https://github.com/Lemongrwab.png?size=20) [Lemongrwab](https://github.com/Lemongrwab))
-- Indonesia (id) (managed by ![famicomCD](https://github.com/TheCabbRat.png?size=20) [TheCabbRat](https://github.com/Lemongrwab))
+- Indonesia (id) (managed by ![famicomCD](https://github.com/TheCabbRat.png?size=20) [TheCabbRat](https://github.com/TheCabbRat))
 - Português (pt) (managed by ![famicomCD](https://github.com/CattyBrazil.png?size=20) [CattyBrazil](https://github.com/CattyBrazil))
 
 # Pull Requests and Issues

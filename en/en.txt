@@ -660,8 +660,8 @@ string ""
 strid "smbcd_smbcdteam_meet"
 string "Meet The Super Mario Bros. CD Team"
 
-strid "smbcd_smbcdteam_translators"
-string "Translators"
+strid "smbcd_smbcdteam_representing"
+string "Representing:"
 
 strid "smbcd_smbcdteam_directors"
 string "Directors"

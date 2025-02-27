@@ -15,7 +15,7 @@ string "Hey! C'est moi Discette."
 & General &
 
 strid "about_button"
-string "A propos de FamicomCD"
+string "À propos de FamicomCD"
 
 strid "contact_button"
 string "Nous Contacter"
@@ -229,19 +229,19 @@ strid "install_note_manual"
 string "Installation Manuelle"
 
 strid "install_note_usage"
-string "Utilisation"
+string "Guide d'utilisation sous iOS"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Compatible uniquement avec Windows "
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Compatible uniquement avec Windows et Linux"
 
 strid "install_method_smbcmd"
 string "SMBC(M)D - Utiliser l'Auto-Patcher de Super Mario Bros. CD "
 
 strid "install_method_flips"
-string "Patcher avec Floating IPS"
+string "Patcher avec Floating IPS (flips)"
 
 strid "install_method_marc"
 string "Patcher avec le patcheur en ligne de Marc Robledo"
@@ -466,16 +466,16 @@ imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 & deprecated pages &
 
 strid "deprecated_smbcd_about"
-string "A propos de"
+string "À propos de Super Mario Bros. CD"
 
 strid "deprecated_smbcd_story"
 string "Histoire"
 
 strid "deprecated_smbcd_expectations"
-string "A quoi s'attendre"
+string "À quoi s'attendre"
 
 strid "deprecated_smbcd_trailer"
-string "Pas convaincu? Regardez la bande annonce !"
+string "Pas convaincu ? Regardez la bande annonce !"
 
 strid "deprecated_smbcd_screenshots"
 string "Captures d'écran"
@@ -508,7 +508,7 @@ string "• De nombreux ennemis, anciens, nouveaux et inconnus tenteront d'écou
 
 
 strid "deprecated_tutorial_thingstonote"
-string "A noter..."
+string "À noter..."
 
 strid "deprecated_tutorial_videoversion"
 string "Version vidéo du guide"

@@ -229,7 +229,7 @@ strid "install_note_manual"
 string "Installation Manuelle"
 
 strid "install_note_usage"
-string "Utilisation
+string "Utilisation"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
@@ -266,7 +266,7 @@ strid "install_guide_marc_requirements"
 string "- Un extracteur de fichiers zip<br>- Un navigateur internet"
 
 strid "install_guide_warning"
-string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super Nintendo. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche ".
+string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super Nintendo. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche."
 
 
 
@@ -364,7 +364,7 @@ strid "install_guide_marc_step3_detailed_stepe"
 string "3.e. Naviguez jusqu'au dossier dans lequel vous avez stocké vos fichiers SMBCD et sélectionnez SMBCD.bps."
 
 strid "install_guide_marc_step3_detailed_stepf"
-string "3.f. Cliquez sur  <q>Apply Patch</q>, (Si le patcheur affiche l'avertissement <q>Source ROM checksum mismatch</q>, cocher <q>Remove header</q> la case)"
+string "3.f. Cliquez sur <q>Apply Patch</q>, (Si le patcheur affiche l'avertissement <q>Source ROM checksum mismatch</q>, cocher <q>Remove header</q> la case)"
 
 strid "install_guide_marc_step3_detailed_stepg"
 string "3.g. Naviguez jusqu'au dossier dans lequel sont stockés vos fichiers SMBCD et enregistrez la ROM patchée sous le nom de SMBCD.smc ou SMBCD.sfc."
@@ -415,28 +415,28 @@ string "Voilà! Plus d'écran d'avertissement MSU-1 manquant et profitez de la m
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string "Le coin pour obtenir tous les versions de Super Mario Bros. CD! Vous pouvez apprendre à installer SMBCD à partir de la page <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note : L'auto-patcheur SMBCD nécessite une connexion internet, un appareil fonctionnant sous Windows ainsi que bien évidemment votre propre ROM.
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "Mirroir"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Démos"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Versions Speciales/Événement"
 
 strid "smbcd_content_download_feb2025demo"
-string "February SMBCD Demo v1.2"
+string "Démo SMBCD v1.2 de Février"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "Démo SMBCD v1.2 de Février - Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "Démo Speedrun Comp. v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "Démo Speedrun Comp. v2.2 - Auto-patcher"
 
 
 
@@ -540,25 +540,25 @@ string "Méthode avec le patcheur online de Marc Robledo"
 
 
 strid "deprecated_tutorial_step1"
-string "<b>Etape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Téléchargement des differentes versions</a>. Elle sera téléchargée sous la forme d'un fichier zip."
+string "<b>Étape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Téléchargement des differentes versions</a>. Elle sera téléchargée sous la forme d'un fichier zip."
 
 strid "deprecated_tutorial_step2"
-string "<b>Etape 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
+string "<b>Étape 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
 
 strid "deprecated_tutorial_step3"
-string "<b>Etape 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
+string "<b>Étape 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
 
 strid "deprecated_tutorial_step4"
-string "<b>Etape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
+string "<b>Étape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Etape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
+string "<b>Étape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
 
 strid "deprecated_tutorial_step6"
-string "<b>Etape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
+string "<b>Étape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
 
 strid "deprecated_tutorial_step7"
-string "<b>Etape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
+string "<b>Étape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
 
 
 strid "deprecated_smbcdteam_meet"
@@ -595,7 +595,7 @@ strid "deprecated_smbcdteam_jp"
 string "Traduction Japonaise"
 
 strid "deprecated_smbcdteam_it"
-string "Traduction Italiène"
+string "Traduction Italienne"
 
 strid "deprecated_smbcdteam_ru"
 string "Traduction Russe"
@@ -625,7 +625,7 @@ strid "deprecated_speedrun_thanks"
 string "Le concours est terminé et les scores ont été comptabilisés ! Merci à tous ceux qui ont participé."
 
 strid "deprecated_speedrun_updatename"
-string "Version 2.2!!!!"
+string "Version 2.2 !!!!"
 
 strid "deprecated_speedrun_descupdate"
 string "Le jeu a été corrigé pour inclure des corrections de bugs, des changements de graphismes et de couleurs, et des améliorations de la mécanique du speedrun ! Vous pouvez désormais obtenir des temps encore plus rapides en piétinant des Goombas, des Sidesteppers, des Tweeters et des Cheep Cheeps, ainsi que redémarrer les runs plus vite en appuyant rapidement sur L et R ! Téléchargez-le ci-dessous ! La date de fin du concours a été repoussée au 12 avril pour tenir compte de la mise à jour de la démo !"

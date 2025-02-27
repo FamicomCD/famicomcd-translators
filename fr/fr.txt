@@ -232,10 +232,10 @@ strid "install_note_usage"
 string "Guide d'utilisation sous iOS"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Compatible uniquement avec Windows "
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Compatible Windows"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Compatible uniquement avec Windows et Linux"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Compatible Windows & Linux"
 
 strid "install_method_smbcmd"
 string "SMBC(M)D - Utiliser l'Auto-Patcher de Super Mario Bros. CD "
@@ -415,7 +415,7 @@ string "Voilà! Plus d'écran d'avertissement MSU-1 manquant et profitez de la m
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "Le coin pour obtenir tous les versions de Super Mario Bros. CD! Vous pouvez apprendre à installer SMBCD à partir de la page <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note : L'auto-patcheur SMBCD nécessite une connexion internet, un appareil fonctionnant sous Windows ainsi que bien évidemment votre propre ROM.
+string "Le coin pour obtenir tous les versions de Super Mario Bros. CD! Vous pouvez apprendre à installer SMBCD à partir de la page <a href="https://famicomcd.org/smbcd/installation">Guides d'Installation</a>! Note : L'auto-patcheur SMBCD nécessite une connexion internet, un appareil fonctionnant sous Windows ainsi que bien évidemment votre propre ROM.
 
 strid "smbcd_download_tag_mirror"
 string "Mirroir"

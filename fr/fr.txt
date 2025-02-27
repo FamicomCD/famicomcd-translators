@@ -43,7 +43,7 @@ string "Hey! Bienvenue sur la refonte beta du site FamicomCD! Vous avez des sugg
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, reflètant ce à quoi pourrait ressembler un jeu SMB sur une console équipée d'un lecteur CD."
+string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, reflètant ce à quoi pourrait ressembler un jeu Super Mario Bros. sur une console équipée d'un lecteur CD."
 
 strid "learn_more_button"
 string "Visiter la page"
@@ -58,7 +58,7 @@ strid "download_smbcd_button"
 string "Télécharger SMBCD"
 
 strid "support_sheet_smbcd_button"
-string "Emulateurs Compatibles"
+string "Émulateurs Compatibles"
 
 strid "tutorial_smbcd_button"
 string "Guides d'Installation"
@@ -72,7 +72,7 @@ string "Membres de la Team SMBCD"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Matériel & Emulateurs Compatibles"
+string "Matériel & Émulateurs Compatibles"
 
 strid "support_sheet_description"
 string "Parce que SMBCD est un rom hack et non un jeu PC natif, la bonne compatibilité des emulateurs et du hardware (consoles originales ou compatibles) est vitale pour une expérience de jeu optimale."
@@ -102,7 +102,7 @@ strid "support_hardware_flashcarts"
 string "Matériel & Flashcarts"
 
 strid "support_emulators"
-string "Emulateurs"
+string "Émulateurs"
 
 strid "support_download"
 string "Téléchargement"
@@ -124,10 +124,10 @@ strid "support_platforms"
 string "Plateformes"
 
 strid "support_type_emulator"
-string "Emulation Logicielle"
+string "Émulation Logicielle"
 
 strid "support_type_fpga"
-string "Emulation FPGA"
+string "Émulation FPGA"
 
 strid "support_type_hardware"
 string "Matériel"
@@ -186,7 +186,7 @@ string "Compte de King Mayro's (Fondateur)"
 
 
 strid "copyright_and_trademarks"
-string "Droits d'auteurs et Marques déposées"
+string "Droits d'auteurs et marques déposées"
 
 strid "copyright_last_updated"
 string "Dernière mise à jour: --/--/----"
@@ -260,7 +260,7 @@ strid "install_guide_autopatcher_py_requirements"
 string "- Installer Python 3.12 ou plus récent."
 
 strid "install_guide_flips_requirements"
-string "- - Un extracteur de fichiers zip, nous recommandons fortement <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Un ordinateur fonctionnant sous Windows ou Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- Un extracteur de fichiers zip, nous recommandons fortement <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Un ordinateur fonctionnant sous Windows ou Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
 string "- Un extracteur de fichiers zip<br>- Un navigateur internet"
@@ -297,10 +297,10 @@ strid "install_guide_flips_marc_step2"
 string "2. Extraire l'archive zip dans le dossier de votre choix."
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
-string "Etape 2 (Détails) ▼"
+string "Étape 2 (Détails) ▼"
 
 strid "install_guide_flips_marc_step2_detailed_button_hide"
-string "Etape 2 (Détails) ▲"
+string "Étape 2 (Détails) ▲"
 
 strid "install_guide_flips_marc_step2_detailed_stepa"
 string "2.a. Ouvrir le fichier zip"
@@ -315,10 +315,10 @@ strid "install_guide_flips_step3"
 string "3. Ouvrir Floating IPS et sélectionner <q>Apply Patch</q>, puis patcher votre ROM SMW avec le fichier SMBCD.bps ."
 
 strid "install_guide_flips_marc_step3_detailed_button_show"
-string "Etape 3 (Détails) ▼"
+string "Étape 3 (Détails) ▼"
 
 strid "install_guide_flips_marc_step3_detailed_button_hide"
-string "Etape 3 (Détails) ▲"
+string "Étape 3 (Détails) ▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
 string "3.a. Ouvrir Floating IPS"
@@ -330,7 +330,7 @@ strid "install_guide_flips_step3_detailed_stepc"
 string "3.c. Naviguez dans le dossier où sont placés vos fichiers SMBCD et sélectionnez le fichier SMBCD.bps. "
 
 strid "install_guide_flips_step3_detailed_stepd"
-string "3.d.  Naviguez dans le dossier où est placée votre rom SMW puis sélectionnez-la"
+string "3.d. Naviguez dans le dossier où est placée votre rom SMW puis sélectionnez-la"
 
 strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Retournez dans le dossier où sont stockés vos fichiers SMBCD et enregistrez la ROM patchée sous le nom de SMBCD.smc ou SMBCD.sfc. "

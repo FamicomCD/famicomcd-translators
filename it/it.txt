@@ -439,6 +439,85 @@ string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
 
 
 
+& SMBCD Team Members &
+
+strid "smbcd_smbcdteam_meet"
+string "Meet The Super Mario Bros. CD Team"
+
+strid "smbcd_smbcdteam_representing"
+string "Representing:"
+
+strid "smbcd_smbcdteam_directors"
+string "Directors"
+
+strid "smbcd_smbcdteam_director"
+string "Director and Producer"
+
+strid "smbcd_smbcdteam_art"
+string "Art Director"
+
+strid "smbcd_smbcdteam_sound"
+string "Music/Sound Director"
+
+strid "smbcd_smbcdteam_graphics"
+string "Art/Graphics"
+
+strid "smbcd_smbcdteam_graphics_gameart"
+string "Game Art"
+
+strid "smbcd_smbcdteam_graphics_illustrations"
+string "Illustrations"
+
+strid "smbcd_smbcdteam_graphics_animation
+string "Animation"
+
+strid "smbcd_smbcdteam_music"
+string "Music/Sound"
+
+strid "smbcd_smbcdteam_music_music"
+string "Music"
+
+strid "smbcd_smbcdteam_music_jingles"
+string "Sound Effects/Jingles"
+
+strid "smbcd_smbcdteam_voice"
+string "Voice Acting"
+
+strid "smbcd_smbcdteam_as_discette"
+string "Discette"
+
+strid "smbcd_smbcdteam_as_barry"
+string "Barracuda Barry"
+
+strid "smbcd_smbcdteam_asm"
+string "ASM Programming"
+
+strid "smbcd_smbcdteam_translation"
+string "Translation"
+
+strid "smbcd_smbcdteam_translation_es"
+string "Spanish Translation"
+
+strid "smbcd_smbcdteam_translation_ja"
+string "Japanese Translation"
+
+strid "smbcd_smbcdteam_translation_it"
+string "Italian Translation"
+
+strid "smbcd_smbcdteam_translation_ru"
+string "Russian Translation"
+
+strid "smbcd_smbcdteam_translation_fr"
+string "French Translation"
+
+strid "smbcd_smbcdteam_translation_pt"
+string "Portuguese Translation"
+
+strid "smbcd_smbcdteam_translation_id"
+string "Indonesian Translation"
+
+
+
 & Images &
 
 imgid "famicomcd_main_logo"

@@ -411,70 +411,6 @@ string "Voilà! Sem tela de MSU-1 ausente, e mais música!"
 
 
 
-& SMBCD Page &
-
-strid "smbcd_button_story"
-string "História e Informações do Jogo"
-
-strid "smbcd_button_play_bgm"
-string "Tocar Música de Fundo"
-
-strid "smbcd_button_learn_more"
-string "Ler Mais ➜"
-
-strid "smbcd_support_tagline"
-string "Compatível com emuladores suportados e hardware do Super NES com o uso do <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> cartucho FXPak Pro! Pela maioria da lista atualizada de emuladores suportados, consulte a Página de Suporte."
-
-strid "smbcd_name_powerup_mushroom"
-string "Super Cogumelo"
-
-strid "smbcd_name_powerup_flower"
-string "Flor de Fogo"
-
-strid "smbcd_name_powerup_star"
-string "Estrela"
-
-strid "smbcd_desc_powerup_mushroom"
-string "Quebre tijolos com a cabeça!"
-
-strid "smbcd_desc_powerup_flower"
-string "Atire fogo pelas mãos nos inimigos!"
-
-strid "smbcd_desc_powerup_star"
-string "Invencibilidade contra a maioria dos perigos, exceto buracos!"
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-strid ""
-string ""
-
-
-
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
@@ -500,6 +436,85 @@ string "Demo da Competição de Speedrun SMBCD v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
 string "Auto-patcher da Demo da Competição de Speedrun SMBCD v2.2"
+
+
+
+& SMBCD Team Members &
+
+strid "smbcd_smbcdteam_meet"
+string "Meet The Super Mario Bros. CD Team"
+
+strid "smbcd_smbcdteam_representing"
+string "Representing:"
+
+strid "smbcd_smbcdteam_directors"
+string "Directors"
+
+strid "smbcd_smbcdteam_director"
+string "Director and Producer"
+
+strid "smbcd_smbcdteam_art"
+string "Art Director"
+
+strid "smbcd_smbcdteam_sound"
+string "Music/Sound Director"
+
+strid "smbcd_smbcdteam_graphics"
+string "Art/Graphics"
+
+strid "smbcd_smbcdteam_graphics_gameart"
+string "Game Art"
+
+strid "smbcd_smbcdteam_graphics_illustrations"
+string "Illustrations"
+
+strid "smbcd_smbcdteam_graphics_animation
+string "Animation"
+
+strid "smbcd_smbcdteam_music"
+string "Music/Sound"
+
+strid "smbcd_smbcdteam_music_music"
+string "Music"
+
+strid "smbcd_smbcdteam_music_jingles"
+string "Sound Effects/Jingles"
+
+strid "smbcd_smbcdteam_voice"
+string "Voice Acting"
+
+strid "smbcd_smbcdteam_as_discette"
+string "Discette"
+
+strid "smbcd_smbcdteam_as_barry"
+string "Barracuda Barry"
+
+strid "smbcd_smbcdteam_asm"
+string "ASM Programming"
+
+strid "smbcd_smbcdteam_translation"
+string "Translation"
+
+strid "smbcd_smbcdteam_translation_es"
+string "Spanish Translation"
+
+strid "smbcd_smbcdteam_translation_ja"
+string "Japanese Translation"
+
+strid "smbcd_smbcdteam_translation_it"
+string "Italian Translation"
+
+strid "smbcd_smbcdteam_translation_ru"
+string "Russian Translation"
+
+strid "smbcd_smbcdteam_translation_fr"
+string "French Translation"
+
+strid "smbcd_smbcdteam_translation_pt"
+string "Portuguese Translation"
+
+strid "smbcd_smbcdteam_translation_id"
+string "Indonesian Translation"
 
 
 
@@ -697,4 +712,44 @@ string "• Uma CPU de 16 bits<br><br>• 4 camadas permitindo muita paralaxe e 
 
 strid "deprecated_about_riskdesc"
 string "Com qualquer uso de propriedade intelectual não licenciado, sempre há o risco de algo acontecer, mas considerando o precedente de coisas como nosso projeto Super Mario Bros. CD ser uma ROM hack do Super Mario World, uma via de romhacking que existe há décadas com muito pouca ou nenhuma interferência da Nintendo, imaginamos que estamos tão seguros quanto outros hacks do SMW estão há anos.<br><br>Não pretendemos infringir direitos autorais ou facilitar a pirataria com o projeto SMBCD, nem pretendemos lucrar com nossos projetos de forma alguma.<br><br><br>No final das contas, não há um sim ou não rígido sobre esse assunto, pois a Nintendo pode legalmente fazer o que quiser com um projeto como esse, mas realmente não temos nenhuma razão para pensar que eles farão pelos motivos acima."
+
+
+
+
+
+
+
+
+
+& SMBCD Page &
+
+strid "smbcd_button_story"
+string "História e Informações do Jogo"
+
+strid "smbcd_button_play_bgm"
+string "Tocar Música de Fundo"
+
+strid "smbcd_button_learn_more"
+string "Ler Mais ➜"
+
+strid "smbcd_support_tagline"
+string "Compatível com emuladores suportados e hardware do Super NES com o uso do <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> cartucho FXPak Pro! Pela maioria da lista atualizada de emuladores suportados, consulte a Página de Suporte."
+
+strid "smbcd_name_powerup_mushroom"
+string "Super Cogumelo"
+
+strid "smbcd_name_powerup_flower"
+string "Flor de Fogo"
+
+strid "smbcd_name_powerup_star"
+string "Estrela"
+
+strid "smbcd_desc_powerup_mushroom"
+string "Quebre tijolos com a cabeça!"
+
+strid "smbcd_desc_powerup_flower"
+string "Atire fogo pelas mãos nos inimigos!"
+
+strid "smbcd_desc_powerup_star"
+string "Invencibilidade contra a maioria dos perigos, exceto buracos!"
 

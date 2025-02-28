@@ -414,7 +414,7 @@ string "Voilà! Niente più schermata </q>MSU-1 Missing</q>, e più musica!"
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "Il posto per trovare qualsiasi build di Super Mario Bros. CD! Puoi imparare come installare SMBCD dai <a href="https://famicomcd.org/smbcd/installation">Tutorial Installazione</a>! Nota: L'Auto-Patcher SMBCD richiede una connessione internet, e un dispositivo con Windows (e ovviamente la tua ROM).
+string "Il posto per trovare qualsiasi build di Super Mario Bros. CD! Puoi imparare come installare SMBCD dai <a href="https://famicomcd.org/smbcd/installation">Tutorial Installazione</a>! Nota: L'Auto-Patcher SMBCD richiede una connessione internet e un dispositivo con Windows (e ovviamente la tua ROM).
 
 strid "smbcd_download_tag_mirror"
 string "Mirror"
@@ -442,46 +442,46 @@ string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
 & SMBCD Team Members &
 
 strid "smbcd_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "Incontra il Team Super Mario Bros. CD"
 
 strid "smbcd_smbcdteam_representing"
-string "Representing:"
+string "Rappresentando:"
 
 strid "smbcd_smbcdteam_directors"
-string "Directors"
+string "Direttori"
 
 strid "smbcd_smbcdteam_director"
-string "Director and Producer"
+string "Direttore e Produttore"
 
 strid "smbcd_smbcdteam_art"
-string "Art Director"
+string "Direttore Artistico"
 
 strid "smbcd_smbcdteam_sound"
-string "Music/Sound Director"
+string "Musica/Direttore del Suono"
 
 strid "smbcd_smbcdteam_graphics"
-string "Art/Graphics"
+string "Arte/Grafiche"
 
 strid "smbcd_smbcdteam_graphics_gameart"
 string "Game Art"
 
 strid "smbcd_smbcdteam_graphics_illustrations"
-string "Illustrations"
+string "Illustrazioni"
 
 strid "smbcd_smbcdteam_graphics_animation
-string "Animation"
+string "Animazione"
 
 strid "smbcd_smbcdteam_music"
-string "Music/Sound"
+string "Musica/Suono"
 
 strid "smbcd_smbcdteam_music_music"
-string "Music"
+string "Musica"
 
 strid "smbcd_smbcdteam_music_jingles"
-string "Sound Effects/Jingles"
+string "Effetti Sonori/Jingle"
 
 strid "smbcd_smbcdteam_voice"
-string "Voice Acting"
+string "Doppiaggio"
 
 strid "smbcd_smbcdteam_as_discette"
 string "Discette"
@@ -490,31 +490,31 @@ strid "smbcd_smbcdteam_as_barry"
 string "Barracuda Barry"
 
 strid "smbcd_smbcdteam_asm"
-string "ASM Programming"
+string "Programmazione ASM"
 
 strid "smbcd_smbcdteam_translation"
-string "Translation"
+string "Traduzione"
 
 strid "smbcd_smbcdteam_translation_es"
-string "Spanish Translation"
+string "Traduzione Spagnola"
 
 strid "smbcd_smbcdteam_translation_ja"
-string "Japanese Translation"
+string "Traduzione Giapponese"
 
 strid "smbcd_smbcdteam_translation_it"
-string "Italian Translation"
+string "Traduzione Italiana"
 
 strid "smbcd_smbcdteam_translation_ru"
-string "Russian Translation"
+string "Traduzione Russa"
 
 strid "smbcd_smbcdteam_translation_fr"
-string "French Translation"
+string "Traduzione Francese"
 
 strid "smbcd_smbcdteam_translation_pt"
-string "Portuguese Translation"
+string "Traduzione Portoghese"
 
 strid "smbcd_smbcdteam_translation_id"
-string "Indonesian Translation"
+string "Traduzione Indonesiana"
 
 
 

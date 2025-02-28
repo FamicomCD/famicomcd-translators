@@ -442,79 +442,79 @@ string "Auto-patcher da Demo da Competição de Speedrun SMBCD v2.2"
 & SMBCD Team Members &
 
 strid "smbcd_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "Conheça a equipe Super Mario Bros. CD"
 
 strid "smbcd_smbcdteam_representing"
-string "Representing:"
+string "Representando:"
 
 strid "smbcd_smbcdteam_directors"
-string "Directors"
+string "Diretores"
 
 strid "smbcd_smbcdteam_director"
-string "Director and Producer"
+string "Diretor e Produtor"
 
 strid "smbcd_smbcdteam_art"
-string "Art Director"
+string "Diretor de Arte"
 
 strid "smbcd_smbcdteam_sound"
-string "Music/Sound Director"
+string "Diretor de Música/Som"
 
 strid "smbcd_smbcdteam_graphics"
-string "Art/Graphics"
+string "Arte/Graficos"
 
 strid "smbcd_smbcdteam_graphics_gameart"
-string "Game Art"
+string "Arte do Jogo"
 
 strid "smbcd_smbcdteam_graphics_illustrations"
-string "Illustrations"
+string "Ilustrações"
 
 strid "smbcd_smbcdteam_graphics_animation
-string "Animation"
+string "Animação"
 
 strid "smbcd_smbcdteam_music"
-string "Music/Sound"
+string "Música/Som"
 
 strid "smbcd_smbcdteam_music_music"
-string "Music"
+string "Música"
 
 strid "smbcd_smbcdteam_music_jingles"
-string "Sound Effects/Jingles"
+string "Efeitos Sonoros"
 
 strid "smbcd_smbcdteam_voice"
-string "Voice Acting"
+string "Dublagem"
 
 strid "smbcd_smbcdteam_as_discette"
 string "Discette"
 
 strid "smbcd_smbcdteam_as_barry"
-string "Barracuda Barry"
+string "Barry Barracuda"
 
 strid "smbcd_smbcdteam_asm"
-string "ASM Programming"
+string "Programação ASM"
 
 strid "smbcd_smbcdteam_translation"
-string "Translation"
+string "Tradução"
 
 strid "smbcd_smbcdteam_translation_es"
-string "Spanish Translation"
+string "Tradução Espanhola"
 
 strid "smbcd_smbcdteam_translation_ja"
-string "Japanese Translation"
+string "Tradução Japonesa"
 
 strid "smbcd_smbcdteam_translation_it"
-string "Italian Translation"
+string "Tradução Italiana"
 
 strid "smbcd_smbcdteam_translation_ru"
-string "Russian Translation"
+string "Tradução Russa"
 
 strid "smbcd_smbcdteam_translation_fr"
-string "French Translation"
+string "Tradução Francesa"
 
 strid "smbcd_smbcdteam_translation_pt"
-string "Portuguese Translation"
+string "Tradução Brasileira"
 
 strid "smbcd_smbcdteam_translation_id"
-string "Indonesian Translation"
+string "Tradução Indonésia"
 
 
 

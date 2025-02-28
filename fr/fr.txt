@@ -15,7 +15,7 @@ string "Hey! C'est moi Discette."
 & General &
 
 strid "about_button"
-string "A propos de FamicomCD"
+string "À propos de FamicomCD"
 
 strid "contact_button"
 string "Nous Contacter"
@@ -43,7 +43,7 @@ string "Hey! Bienvenue sur la refonte beta du site FamicomCD! Vous avez des sugg
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, reflètant ce à quoi pourrait ressembler un jeu SMB sur une console équipée d'un lecteur CD."
+string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, reflètant ce à quoi pourrait ressembler un jeu Super Mario Bros. sur une console équipée d'un lecteur CD."
 
 strid "learn_more_button"
 string "Visiter la page"
@@ -58,7 +58,7 @@ strid "download_smbcd_button"
 string "Télécharger SMBCD"
 
 strid "support_sheet_smbcd_button"
-string "Emulateurs Compatibles"
+string "Émulateurs Compatibles"
 
 strid "tutorial_smbcd_button"
 string "Guides d'Installation"
@@ -72,7 +72,7 @@ string "Membres de la Team SMBCD"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Matériel & Emulateurs Compatibles"
+string "Matériel & Émulateurs Compatibles"
 
 strid "support_sheet_description"
 string "Parce que SMBCD est un rom hack et non un jeu PC natif, la bonne compatibilité des emulateurs et du hardware (consoles originales ou compatibles) est vitale pour une expérience de jeu optimale."
@@ -102,7 +102,7 @@ strid "support_hardware_flashcarts"
 string "Matériel & Flashcarts"
 
 strid "support_emulators"
-string "Emulateurs"
+string "Émulateurs"
 
 strid "support_download"
 string "Téléchargement"
@@ -124,10 +124,10 @@ strid "support_platforms"
 string "Plateformes"
 
 strid "support_type_emulator"
-string "Emulation Logicielle"
+string "Émulation Logicielle"
 
 strid "support_type_fpga"
-string "Emulation FPGA"
+string "Émulation FPGA"
 
 strid "support_type_hardware"
 string "Matériel"
@@ -186,7 +186,7 @@ string "Compte de King Mayro's (Fondateur)"
 
 
 strid "copyright_and_trademarks"
-string "Droits d'auteurs et Marques déposées"
+string "Droits d'auteurs et marques déposées"
 
 strid "copyright_last_updated"
 string "Dernière mise à jour: --/--/----"
@@ -229,19 +229,19 @@ strid "install_note_manual"
 string "Installation Manuelle"
 
 strid "install_note_usage"
-string "Utilisation
+string "Guide d'utilisation sous iOS"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Compatible Windows"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">Compatible Windows & Linux"
 
 strid "install_method_smbcmd"
 string "SMBC(M)D - Utiliser l'Auto-Patcher de Super Mario Bros. CD "
 
 strid "install_method_flips"
-string "Patcher avec Floating IPS"
+string "Patcher avec Floating IPS (flips)"
 
 strid "install_method_marc"
 string "Patcher avec le patcheur en ligne de Marc Robledo"
@@ -260,13 +260,13 @@ strid "install_guide_autopatcher_py_requirements"
 string "- Installer Python 3.12 ou plus récent."
 
 strid "install_guide_flips_requirements"
-string "- - Un extracteur de fichiers zip, nous recommandons fortement <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Un ordinateur fonctionnant sous Windows ou Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- Un extracteur de fichiers zip, nous recommandons fortement <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Un ordinateur fonctionnant sous Windows ou Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
 string "- Un extracteur de fichiers zip<br>- Un navigateur internet"
 
 strid "install_guide_warning"
-string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super Nintendo. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche ".
+string "<b>Important:</b> Vous avez besoin de votre propre ROM Super Mario World (USA) pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle Super Mario World (USA) pour la Super Nintendo. Nous ne vous indiquerons pas comment ou où obtenir une ROM si vous ne voulez pas, ou ne pouvez pas dumper votre propre cartouche."
 
 
 
@@ -297,10 +297,10 @@ strid "install_guide_flips_marc_step2"
 string "2. Extraire l'archive zip dans le dossier de votre choix."
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
-string "Etape 2 (Détails) ▼"
+string "Étape 2 (Détails) ▼"
 
 strid "install_guide_flips_marc_step2_detailed_button_hide"
-string "Etape 2 (Détails) ▲"
+string "Étape 2 (Détails) ▲"
 
 strid "install_guide_flips_marc_step2_detailed_stepa"
 string "2.a. Ouvrir le fichier zip"
@@ -315,10 +315,10 @@ strid "install_guide_flips_step3"
 string "3. Ouvrir Floating IPS et sélectionner <q>Apply Patch</q>, puis patcher votre ROM SMW avec le fichier SMBCD.bps ."
 
 strid "install_guide_flips_marc_step3_detailed_button_show"
-string "Etape 3 (Détails) ▼"
+string "Étape 3 (Détails) ▼"
 
 strid "install_guide_flips_marc_step3_detailed_button_hide"
-string "Etape 3 (Détails) ▲"
+string "Étape 3 (Détails) ▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
 string "3.a. Ouvrir Floating IPS"
@@ -330,7 +330,7 @@ strid "install_guide_flips_step3_detailed_stepc"
 string "3.c. Naviguez dans le dossier où sont placés vos fichiers SMBCD et sélectionnez le fichier SMBCD.bps. "
 
 strid "install_guide_flips_step3_detailed_stepd"
-string "3.d.  Naviguez dans le dossier où est placée votre rom SMW puis sélectionnez-la"
+string "3.d. Naviguez dans le dossier où est placée votre rom SMW puis sélectionnez-la"
 
 strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Retournez dans le dossier où sont stockés vos fichiers SMBCD et enregistrez la ROM patchée sous le nom de SMBCD.smc ou SMBCD.sfc. "
@@ -364,7 +364,7 @@ strid "install_guide_marc_step3_detailed_stepe"
 string "3.e. Naviguez jusqu'au dossier dans lequel vous avez stocké vos fichiers SMBCD et sélectionnez SMBCD.bps."
 
 strid "install_guide_marc_step3_detailed_stepf"
-string "3.f. Cliquez sur  <q>Apply Patch</q>, (Si le patcheur affiche l'avertissement <q>Source ROM checksum mismatch</q>, cocher <q>Remove header</q> la case)"
+string "3.f. Cliquez sur <q>Apply Patch</q>, (Si le patcheur affiche l'avertissement <q>Source ROM checksum mismatch</q>, cocher <q>Remove header</q> la case)"
 
 strid "install_guide_marc_step3_detailed_stepg"
 string "3.g. Naviguez jusqu'au dossier dans lequel sont stockés vos fichiers SMBCD et enregistrez la ROM patchée sous le nom de SMBCD.smc ou SMBCD.sfc."
@@ -415,28 +415,28 @@ string "Voilà! Plus d'écran d'avertissement MSU-1 manquant et profitez de la m
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string "Le coin pour obtenir tous les versions de Super Mario Bros. CD! Vous pouvez apprendre à installer SMBCD à partir de la page <a href="https://famicomcd.org/smbcd/installation">Guides d'Installation</a>! Note : L'auto-patcheur SMBCD nécessite une connexion internet, un appareil fonctionnant sous Windows ainsi que bien évidemment votre propre ROM.
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "Mirroir"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "Démos"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "Versions Speciales/Événement"
 
 strid "smbcd_content_download_feb2025demo"
-string "February SMBCD Demo v1.2"
+string "Démo SMBCD v1.2 de Février"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "Démo SMBCD v1.2 de Février - Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "Démo Speedrun Comp. v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "Démo Speedrun Comp. v2.2 - Auto-patcher"
 
 
 
@@ -466,16 +466,16 @@ imagesrc "https://famicomcd.org/graphics/banners/smbcdspeedruncompreverse.png"
 & deprecated pages &
 
 strid "deprecated_smbcd_about"
-string "A propos de"
+string "À propos de Super Mario Bros. CD"
 
 strid "deprecated_smbcd_story"
 string "Histoire"
 
 strid "deprecated_smbcd_expectations"
-string "A quoi s'attendre"
+string "À quoi s'attendre"
 
 strid "deprecated_smbcd_trailer"
-string "Pas convaincu? Regardez la bande annonce !"
+string "Pas convaincu ? Regardez la bande annonce !"
 
 strid "deprecated_smbcd_screenshots"
 string "Captures d'écran"
@@ -487,7 +487,7 @@ strid "deprecated_smbcd_tagline2"
 string "SMBCD utilise la puissance de la puce MSU-1 pour delivrer une musique originale et riche de qualité CD, des cinématiques entièrement animées, et des niveaux impressionnants avec des environnements plus complexes, même sur le matériel d'origine via le SD2SNES/FXPak Pro ! SMBCD fais appel à un usage intensif du Mode 0 (un mode d'arrière-plan de la SNES, semblable au Mode 7) pour ses niveaux, fournissant plus de couches pour les environnements de premier plan et des effets de parallaxe d'arrière-plan. Le Mode 0 permet d'avoir jusqu'à 4 couches à la fois plutôt que les 2-3 couches habituelles trouvées dans SMW qui lui solicite le Mode 1, Cependant il limite également toutes les couches à 2BPP ou 4 couleurs par tuile. (ceci n'inclut pas les couches de sprites qui conservent l'utilisation de 16 couleurs)."
 
 strid "deprecated_smbcd_story1"
-string "SMBCD se déroule sur le petit mais diversifié archipel de Brixurei,. Un jour, mystérieusement, le Gardien de Brixurei - la principale source de protection et de sécurité de l'archipel - est devenu fou, provoquant des conditions météorologiques défavorables et le dérèglement de la faune. Les habitants étaient  inquiets et déconcertés. Certains décidèrent de découvrir ce qui se passait et quittèrent leur village. On n'a plus jamais entendu parler d'eux... Au milieu du chaos provoqué par l'irruption soudaine du Gardien, les habitants ont fait appel au seul et unique Mario Bros. pour les aider. Alors que le Royaume Champignon fait ses adieux, Mario part en bateau vers l'Archipel de Brixurei, accompagné de Luigi. Au cours de ce voyage, les frères rencontreront également de nouveaux visages amicaux qui les accompagneront."
+string "SMBCD se déroule dans le petit mais diversifié archipel de Brixurei. Un jour, de manière mystérieuse, le gardien de Brixurei, qui est seul responsable de la protection et de la sécurité de l'archipel, sombre dans la folie. Cela entraîne des conditions météorologiques désastreuses et un dérèglement de la faune. Les habitants, inquiets et déconcertés, cherchent des réponses. Certains curieux décident de comprendre ce qui se passe et quittent leur village... Hélas, nous n'avons malheureusement plus jamais entendu parler d'eux. Au milieu du chaos provoqué par l'irruption soudaine du Gardien, les habitants sollicitent l'aide de l'unique Mario Bros. Alors que le Royaume Champignon fait ses adieux, Mario part en bateau vers l'archipel de Brixurei, accompagné de Luigi. Au cours de ce voyage, les frères rencontreront également de nouveaux alliés qui les accompagneront dans leur quête."
 
 strid "deprecated_smbcd_footnote1"
 string "• Plus de 40 niveaux interconnectés formant une histoire cohérente"
@@ -508,7 +508,7 @@ string "• De nombreux ennemis, anciens, nouveaux et inconnus tenteront d'écou
 
 
 strid "deprecated_tutorial_thingstonote"
-string "A noter..."
+string "À noter..."
 
 strid "deprecated_tutorial_videoversion"
 string "Version vidéo du guide"
@@ -540,25 +540,25 @@ string "Méthode avec le patcheur online de Marc Robledo"
 
 
 strid "deprecated_tutorial_step1"
-string "<b>Etape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Téléchargement des differentes versions</a>. Elle sera téléchargée sous la forme d'un fichier zip."
+string "<b>Étape 1: </b>Tout d'abord, téléchargez une version de SMBCD à partir de la page <a href=« https://famicomcd.org/smbcd/download »>Téléchargement des differentes versions</a>. Elle sera téléchargée sous la forme d'un fichier zip."
 
 strid "deprecated_tutorial_step2"
-string "<b>Etape 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
+string "<b>Étape 2: </b>Ouvrez l'archive zip pour en révéler le contenu. Si vous ne disposez pas d'un extracteur d'archives zip, nous vous recommandons d'utiliser 7-Zip."
 
 strid "deprecated_tutorial_step3"
-string "<b>Etape 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
+string "<b>Étape 3: </b>Lorsque vous ouvrez l'archive zip d'une version de SMBCD, vous verrez le fichier BPS de SMBCD, un fichier MSU et des fichiers PCM. Pour l'instant, vous n'avez qu'à vous préoccuper du BPS. C'est ici que vous aurez besoin de votre rom du jeu SMW (USA)."
 
 strid "deprecated_tutorial_step4"
-string "<b>Etape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
+string "<b>Étape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Etape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
+string "<b>Étape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
 
 strid "deprecated_tutorial_step6"
-string "<b>Etape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
+string "<b>Étape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
 
 strid "deprecated_tutorial_step7"
-string "<b>Etape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
+string "<b>Étape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
 
 
 strid "deprecated_smbcdteam_meet"
@@ -595,7 +595,7 @@ strid "deprecated_smbcdteam_jp"
 string "Traduction Japonaise"
 
 strid "deprecated_smbcdteam_it"
-string "Traduction Italiène"
+string "Traduction Italienne"
 
 strid "deprecated_smbcdteam_ru"
 string "Traduction Russe"
@@ -625,7 +625,7 @@ strid "deprecated_speedrun_thanks"
 string "Le concours est terminé et les scores ont été comptabilisés ! Merci à tous ceux qui ont participé."
 
 strid "deprecated_speedrun_updatename"
-string "Version 2.2!!!!"
+string "Version 2.2 !!!!"
 
 strid "deprecated_speedrun_descupdate"
 string "Le jeu a été corrigé pour inclure des corrections de bugs, des changements de graphismes et de couleurs, et des améliorations de la mécanique du speedrun ! Vous pouvez désormais obtenir des temps encore plus rapides en piétinant des Goombas, des Sidesteppers, des Tweeters et des Cheep Cheeps, ainsi que redémarrer les runs plus vite en appuyant rapidement sur L et R ! Téléchargez-le ci-dessous ! La date de fin du concours a été repoussée au 12 avril pour tenir compte de la mise à jour de la démo !"

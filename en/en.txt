@@ -678,11 +678,32 @@ string "Music/Sound Director"
 strid "smbcd_smbcdteam_graphics"
 string "Art/Graphics"
 
+strid "smbcd_smbcdteam_graphics_gameart"
+string "Game Art"
+
+strid "smbcd_smbcdteam_graphics_illustrations"
+string "Illustrations"
+
+strid "smbcd_smbcdteam_graphics_animation
+string "Animation"
+
 strid "smbcd_smbcdteam_music"
 string "Music/Sound"
 
+strid "smbcd_smbcdteam_music_music"
+string "Music"
+
+strid "smbcd_smbcdteam_music_jingles"
+string "Sound Effects/Jingles"
+
 strid "smbcd_smbcdteam_voice"
 string "Voice Acting"
+
+strid "smbcd_smbcdteam_as_discette"
+string "Discette"
+
+strid "smbcd_smbcdteam_as_barry"
+string "Barracuda Barry"
 
 strid "smbcd_smbcdteam_asm"
 string "ASM Programming"

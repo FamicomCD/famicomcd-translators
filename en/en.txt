@@ -711,25 +711,25 @@ string "ASM Programming"
 strid "smbcd_smbcdteam_translation"
 string "Translation"
 
-strid "smbcd_smbcdteam_es"
+strid "smbcd_smbcdteam_translation_es"
 string "Spanish Translation"
 
-strid "smbcd_smbcdteam_ja"
+strid "smbcd_smbcdteam_translation_ja"
 string "Japanese Translation"
 
-strid "smbcd_smbcdteam_it"
+strid "smbcd_smbcdteam_translation_it"
 string "Italian Translation"
 
-strid "smbcd_smbcdteam_ru"
+strid "smbcd_smbcdteam_translation_ru"
 string "Russian Translation"
 
-strid "smbcd_smbcdteam_it"
+strid "smbcd_smbcdteam_translation_fr"
 string "French Translation"
 
-strid "smbcd_smbcdteam_pt"
+strid "smbcd_smbcdteam_translation_pt"
 string "Portuguese Translation"
 
-strid "smbcd_smbcdteam_id"
+strid "smbcd_smbcdteam_translation_id"
 string "Indonesian Translation"
 
 

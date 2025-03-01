@@ -444,46 +444,46 @@ string "SMBCD Demo Speedrun v2.2 Auto-patcher"
 & SMBCD Team Members &
 
 strid "smbcd_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "Kenalilah Tim Super Mario Bros. CD"
 
 strid "smbcd_smbcdteam_representing"
-string "Representing:"
+string "Mewakili:"
 
 strid "smbcd_smbcdteam_directors"
-string "Directors"
+string "Director"
 
 strid "smbcd_smbcdteam_director"
-string "Director and Producer"
+string "Director dan Produser"
 
 strid "smbcd_smbcdteam_art"
-string "Art Director"
+string "Director Seni"
 
 strid "smbcd_smbcdteam_sound"
-string "Music/Sound Director"
+string "Director Musik/Suara"
 
 strid "smbcd_smbcdteam_graphics"
-string "Art/Graphics"
+string "Seni/Grafis"
 
 strid "smbcd_smbcdteam_graphics_gameart"
 string "Game Art"
 
 strid "smbcd_smbcdteam_graphics_illustrations"
-string "Illustrations"
+string "Ilustrasi"
 
 strid "smbcd_smbcdteam_graphics_animation
-string "Animation"
+string "Animasi"
 
 strid "smbcd_smbcdteam_music"
-string "Music/Sound"
+string "Musik/Suara"
 
 strid "smbcd_smbcdteam_music_music"
-string "Music"
+string "Musik"
 
 strid "smbcd_smbcdteam_music_jingles"
-string "Sound Effects/Jingles"
+string "Efek Suara/Jingle"
 
 strid "smbcd_smbcdteam_voice"
-string "Voice Acting"
+string "Pengisi Suara"
 
 strid "smbcd_smbcdteam_as_discette"
 string "Discette"
@@ -492,31 +492,31 @@ strid "smbcd_smbcdteam_as_barry"
 string "Barracuda Barry"
 
 strid "smbcd_smbcdteam_asm"
-string "ASM Programming"
+string "Programmer ASM"
 
 strid "smbcd_smbcdteam_translation"
-string "Translation"
+string "Terjemahan"
 
 strid "smbcd_smbcdteam_translation_es"
-string "Spanish Translation"
+string "Penerjemah Spanyol"
 
 strid "smbcd_smbcdteam_translation_ja"
-string "Japanese Translation"
+string "Penerjemah Jepang"
 
 strid "smbcd_smbcdteam_translation_it"
-string "Italian Translation"
+string "Penerjemah Italia"
 
 strid "smbcd_smbcdteam_translation_ru"
-string "Russian Translation"
+string "Penerjemah Rusia"
 
 strid "smbcd_smbcdteam_translation_fr"
-string "French Translation"
+string "Penerjemah Prancis"
 
 strid "smbcd_smbcdteam_translation_pt"
-string "Portuguese Translation"
+string "Penerjemah Portugis"
 
 strid "smbcd_smbcdteam_translation_id"
-string "Indonesian Translation"
+string "Penerjemah Indonesia"
 
 
 

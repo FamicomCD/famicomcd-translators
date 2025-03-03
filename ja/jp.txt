@@ -219,75 +219,75 @@ string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切�
 & Installation Guides &
 
 strid "install_desc"
-string "These guides cover both how to install Super Mario Bros. CD (SMBCD), and how to use MSU-1. If using the manual methods, the patching process could apply to other types of rom hacks as well. If you are having any issues with the installation process, feel free to contact us on <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "このガイドではスーパーマリオブラザーズCDのインストール、MSU-1の使用法を教えます。以下の方法をわかれば、他のモッドのインストールも同じようにできます。インストール中に問題がある場合は<a href="https://discord.gg/wpSGt5aTuw">Discord</a>、または<a href="mailto:support@famicomcd.org">メール</a>でご連絡ください！"
 
 strid "install_note_automatic"
-string "Automatic"
+string "自動"
 
 strid "install_note_manual"
-string "Manual"
+string "手動"
 
 strid "install_note_usage"
-string "Usage
+string "利用法"
 
 strid "install_note_windows"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Windows Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Window専用"
 
 strid "install_note_pc"
-string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC Only"
+string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy"><img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/linux.png" loading="lazy">PC専用"
 
 strid "install_method_smbcmd"
-string "SMBC(M)D - Using the Super Mario Bros. CD Auto-Patcher"
+string "マリオC(M)D - スーパーマリオブラザーズCD自動パッチャー"
 
 strid "install_method_flips"
-string "Patching with Floating IPS"
+string "Floating IPS"
 
 strid "install_method_marc"
-string "Patching with Marc Robledo's Online Patcher"
+string "Marc Robledo's Online Patcher"
 
 strid "tutorial_ios_retroarch"
-string "Using SMBCD on Retroarch for iOS"
+string "Retroarch for iOSでマリオCDを遊ぶ"
 
 
 strid "install_guide_requirements"
-string "For this method you will need:"
+string "以下のものが必要となります。"
 
 strid "install_guide_autopatcher_requirements"
-string "- A computer running a version of Windows OS."
+string "- Windows OSがインストールされているパソコン"
 
 strid "install_guide_autopatcher_py_requirements"
-string "- A device with Python 3.12 or above."
+string "- Python 3.12以上を利用しているパソコン"
 
 strid "install_guide_flips_requirements"
-string "- A zip archive extractor (we heavily recommend <a href="https://www.7-zip.org/">7-Zip</a>)<br>- A computer running a version of Windows or Linux OS.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- <a href="https://www.7-zip.org/">7-Zip</a>などのZIP解凍プログラム<br>- Windows OS、またはLinux OSがインストールされているパソコン<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
-string "- A zip archive extractor<br>- A web browser"
+string "- ZIP解凍プログラム<br>- ウェブブラウザ"
 
 strid "install_guide_warning"
-string "<b>Important:</b> You need your own USA Super Mario World ROM to patch SMBCD's BPS file. We recommend that you dump your own official SMW Super NES cartridge. We will not instruct you on how or where to get a ROM if you don't want to, or are unable to dump your own cartridge."
+string "<b>注意</b> マリオCDのBPSをパッチし、遊ぶには北米版のスーパーマリオワールドのROMが必要です。基本的にはSNESの公式のカートリッジからファイルを引き出すことを勧めています。できない場合に他の方法もありますが、ここでは紹介しません。"
 
 
 
 & Flips &
 
 strid "install_guide_flips_prestep_button_show"
-string "Pre-setup for 7-Zip and Floating IPS ▼"
+string "7-Zip、Floating IPSの設定 ▼"
 
 strid "install_guide_flips_prestep_button_hide"
-string "Pre-setup for 7-Zip and Floating IPS ▲"
+string "7-Zip、Floating IPSの設定 ▲"
 
 strid "install_guide_flips_prestep_step1"
-string "p.1. Visit the <a href="https://www.7-zip.org/">7-Zip website</a>"
+string "p.1. <a href="https://7-zip.opensource.jp/">7-Zipの公式サイト</a>に行く"
 
 strid "install_guide_flips_prestep_step2"
-string "p.2. Navigate to "Downloads", download the latest version, and follow the installer flow (you may need to download an old version depending on your OS version)."
+string "p.2. "ダウンロード"のページを開き、最新版をダウンロードし、インストーラの言うとおりに作業してください。"
 
 strid "install_guide_flips_prestep_step3"
-string "p.3. Visit the <a href="https://github.com/Alcaro/Flips">Floating IPS Github repository</a>"
+string "p.3. <a href="https://github.com/Alcaro/Flips">Floating IPSのGithubページ</a>に行ってください。"
 
 strid "install_guide_flips_prestep_step4"
-string "p.4. Navigate to "Releases" and download the latest version"
+string "p.4. "Releases"のページを開き、最新版をダウンロードしてください。"
 
 strid "install_guide_flips_marc_step1"
 string "1. Download a zip archive SMBCD build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."

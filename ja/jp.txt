@@ -290,10 +290,10 @@ strid "install_guide_flips_prestep_step4"
 string "p.4. "Releases"のページを開き、最新版をダウンロードしてください。"
 
 strid "install_guide_flips_marc_step1"
-string "1. Download a zip archive SMBCD build from the <a href="https://famicomcd.org/smbcd/download">ダウンロードのページ</a>からマリオCDの."
+string "1. <a href="https://famicomcd.org/smbcd/download">ダウンロードのページ</a>からマリオCDのZIPファイルを開いてください。"
 
 strid "install_guide_flips_marc_step2"
-string "2. Extract the build zip file to your folder or directory of choice."
+string "2. 好きな場所にZIPを回答してください。"
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
 string "詳しく ▼"

@@ -228,7 +228,7 @@ strid "install_note_manual"
 string "手動"
 
 strid "install_note_usage"
-string "利用法"
+string "説明"
 
 strid "install_note_windows"
 string "<img class="installnoteicons" src="https://famicomcd.org/../graphics/icons/consoles/windows.png" loading="lazy">Window専用"
@@ -290,55 +290,55 @@ strid "install_guide_flips_prestep_step4"
 string "p.4. "Releases"のページを開き、最新版をダウンロードしてください。"
 
 strid "install_guide_flips_marc_step1"
-string "1. Download a zip archive SMBCD build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
+string "1. Download a zip archive SMBCD build from the <a href="https://famicomcd.org/smbcd/download">ダウンロードのページ</a>からマリオCDの."
 
 strid "install_guide_flips_marc_step2"
 string "2. Extract the build zip file to your folder or directory of choice."
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
-string "Detailed Step 2 ▼"
+string "詳しく ▼"
 
 strid "install_guide_flips_marc_step2_detailed_button_hide"
-string "Detailed Step 2 ▲"
+string "詳しく ▲"
 
 strid "install_guide_flips_marc_step2_detailed_stepa"
-string "2.a. Open the zip file"
+string "2.a. ZIPファイルを開き、"
 
 strid "install_guide_flips_marc_step2_detailed_stepb"
-string "2.b. Highlight all of the files with ctrl + A"
+string "2.b. 中身をすべて選択し、"
 
 strid "install_guide_flips_marc_step2_detailed_stepc"
-string "2.c. Drag and drop them into your folder or directory of choice"
+string "2.c. ゲームを放置したいところに移動してください。"
 
 strid "install_guide_flips_step3"
-string "3. Open Floating IPS and Select <q>Apply Patch</q>, then patch SMBCD.bps to your SMW ROM."
+string "3. Floating IPSを開き、<q>Apply Patch</q>を選択し、SMCCD.bpsをマリオワールドのファイルにパッチする。"
 
 strid "install_guide_flips_marc_step3_detailed_button_show"
-string "Detailed Step 3 ▼"
+string "詳しく ▼"
 
 strid "install_guide_flips_marc_step3_detailed_button_hide"
-string "Detailed Step 3 ▲"
+string "詳しく ▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
-string "3.a. Open Floating IPS"
+string "3.a. Floating IPSを開き、"
 
 strid "install_guide_flips_step3_detailed_stepb"
-string "3.b. Click the <q>Apply Patch</q> button"
+string "3.b. q>Apply Patch</q>ボタンを押し、"
 
 strid "install_guide_flips_step3_detailed_stepc"
-string "3.c. Navigate to the folder you stored your SMBCD files in and select SMBCD.bps"
+string "3.c. マリオCDのファイルを探しbpsファイルを選択し、"
 
 strid "install_guide_flips_step3_detailed_stepd"
-string "3.d. Navigate to the folder your SMW ROM is stored in and select it"
+string "3.d. マリオワールドのファイルを選択し、"
 
 strid "install_guide_flips_step3_detailed_stepe"
-string "3.e. Return to the folder your SMBCD files are stored in and save the patched ROM as SMBCD.smc or SMBCD.sfc"
+string "3.e. 新しくパッチするファイルをSMBCDとしてセーブしてください。"
 
-strid "install_guide_flips_marc_step4"
-string "4. Test if the patch was successful by opening the ROM in your emulator of choice. If the game starts, you've patched it correctly and you are ready to play and you can ignore step 5!<br><br>If the MSU-1 missing screen appears, you have patched it correctly, but there was a problem detecting the MSU-1 files. Move on to step 5 to troubleshoot."
+strid "install_guide_flips_marc_step4""
+string "4. ゲームが普通に開くか確認してください。普通に開く場合、ここで終了です！自由にお楽しみください。エラー画面が出る場合、ステップ５に進んでください。"
 
 strid "install_guide_flips_marc_step5"
-string "5. Make sure the PCM and MSU files are in the same folder and the same name as the ROM. (Ex. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>In Windows, if you have file extensions disabled, that can cause issues with identifying file names. You can enable file extensions in File Explorer by going to <q>View</q> and checking the <q>File name extensions</q> checkbox on the top panel.<br><br>If everything seems set up correctly, make sure your emulator is supported in the <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
+string "5. PCMファイルとMSUファイルがすべてROMと同じ名前、フォルダに入っているか確認してください。<br><br>ファイルエキスプローラで拡張子がオフになっている場合、ファイル名の確認に問題が出る可能性があります。ファイルエクスプローラから<q>View</q>、<q>File name extensions</q>をチェックすることにより拡張子が見えるようになります。すべてしたあとにまだエラーが出る場合、<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>からエミュレータが対応しているか確認してください。"
 
 
 
@@ -373,148 +373,148 @@ string "3.g. Navigate to the folder your SMBCD files are stored in and save the 
 & AutoPatcher &
 
 strid "install_guide_autopatcher_step1"
-string "1. Download an SMBCD Auto-Patcher build from the <a href="https://famicomcd.org/smbcd/download">SMBCD Downloads page</a>."
+string "1. <a href="https://famicomcd.org/smbcd/download">ダウンロードページ</a>からマリオCD自動パッチャーをダウンロードしてください。."
 
 strid "install_guide_autopatcher_step2"
-string "2. Open the program. It should open to a command prompt-esque window."
+string "2. プログラムを開いてください。"
 
 strid "install_guide_autopatcher_step3"
-string "3. Drag and drop your SMW ROM into the window, then hit enter."
+string "3. ウィンドウにマリオワールドのファイルをドラッグし、ENTERをおしてください。"
 
 strid "install_guide_autopatcher_step4"
-string "4. Drag and drop the folder you want to hold all of your SMBCD files into the window, then hit enter."
+string "4. ウィンドウにマリオCDのファイルがすべて保管されているフォルダをドラッグし、ENTERをおしてください。"
 
 strid "install_guide_autopatcher_step5"
-string "5. Test if the game starts as normal. If the MSU-1 missing screen appears, make sure your emulator is supported in the <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
+string "5. ゲームが普通に開くか確認してください。MSU-1エラー画面が出てきた場合、エミュレータがサポートされているか<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>を確認してください。"
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch on iOS is very particular about where you store your files. Depending on where you store and load them, you may have no issues, lack music, or get the MSU-1 missing screen."
+string "iOS版Retroarchはファイルの配置についてかなり厳しく、やり方により問題がないこともあれば音楽がなかったり、ソフトが開かないことがあります。"
 
 strid "tutorial_ios_retroarch_note2"
-string "This brief guide should hopefully remedy all of the above issues. Otherwise, you may have to contact us."
+string "このページでは上記の問題に出くわさない方法を教えます。"
 
 strid "tutorial_ios_retroarch_step1"
-string "Move your SMBCD files to the Retroarch downloads folder; it can be found in"
+string "マリオCDのファイルをRetroarchのダウンロードフォルダに移してください。"
 
 strid "tutorial_ios_retroarch_step1_directory"
 string "Browse > On My iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "Afterwards, open Retroarch, and navigate to the downloads folder from the <q>Load Content</q> menu (Make sure to load via <q>Downloads</q> and not <q>Open...</q>). Then, select the BSNES or SNES9x core (if you plan on using SNES9x, make sure that it is not the 2005 or 2010 core)."
+string "その後、Retroarchを開き、<q>Load Content</q>のメニューからマリオCDを選び、BSNESかSNES9xのコアをえらんでください。（旧版を選ばないようにしてください。）"
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! No more MSU-1 missing screen, and more music!"
+string "アメージング！MSU-1エラー画面はもう出ないはずです！"
 
 
 
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "The hub to get any and every Super Mario Bros. CD build! You can learn how to install SMBCD from the <a href="https://famicomcd.org/smbcd/installation">Installation Guides</a>! Note: The SMBCD Autopatcher requires an internet connection, and a device running Windows, (and of course your own rom).
+string "公式のダウンロードページ！どうすればいいかわからない方は<a href="https://famicomcd.org/smbcd/installation">インストールガイド</a>に行ってみましょう。自動パッチャーはインターネットに常につながっている上、Windowsのみの対応となっております。ご了承ください。
 
 strid "smbcd_download_tag_mirror"
-string "Mirror"
+string "バックアップ"
 
 strid "smbcd_download_demos_heading"
-string "Demo Builds"
+string "体験版"
 
 strid "smbcd_download_event_heading"
-string "Special/Event Builds"
+string "特別体験版"
 
 strid "smbcd_content_download_feb2025demo"
-string "February SMBCD Demo v1.2"
+string "マリオCD２月体験版"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "February SMBCD Demo v1.2 Auto-patcher"
+string "マリオCD２月体験版自動パッチャー"
 
 strid "smbcd_content_download_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2"
+string "マリオCD大会体験版"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
-string "SMBCD Speedrun Comp. Demo v2.2 Auto-patcher"
+string "マリオCD大会体験版自動パッチャー"
 
 
 
 & SMBCD Team Members &
 
 strid "smbcd_smbcdteam_meet"
-string "Meet The Super Mario Bros. CD Team"
+string "スーパーマリオブラザーズCDチーム一同"
 
 strid "smbcd_smbcdteam_representing"
-string "Representing:"
+string "代表"
 
 strid "smbcd_smbcdteam_directors"
-string "Directors"
+string "監督"
 
 strid "smbcd_smbcdteam_director"
-string "Director and Producer"
+string "監督・制作"
 
 strid "smbcd_smbcdteam_art"
-string "Art Director"
+string "美術監督"
 
 strid "smbcd_smbcdteam_sound"
-string "Music/Sound Director"
+string "音楽・効果音監督"
 
 strid "smbcd_smbcdteam_graphics"
-string "Art/Graphics"
+string "美術・グラフィック"
 
 strid "smbcd_smbcdteam_graphics_gameart"
-string "Game Art"
+string "美術"
 
 strid "smbcd_smbcdteam_graphics_illustrations"
-string "Illustrations"
+string "イラスト"
 
 strid "smbcd_smbcdteam_graphics_animation
-string "Animation"
+string "アニメーション"
 
 strid "smbcd_smbcdteam_music"
-string "Music/Sound"
+string "音楽・効果音"
 
 strid "smbcd_smbcdteam_music_music"
-string "Music"
+string "音楽"
 
 strid "smbcd_smbcdteam_music_jingles"
-string "Sound Effects/Jingles"
+string "音楽・効果音"
 
 strid "smbcd_smbcdteam_voice"
-string "Voice Acting"
+string "声優"
 
 strid "smbcd_smbcdteam_as_discette"
-string "Discette"
+string "ディスケット"
 
 strid "smbcd_smbcdteam_as_barry"
-string "Barracuda Barry"
+string "バラクーダバリー"
 
 strid "smbcd_smbcdteam_asm"
-string "ASM Programming"
+string "ASMプログラミング"
 
 strid "smbcd_smbcdteam_translation"
-string "Translation"
+string "翻訳"
 
 strid "smbcd_smbcdteam_translation_es"
-string "Spanish Translation"
+string "スペイン語翻訳"
 
 strid "smbcd_smbcdteam_translation_ja"
-string "Japanese Translation"
+string "日本語翻訳"
 
 strid "smbcd_smbcdteam_translation_it"
-string "Italian Translation"
+string "イタリア語翻訳"
 
 strid "smbcd_smbcdteam_translation_ru"
-string "Russian Translation"
+string "ロシア語翻訳"
 
 strid "smbcd_smbcdteam_translation_fr"
-string "French Translation"
+string "フランス語翻訳"
 
 strid "smbcd_smbcdteam_translation_pt"
-string "Portuguese Translation"
+string "ポルトガル語翻訳"
 
 strid "smbcd_smbcdteam_translation_id"
-string "Indonesian Translation"
+string "インド語翻訳"
 
 
 

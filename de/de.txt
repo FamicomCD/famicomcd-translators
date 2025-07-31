@@ -277,26 +277,22 @@ strid "install_guide_flips_prestep_button_hide"
 string "Vorbereitung für 7-Zip und Floating IPS ▲"
 
 strid "install_guide_flips_prestep_step1"
-string "p.1. 
-Besuche die <a href="https://www.7-zip.org/">7-Zip-Webseite</a>"
+string "p.1. Besuche die <a href="https://www.7-zip.org/">7-Zip-Webseite</a>"
 
 strid "install_guide_flips_prestep_step2"
 string "p.2. Navigiere zu „Downloads“, lade die neueste Version herunter und folge dem Installationsprogramm (möglicherweise musst du je nach Betriebssystemversion eine ältere Version herunterladen)."
 
 strid "install_guide_flips_prestep_step3"
-string "p.3. 
-Besuche das <a href="https://github.com/Alcaro/Flips">Floating IPS Github-Repository</a>"
+string "p.3. Besuche das <a href="https://github.com/Alcaro/Flips">Floating IPS Github-Repository</a>"
 
 strid "install_guide_flips_prestep_step4"
 string "p.4. Navigiere zu „Releases“ und lade die neueste Version herunter"
 
 strid "install_guide_flips_marc_step1"
-string "1. 
-Lade ein ZIP-Archiv eines SMBCD-Builds von der <a href="https://famicomcd.org/smbcd/download">SMBCD-Downloadseite</a> herunter."
+string "1. Lade ein ZIP-Archiv eines SMBCD-Builds von der <a href="https://famicomcd.org/smbcd/download">SMBCD-Downloadseite</a> herunter."
 
 strid "install_guide_flips_marc_step2"
-string "2. 
-Entpacke die Build-ZIP-Datei in einen Ordner oder ein Verzeichnis deiner Wahl."
+string "2. Entpacke die Build-ZIP-Datei in einen Ordner oder ein Verzeichnis deiner Wahl."
 
 strid "install_guide_flips_marc_step2_detailed_button_show"
 string "Detaillierter Schritt 2 ▼"
@@ -305,19 +301,16 @@ strid "install_guide_flips_marc_step2_detailed_button_hide"
 string "Detaillierter Schritt 2 ▲"
 
 strid "install_guide_flips_marc_step2_detailed_stepa"
-string "2.a. 
-Öffne die ZIP-Datei"
+string "2.a. Öffne die ZIP-Datei"
 
 strid "install_guide_flips_marc_step2_detailed_stepb"
 string "2.b. Markiere alle Dateien mit Strg + A"
 
 strid "install_guide_flips_marc_step2_detailed_stepc"
-string "2.c. 
-Ziehe sie per Drag-and-Drop in den Ordner oder das Verzeichnis deiner Wahl"
+string "2.c. Ziehe sie per Drag-and-Drop in den Ordner oder das Verzeichnis deiner Wahl"
 
 strid "install_guide_flips_step3"
-string "3. 
-Öffne Floating IPS, wähle <q>Apply Patch</q> und patche SMBCD.bps auf dein SMW-ROM."
+string "3. Öffne Floating IPS, wähle <q>Apply Patch</q> und patche SMBCD.bps auf dein SMW-ROM."
 
 strid "install_guide_flips_marc_step3_detailed_button_show"
 string "Detaillierter Schritt 3 ▼"
@@ -333,20 +326,16 @@ strid "install_guide_flips_step3_detailed_stepb"
 string "3.b. Klicke auf den <q>Apply Patch</q>-Button"
 
 strid "install_guide_flips_step3_detailed_stepc"
-string "3.c. 
-Navigiere zu dem Ordner, in dem du deine SMBCD-Dateien gespeichert hast, und wähle SMBCD.bps aus"
+string "3.c. Navigiere zu dem Ordner, in dem du deine SMBCD-Dateien gespeichert hast, und wähle SMBCD.bps aus"
 
 strid "install_guide_flips_step3_detailed_stepd"
-string "3.d. 
-Navigiere zu dem Ordner, in dem dein SMW-ROM gespeichert ist, und wähle es aus"
+string "3.d. Navigiere zu dem Ordner, in dem dein SMW-ROM gespeichert ist, und wähle es aus"
 
 strid "install_guide_flips_step3_detailed_stepe"
-string "3.e. 
-Kehre zu dem Ordner zurück, in dem deine SMBCD-Dateien gespeichert sind, und speichere das gepatchte ROM als SMBCD.smc oder SMBCD.sfc"
+string "3.e. Kehre zu dem Ordner zurück, in dem deine SMBCD-Dateien gespeichert sind, und speichere das gepatchte ROM als SMBCD.smc oder SMBCD.sfc"
 
 strid "install_guide_flips_marc_step4"
-string "4. 
-Teste, ob der Patch erfolgreich war, indem du das ROM in deinem bevorzugten Emulator öffnest. Wenn das Spiel startet, hast du es korrekt gepatcht und bist spielbereit und kannst Schritt 5 ignorieren!<br><br>Wenn der Bildschirm „MSU-1 fehlt“ erscheint, hast du es korrekt gepatcht, aber es gab ein Problem beim Erkennen der MSU-1-Dateien. Fahre mit Schritt 5 zur Fehlerbehebung fort."
+string "4. Teste, ob der Patch erfolgreich war, indem du das ROM in deinem bevorzugten Emulator öffnest. Wenn das Spiel startet, hast du es korrekt gepatcht und bist spielbereit und kannst Schritt 5 ignorieren!<br><br>Wenn der Bildschirm „MSU-1 fehlt“ erscheint, hast du es korrekt gepatcht, aber es gab ein Problem beim Erkennen der MSU-1-Dateien. Fahre mit Schritt 5 zur Fehlerbehebung fort."
 
 strid "install_guide_flips_marc_step5"
 string "5. Stelle sicher, dass sich die PCM- und MSU-Dateien im selben Ordner und mit demselben Namen wie das ROM befinden 

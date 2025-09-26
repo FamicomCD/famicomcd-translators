@@ -173,8 +173,7 @@ strid "contact_title"
 string "Kontaktiere uns"
 
 strid "contact_description"
-string "Wenn du aus einem bestimmten Grund mit uns in Kontakt treten möchtest oder einfach nur unseren Social-Media-Konten folgen willst, findest du hier unsere gesamte 
-Liste von Seiten und Kontakten!"
+string "Wenn du aus einem bestimmten Grund mit uns in Kontakt treten möchtest oder einfach nur unseren Social-Media-Konten folgen willst, findest du hier unsere gesamte Liste von Seiten und Kontakten!"
 
 strid "contact_title_famicomcd"
 string "FamicomCD-Konten"
@@ -319,8 +318,7 @@ strid "install_guide_flips_marc_step3_detailed_button_hide"
 string "Detaillierter Schritt 3 ▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
-string "3.a. 
-Öffne Floating IPS"
+string "3.a. Öffne Floating IPS"
 
 strid "install_guide_flips_step3_detailed_stepb"
 string "3.b. Klicke auf den <q>Apply Patch</q>-Button"
@@ -338,8 +336,7 @@ strid "install_guide_flips_marc_step4"
 string "4. Teste, ob der Patch erfolgreich war, indem du das ROM in deinem bevorzugten Emulator öffnest. Wenn das Spiel startet, hast du es korrekt gepatcht und bist spielbereit und kannst Schritt 5 ignorieren!<br><br>Wenn der Bildschirm „MSU-1 fehlt“ erscheint, hast du es korrekt gepatcht, aber es gab ein Problem beim Erkennen der MSU-1-Dateien. Fahre mit Schritt 5 zur Fehlerbehebung fort."
 
 strid "install_guide_flips_marc_step5"
-string "5. Stelle sicher, dass sich die PCM- und MSU-Dateien im selben Ordner und mit demselben Namen wie das ROM befinden 
-(z. B. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Wenn in Windows die Dateierweiterungen deaktiviert sind, kann dies zu Problemen bei der Identifizierung von Dateinamen führen. Du kannst Dateierweiterungen im Datei-Explorer aktivieren, indem du zu <q>Ansicht</q> gehst und das Kontrollkästchen <q>Dateinamenerweiterungen</q> im oberen Bereich aktivierst.<br><br>Wenn alles korrekt eingerichtet zu sein scheint, stelle sicher, dass dein Emulator in der <a href="https://famicomcd.org/smbcd/supportsheet">Support-Tabelle</a> unterstützt wird."
+string "5. Stelle sicher, dass sich die PCM- und MSU-Dateien im selben Ordner und mit demselben Namen wie das ROM befinden (z. B. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Wenn in Windows die Dateierweiterungen deaktiviert sind, kann dies zu Problemen bei der Identifizierung von Dateinamen führen. Du kannst Dateierweiterungen im Datei-Explorer aktivieren, indem du zu <q>Ansicht</q> gehst und das Kontrollkästchen <q>Dateinamenerweiterungen</q> im oberen Bereich aktivierst.<br><br>Wenn alles korrekt eingerichtet zu sein scheint, stelle sicher, dass dein Emulator in der <a href="https://famicomcd.org/smbcd/supportsheet">Support-Tabelle</a> unterstützt wird."
 
 
 
@@ -458,8 +455,7 @@ strid "smbcd_mario_or_luigi"
 string "Spiele als Mario oder Luigi in diesem Einzelspieler-Abenteuer!"
 
 strid "smbcd_end_convincing"
-string "Nicht überzeugt? 
-Du kannst auch:"
+string "Nicht überzeugt? Du kannst auch:"
 
 strid "smbcd_end_convincing_learn"
 string "Mehr erfahren"
@@ -789,8 +785,7 @@ strid "deprecated_smbcd_tagline2"
 string "SMBCD nutzt den MSU-1-Chip, um originelle und reichhaltige CD-Qualitätsmusik, vollständig animierte Zwischensequenzen und komplexere Umgebungen zu liefern, sogar auf Original-Hardware über das SD2SNES/FXPak Pro! SMBCD verwendet auch stark den Modus 0 (ein SNES-Hintergrundmodus, ähnlich dem Modus 7) für seine Level, was mehr Ebenen für Vordergrundumgebungen und Hintergrund-Parallaxe bietet. Modus 0 ermöglicht 4 Ebenen gleichzeitig anstelle der üblichen 2-3 Ebenen in SMW, die Modus 1 verwenden, bewirkt aber, dass alle Ebenen 2BPP oder 4 Farben pro Kachel haben (dies schließt Sprite-Ebenen nicht ein, die weiterhin 16 Farben verwenden)."
 
 strid "deprecated_smbcd_story1"
-string "SMBCD spielt auf dem kleinen, aber vielfältigen Archipel von Brixurei. 
-Eines Tages wurde der Wächter von Brixurei – die Hauptquelle für Schutz und Sicherheit des Archipels – auf mysteriöse Weise wahnsinnig, was zu widrigem Wetter und aufgebrachter, wilder Tierwelt führte. Die Einheimischen waren ratlos und besorgt. Diejenigen, die ihre Städte verließen, um herauszufinden, was los war, wurden nie wieder gesehen.<br><br>Inmitten des Chaos, das durch den plötzlichen Ausbruch des Wächters verursacht wurde, riefen die Einheimischen die einzigen Mario Bros. zu Hilfe. Während das Pilzkönigreich Abschied nahm, machte sich Mario mit dem Boot auf den Weg zum Archipel von Brixurei und nahm Luigi mit auf die Reise. Auf dieser Reise werden die Brüder auch ein neues freundliches Gesicht treffen, das sie begleiten wird."
+string "SMBCD spielt auf dem kleinen, aber vielfältigen Archipel von Brixurei. Eines Tages wurde der Wächter von Brixurei – die Hauptquelle für Schutz und Sicherheit des Archipels – auf mysteriöse Weise wahnsinnig, was zu widrigem Wetter und aufgebrachter, wilder Tierwelt führte. Die Einheimischen waren ratlos und besorgt. Diejenigen, die ihre Städte verließen, um herauszufinden, was los war, wurden nie wieder gesehen.<br><br>Inmitten des Chaos, das durch den plötzlichen Ausbruch des Wächters verursacht wurde, riefen die Einheimischen die einzigen Mario Bros. zu Hilfe. Während das Pilzkönigreich Abschied nahm, machte sich Mario mit dem Boot auf den Weg zum Archipel von Brixurei und nahm Luigi mit auf die Reise. Auf dieser Reise werden die Brüder auch ein neues freundliches Gesicht treffen, das sie begleiten wird."
 
 strid "deprecated_smbcd_footnote1"
 string "• Über 40 miteinander verbundene Level, die eine zusammenhängende Geschichte bilden"
@@ -846,8 +841,7 @@ strid "deprecated_speedrun_submit"
 string "Tritt unserem Discord bei, um Läufe einzureichen!*<br>*Reiche keine Läufe mit v1.3 ein und reiche keine Läufe ein, bei denen die Spielanzeige auf mehr als 4:3 oder ein quadratisches Seitenverhältnis (8:7, 1:1, etc.) gestreckt ist. Läufe, die mit dem Spiel in etwas wie 16:9 eingereicht werden, werden nicht akzeptiert (deine Videogröße kann diese Größe haben, nur nicht das Spiel)."
 
 strid "deprecated_speedrun_"
-string "Sieh dir die 
-Ankündigung an!"
+string "Sieh dir die Ankündigung an!"
 
 strid "deprecated_speedrun_2.2"
 string "v2.2 herunterladen"

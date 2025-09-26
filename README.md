@@ -8,11 +8,11 @@ We will not accept translations created using Google Translate or other translat
 Our list of currently supported languages are:
 - English (en),
 - Español (es) (managed by [Magic Mouse](https://www.sudomemo.net/user/5912E180CEF9E084@DSi))
-- 日本語 (ja) (managed by ![famicomCD](https://github.com/JessDoesVids.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com))
+- 日本語 (ja) (managed by ![famicomCD](https://github.com/BeccaIsAlsoJess.png?size=20) [Jess Williamson](https://bsky.app/profile/jess.undertaleplus.com))
 - Italiano (it) (managed by ![famicomCD](https://github.com/Peppe021203.png?size=20) [Peppe](https://twitter.com/Peppe021203))
 - Русский (ru) (managed by ![famicomCD](https://github.com/eugenephil.png?size=20) [Phil](https://bsky.app/profile/philmarseille.bsky.social))
 - Français (fr) (managed by ![famicomCD](https://github.com/Lemongrwab.png?size=20) [Lemongrwab](https://github.com/Lemongrwab))
-- Indonesia (id) (managed by ![famicomCD](https://github.com/TheCabbRat.png?size=20) [TheCabbRat](https://github.com/TheCabbRat))
+- Indonesia (id) (managed by ![famicomCD](https://github.com/TheHNSGuy.png?size=20) [TheHNSGuy](https://github.com/TheHNSGuy))
 - Português (pt) (managed by ![famicomCD](https://github.com/CattyBrazil.png?size=20) [CattyBrazil](https://github.com/CattyBrazil))
 
 # Pull Requests and Issues

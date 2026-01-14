@@ -415,70 +415,70 @@ string "¡Ya está! La pantalla de "MSU1 missing" no aparecerá al cargar el jue
 & SMBCD Page &
 
 strid "smbcd_button_enemies"
-string "Enemies"
+string "Enemigos"
 
 strid "smbcd_button_story_info"
-string "Story and Info"
+string "Historia e Información"
 
 strid "smbcd_button_play_bgm"
-string "Play BGM"
+string "Reproducir BGM"
 
 & Please use "BGM" regardless of language & 
 
 strid "smbcd_button_stop_bgm"
-string "Stop BGM"
+string "Detener BGM"
 
 strid "smbcd_button_learn_more"
-string "Learn More ➜"
+string "Aprende más ➜"
 
 strid "smbcd_heading_screenshots"
-string "SCREENSHOTS"
+string "PANTALLAZOS"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">support sheet</a>."
+string "Compatible con emulators soportados y hardware Super NES usando el <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! Para ver la lista más reciente de emuladores soportados, consulte la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
 
 strid "smbcd_name_powerup_mushroom"
-string "Super Mushroom"
+string "Super Champiñon"
 
 strid "smbcd_name_powerup_flower"
-string "Fire Flower"
+string "Flor de Fuego"
 
 strid "smbcd_name_powerup_star"
-string "Starman"
+string "Estrella"
 
 strid "smbcd_desc_powerup_mushroom"
-string "Bash bricks with your head!"
+string "¡Golpea ladrillos con tu cabeza!"
 
 strid "smbcd_desc_powerup_flower"
-string "Shoot fireballs from your fingertips!"
+string "¡Lanza bolas de fuego de tus dedos!"
 
 strid "smbcd_desc_powerup_star"
-string "Invincibility against most threats (aside from pits)!"
+string "¡invencibilidad contra la mayoria de amenazas (menos los precipicios)!"
 
 strid "smbcd_end_convincing"
-string "Not convinced? You can also:"
+string "¿No te convence? También puedes:"
 
 strid "smbcd_end_convincing_learn"
-string "Learn More"
+string "Aprende más"
 
 strid "smbcd_end_convincing_or"
-string "Or"
+string "O"
 
 strid "smbcd_end_convincing_download"
-string "Try out SMBCD"
+string "Prueba SMBCD"
 
 strid "smbcd_smbcd"
 string "Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd"
-string "About Super Mario Bros. CD"
+string "Acerca de Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console. SMBCD is for the FamicomCD, a fictional add-on for the Famicom/NES.<br><br>SMBCD utilizes the <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro. SMBCD also heavily utilizes <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (a SNES background mode, akin to <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) for its levels, providing additional layers for foreground elements and background parallax."
+string "Super Mario Bros. CD (SMBCD) es un ROM hack de Super Mario World, imaginando lo que podria ser un juego de SMB en una consola con unidad lectora de discos. SMBCD es para la FamicomCD, un add-on ficticio para la Famicom/NES.<br><br>SMBCD utiliza el chip <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> que brinda música original de alta fidelidad, cinemáticas completamente animadas, y ambientes más complejos, incluso en hardware original por medio del SD2SNES/FXPak Pro. SMBCD también utilza en gran medida el <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (un modo de fondos de la SNES, similar al <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) para sus niveles, proporcionando capas adicionales para elementos de primer plano y paralaje de fondo."
 
 strid "smbcd_info_alt_reality"
-string "Let’s Set the Scene!"
+string "¡Veamos la escena!"
 
 strid "smbcd_info_alt_reality_desc"
 string "The year is 1987. The NES/Famicom is seeing immense popularity hot off the success of the console and many of its titles during this period. Nintendo had released Super Mario Bros. 2 (known as <q>The Lost Levels</q> in the west) and published many popular action games the previous year.<br><br>Concurrently, the Super Famicom was in development and announced that year by the President of Nintendo. However, Nintendo wished to still support the original, now aging Famicom. This would become the FamicomCD, a CD-ROM based add-on that would be able to utilize CDs to load video games, presented as a cheaper entry point for existing Famicom users into the <q>next generation</q>. This would be a very ambitious endeavor, so to sell the system, it was requested that a technologically improved Super Mario Bros. must be able to be played on this device.<br><br>However, as Hiroshi Yamauchi said in September 1987, <q>Super Mario Bros. 4</q> and many other titles were already in the planning stages for the next version of the Famicom, which left <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Nintendo Research & Development Group #1</a> to be the ones to develop the Super Mario Bros. game for FamicomCD rather than the <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Research Group #4</a> (who had worked on a lot of the previous entries and eventually "Super Mario World"), with assistance from Team Shikamaru for much of the planning and some parts of development. The game would look familiar to Super Mario Bros. players, but feature vibrant, colorful, and stunning visuals that weren't possible on the original Famicom, and sounds that were unlike anything from before.<br><br>It was initially planned to make the music of the game match the sound aesthetic of the Famicom games but with higher fidelity instruments, however the new CD spec meant that music was no longer limited by the sound polyphony and synthesis abilities of the <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">Famicom's 2A03 chip</a>. There were virtually no limitations in place, sounds could be as rich and full as they could ever sound. This led the production of the music for Super Mario Bros. CD to spin off into being a much more ambitious project, with more musicians and instrumentalists involved to truly make the music take advantage of the new technology."

@@ -436,7 +436,7 @@ string "PANTALLAZOS"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatible con emulators soportados y hardware Super NES usando el <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! Para ver la lista más reciente de emuladores soportados, consulte la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
+string "Compatible con emuladores soportados y hardware Super NES usando el <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! Para ver la lista más reciente de emuladores soportados, consulte la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
 
 strid "smbcd_name_powerup_mushroom"
 string "Super Champiñon"

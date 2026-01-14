@@ -422,6 +422,8 @@ string "Story and Info"
 strid "smbcd_button_play_bgm"
 string "Play BGM"
 
+& Please use "BGM" regardless of language & 
+
 strid "smbcd_button_stop_bgm"
 string "Stop BGM"
 

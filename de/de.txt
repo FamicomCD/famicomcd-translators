@@ -418,7 +418,9 @@ strid "smbcd_button_story_info"
 string "Story und Infos"
 
 strid "smbcd_button_play_bgm"
-string "Hintergrundmusik abspielen"
+string "BGM abspielen"
+
+& Please use "BGM" regardless of language & 
 
 strid "smbcd_button_stop_bgm"
 string "Hintergrundmusik stoppen"

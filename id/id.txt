@@ -91,10 +91,10 @@ strid "no"
 string "tidak"
 
 strid "msu1_supported"
-string "Ada MSU-1"
+string "Ada MSU1"
 
 strid "msu1_unsupported"
-string "Tidak ada MSU-1"
+string "Tidak ada MSU1"
 
 strid "support_type"
 string "Tipe"
@@ -221,7 +221,7 @@ string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal
 & Installation Guides &
 
 strid "install_desc"
-string "Berikut ini petunjuk cara menginstall Super Mario Bros. CD (SMBCD), dan cara menggunakan MSU-1. Jika menggunakan cara manual, proses pemasangannya juga berlaku pada tipe rom hack lainnya. Jika anda mengalami kendala dalam proses instalasi, hubungi kami di <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
+string "Berikut ini petunjuk cara menginstall Super Mario Bros. CD (SMBCD), dan cara menggunakan MSU1. Jika menggunakan cara manual, proses pemasangannya juga berlaku pada tipe rom hack lainnya. Jika anda mengalami kendala dalam proses instalasi, hubungi kami di <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
 
 strid "install_note_automatic"
 string "Otomatis"
@@ -337,7 +337,7 @@ strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Kembali lagi ke folder SMBCD dan simpan ROM yang sudah ditambahkan dengan nama SMBCD.smc atau SMBCD.sfc"
 
 strid "install_guide_flips_marc_step4"
-string "4. Bisa ditest jika pemasangan berhasil dengan menggunakan emulator pilihanmu. Jika game dapat dimulai, anda memasangnya dengan benar dan bisa segera dimainkan, anda dapat abaikan step 5!<br><br>Jika layar "MSU-1 missing" muncul, anda memasangnya dengan benar... tapi ada masalah dengan pendeteksian file MSU-1nya. Lanjut ke step 5 untuk troubleshoot."
+string "4. Bisa ditest jika pemasangan berhasil dengan menggunakan emulator pilihanmu. Jika game dapat dimulai, anda memasangnya dengan benar dan bisa segera dimainkan, anda dapat abaikan step 5!<br><br>Jika layar "MSU1 missing" muncul, anda memasangnya dengan benar... tapi ada masalah dengan pendeteksian file MSU1nya. Lanjut ke step 5 untuk troubleshoot."
 
 strid "install_guide_flips_marc_step5"
 string "5. Pastikan bahwa file PCM dan MSU berada di folder yang sama dan diberi nama yang sama dengan ROMnya. (Cth. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Di Windows, jika file extensions anda dimatikan, akan mengakibatkan masalah dalam mengidentifikasi nama file. Anda dapat menyalakan file extensions di File Explorer dengan klik <q>View</q> dan beri cek di <q>File name extensions</q>.<br><br>Jika semua sudah disetup dengan benar, pastikan emulator anda cocok dengan yang ada di <a href="https://famicomcd.org/smbcd/supportsheet">Info Emulator</a>."
@@ -387,14 +387,14 @@ strid "install_guide_autopatcher_step4"
 string "4. Tahan dan letakkan folder pilihanmu untuk menyimpan semua file SMBCD ke dalam window, lalu tekan enter."
 
 strid "install_guide_autopatcher_step5"
-string "5. Bisa ditest apakah gamenya bisa dimulai. Jika layar "MSU-1 missing" muncul, pastikan emulator anda cocok dengan yang ada di <a href="https://famicomcd.org/smbcd/supportsheet">Info Emulator</a>."
+string "5. Bisa ditest apakah gamenya bisa dimulai. Jika layar "MSU1 missing" muncul, pastikan emulator anda cocok dengan yang ada di <a href="https://famicomcd.org/smbcd/supportsheet">Info Emulator</a>."
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch di iOS sangat sensitif mengenai di mana anda menyimpan file-filenya. Tergantung di mana anda menyimpan dan membukanya, anda bisa jadi tidak mengalami masalah, tidak ada musik, atau mendapatkan layar "MSU-1 missing" lagi."
+string "Retroarch di iOS sangat sensitif mengenai di mana anda menyimpan file-filenya. Tergantung di mana anda menyimpan dan membukanya, anda bisa jadi tidak mengalami masalah, tidak ada musik, atau mendapatkan layar "MSU1 missing" lagi."
 
 strid "tutorial_ios_retroarch_note2"
 string "Instruksi di bawah ini menjamin dapat mengatasi segala masalah di atas. Jika tidak, anda dapat menghubungi."
@@ -409,7 +409,7 @@ strid "tutorial_ios_retroarch_step2"
 string "Setelah itu, buka Retroarch, dan navigasi ke folder downloads dari menu <q>Load Content</q> (Pastikan dibuka melalui <q>Downloads</q> dan bukan <q>Open...</q>). Lalu, pilih BSNES atau SNES9x untuk emulatornya (jika anda menggunakan SNES9x, pastikan bukan yang versi 2005 atau 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! Tidak ada lagi layar "MSU-1 missing", dan musik!"
+string "Voilà! Tidak ada lagi layar "MSU1 missing", dan musik!"
 
 
 
@@ -703,7 +703,7 @@ strid "deprecated_smbcd_tagline1"
 string "Super Mario Bros. CD (SMBCD) adalah ROM hack dari Super Mario World yang diubah menjadi game SMB apabila dimainkan di dalam konsol berbasis CD! Konsol berbasis CD ini yang dimaksud adalah FamicomCD, yang merupakan add-on fiksi untuk konsol Famicom/NES dan bukan Super NES CD, karena beberapa orang suka ketukar dengan kedua hal itu."
 
 strid "deprecated_smbcd_tagline2"
-string "SMBCD memanfaatkan chip MSU-1 untuk memberikan lagu-lagu yang berkualitas layaknya musik dalam CD, adegan animasi, dan lingkungan yang lebih kompleks, bahkan di hardware asli melalui SD2SNES/FXPak Pro! SMBCD sangat memanfaatkan Mode 0 (sebuah mode SNES background, mirip seperti Mode 7) untuk setiap level, memberikan lebih banyak layer untuk elemen foreground dan paralaks background. Mode 0 memberikan 4 layer dibanding 2-3 layer yang dapat ditemukan dalam SMW dengan menggunakan Mode 1, tetapi semua layer diubah menjadi 2BPP atau 4 warna per tile (layer sprite tidak dihitung karena tetap menggunakan 16 warna)."
+string "SMBCD memanfaatkan chip MSU1 untuk memberikan lagu-lagu yang berkualitas layaknya musik dalam CD, adegan animasi, dan lingkungan yang lebih kompleks, bahkan di hardware asli melalui SD2SNES/FXPak Pro! SMBCD sangat memanfaatkan Mode 0 (sebuah mode SNES background, mirip seperti Mode 7) untuk setiap level, memberikan lebih banyak layer untuk elemen foreground dan paralaks background. Mode 0 memberikan 4 layer dibanding 2-3 layer yang dapat ditemukan dalam SMW dengan menggunakan Mode 1, tetapi semua layer diubah menjadi 2BPP atau 4 warna per tile (layer sprite tidak dihitung karena tetap menggunakan 16 warna)."
 
 strid "deprecated_smbcd_story1"
 string "SMBCD terjadi di sebuah kepulauan kecil namun beragam yang Bernama Kepulauan Brixurei. Suatu hari, secara misterius, Pelindung Brixurei — sumber keamanan dan kenyamanan bagi kepulauan tersebut — menjadi marah, mengakibatkan cuaca buruk dan mengganggu satwa liar untuk berkeliaran merajalela. Para penduduk merasa cemas dan khawatir. Mereka yang meninggalkan tempat tinggalnya untuk mencari tahu penyebabnya tidak pernah kembali lagi.<br><br>Di tengah kekacauan tersebut, Para penduduk meminta pertolongan satu-satunya yaitu Mario Bros. untuk membantu mereka. Sesudah Mushroom Kingdom mengucapkan selamat tinggal, Mario segera berangkat ke Kepulauan Brixurei dengan kapal, bersama adiknya Luigi dalam perjalanannya. Dalam pertualangan ini, mereka akan bertemu dengan teman baru yang akan menemani mereka."
@@ -733,13 +733,13 @@ strid "deprecated_tutorial_videoversion"
 string "Video Petunjuk"
 
 strid "deprecated_tutorial_setup"
-string "Pemasangan SMBCD dan MSU-1"
+string "Pemasangan SMBCD dan MSU1"
 
 strid "deprecated_tutorial_note1"
-string "Petunjuk ini memberikan arahan cara menginstall ROM hack Super Mario World (SMW), dan cara menggunakan MSU-1. Meskipun memberi petunjuk mengenai SMBCD, Namun bisa dijadikan panduan untuk ROM hack Super NES lainnya."
+string "Petunjuk ini memberikan arahan cara menginstall ROM hack Super Mario World (SMW), dan cara menggunakan MSU1. Meskipun memberi petunjuk mengenai SMBCD, Namun bisa dijadikan panduan untuk ROM hack Super NES lainnya."
 
 strid "deprecated_tutorial_note2"
-string "MSU-1 merupakan cara SMBCD memberikan lagu-lagu yang berkualitas CD dengan fitur lainnya yang susah dilakukan oleh Super NES yang asli, dan itulah MSU-1 sangat diperlukan oleh SMBCD untuk dimulai. Jika anda tidak mempunyai MSU-1 atau tidak diinstal dengan benar, SMBCD tidak dapat dimainkan. Jika anda mengikuti petunjuk dan menginstal semua file untuk MSU-1 tapi SMBCD masih belum dapat dimainkan, cek apakah emulator anda cocok dengan MSU-1 atau ikuti FamicomCD Discord untuk bantuan."
+string "MSU1 merupakan cara SMBCD memberikan lagu-lagu yang berkualitas CD dengan fitur lainnya yang susah dilakukan oleh Super NES yang asli, dan itulah MSU1 sangat diperlukan oleh SMBCD untuk dimulai. Jika anda tidak mempunyai MSU1 atau tidak diinstal dengan benar, SMBCD tidak dapat dimainkan. Jika anda mengikuti petunjuk dan menginstal semua file untuk MSU1 tapi SMBCD masih belum dapat dimainkan, cek apakah emulator anda cocok dengan MSU1 atau ikuti FamicomCD Discord untuk bantuan."
 
 strid "deprecated_tutorial_note3"
 string "<b>Important: </b>Anda harus memerlukan USA Super Mario World ROM untuk pemasangan file BPS SMBCD. Kami sarankan untuk mengeluarkan cartridge SMW Super NES milik anda. Kami tidak akan memberi instruksi bagaimana atau dimana mendapatkan ROM jika anda tidak mau, atau tidak bisa mengeluarkan cartridge milik anda."
@@ -771,13 +771,13 @@ strid "deprecated_tutorial_step4"
 string "<b>Step 4: </b>Tambahkan SMBCD BPS ke dalam game file SMW menggunakan <a href="https://www.smwcentral.net/?a=details&id=11474&p=section">Floating IPS</a> atau <a href="https://www.marcrobledo.com/RomPatcher.js">Marc Robledo's Online Patcher</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Step 5: </b>Setelah anda memasangnya, bisa ditest apakah dapat dimulai. Jika layar "MSU-1 required" muncul, anda berhasil memasangnya, namun belum selesai. Anda memerlukan file-file MSU-1 untuk menyelesaikan instalasi."
+string "<b>Step 5: </b>Setelah anda memasangnya, bisa ditest apakah dapat dimulai. Jika layar "MSU1 required" muncul, anda berhasil memasangnya, namun belum selesai. Anda memerlukan file-file MSU1 untuk menyelesaikan instalasi."
 
 strid "deprecated_tutorial_step6"
 string "<b>Step 6: </b>Masih ingatkah file MSU dan file PCM sebelumnya? Anda perlu memasukkan file-file tersebut ke dalam folder yang sama dan dengan nama yang sama sesuai game file SMBCD. Untuk kerapian, disarakan bagi anda untuk menyimpan semua file SMBCD di dalam foldernya tersendiri."
 
 strid "deprecated_tutorial_step7"
-string "<b>Step 7: </b>Setelah semua file sudah dimasukkan, SMBCD seharusnya dapat dimulai dengan normal. Jika anda masih mendapatkan error "MSU-1 is missing", pastikan emulator anda cocok dengan <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Info Emulator</a> atau ikuti FamicomCD Discord untuk bantuan."
+string "<b>Step 7: </b>Setelah semua file sudah dimasukkan, SMBCD seharusnya dapat dimulai dengan normal. Jika anda masih mendapatkan error "MSU1 is missing", pastikan emulator anda cocok dengan <a href="https://famicomcd.org/smbcd/supportsheet">SMBCD Info Emulator</a> atau ikuti FamicomCD Discord untuk bantuan."
 
 
 strid "deprecated_smbcdteam_meet"

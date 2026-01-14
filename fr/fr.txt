@@ -90,10 +90,10 @@ strid "no"
 string "non"
 
 strid "msu1_supported"
-string "Prise en charge du MSU-1"
+string "Prise en charge du MSU1"
 
 strid "msu1_unsupported"
-string "MSU-1 non pris en charge"
+string "MSU1 non pris en charge"
 
 strid "support_type"
 string "Type"
@@ -220,7 +220,7 @@ string "FamicomCD et l'équipe FamicomCD ne sont en aucun cas affiliés à Ninte
 & Installation Guides &
 
 strid "install_desc"
-string "Ces guides expliquent comment installer Super Mario Bros. CD (SMBCD) et comment utiliser le MSU-1. Si vous patchez manuellement votre fichier ROM, le processus de patching peut également s'appliquer à d'autres types de rom hacks. Si vous avez des problèmes avec le processus d'installation, n'hésitez pas à nous contacter sur <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
+string "Ces guides expliquent comment installer Super Mario Bros. CD (SMBCD) et comment utiliser le MSU1. Si vous patchez manuellement votre fichier ROM, le processus de patching peut également s'appliquer à d'autres types de rom hacks. Si vous avez des problèmes avec le processus d'installation, n'hésitez pas à nous contacter sur <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">Contactez nous par mail</a>!"
 
 strid "install_note_automatic"
 string "Installation Automatique"
@@ -336,7 +336,7 @@ strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Retournez dans le dossier où sont stockés vos fichiers SMBCD et enregistrez la ROM patchée sous le nom de SMBCD.smc ou SMBCD.sfc. "
 
 strid "install_guide_flips_marc_step4"
-string "4. Testez si le jeu a été correctement patché en ouvrant la ROM dans l'émulateur de votre choix. Si le jeu démarre, c'est que vous l'avez correctement patché et que vous êtes prêt à jouer et vous pouvez ignorer l'étape 5!<br><br>Si l'écran "MSU-1 missing" apparaît, cela signifie que le correctif a été correctement appliqué, mais qu'il y a eu un problème de détection des fichiers MSU-1. Passez à l'étape 5 pour résoudre le problème."
+string "4. Testez si le jeu a été correctement patché en ouvrant la ROM dans l'émulateur de votre choix. Si le jeu démarre, c'est que vous l'avez correctement patché et que vous êtes prêt à jouer et vous pouvez ignorer l'étape 5!<br><br>Si l'écran "MSU1 missing" apparaît, cela signifie que le correctif a été correctement appliqué, mais qu'il y a eu un problème de détection des fichiers MSU1. Passez à l'étape 5 pour résoudre le problème."
 
 strid "install_guide_flips_marc_step5"
 string "5. Assurez-vous que les fichiers PCM et MSU se trouvent dans le même dossier et portent le même nom que la ROM. (Ex. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>Dans Windows, si les extensions de fichiers sont désactivées, cela peut entraîner des problèmes d'identification des noms des fichiers. Vous pouvez activer les extensions de fichiers dans l'Explorateur de fichiers en allant sur <q>View</q> et en cochant <q>File name extensions</q> la case dans le panneau supérieur.<br><br>Si tout semble bien configuré, assurez-vous que votre émulateur est pris en charge par <a href="https://famicomcd.org/smbcd/supportsheet">Support Sheet</a>."
@@ -386,14 +386,14 @@ strid "install_guide_autopatcher_step4"
 string "4. Faire glisser et déposer le dossier dans lequel vous voulez placer tous vos fichiers SMBCD dans la fenêtre, puis appuyer sur Entrée."
 
 strid "install_guide_autopatcher_step5"
-string "5. Tester si le jeu démarre normalement. Si l'écran d'absence du MSU-1 apparaît, assurez-vous que votre émulateur est pris en charge dans la base de données du <a href="https://famicomcd.org/smbcd/supportsheet">Emulateurs Compatibles</a>."
+string "5. Tester si le jeu démarre normalement. Si l'écran d'absence du MSU1 apparaît, assurez-vous que votre émulateur est pris en charge dans la base de données du <a href="https://famicomcd.org/smbcd/supportsheet">Emulateurs Compatibles</a>."
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch sur iOS est très pointilleux sur l'endroit où vous stockez vos fichiers. Selon l'endroit où vous les stockez et les chargez, vous pouvez n'avoir aucun problème, ne pas avoir de musique ou obtenir l'écran d'avertissement MSU-1 manquant."
+string "Retroarch sur iOS est très pointilleux sur l'endroit où vous stockez vos fichiers. Selon l'endroit où vous les stockez et les chargez, vous pouvez n'avoir aucun problème, ne pas avoir de musique ou obtenir l'écran d'avertissement MSU1 manquant."
 
 strid "tutorial_ios_retroarch_note2"
 string "Ce bref guide devrait, nous l'espérons, remédier à tous les problèmes susmentionnés. Dans le cas contraire, n'hesitez pas à nous contacter."
@@ -408,7 +408,7 @@ strid "tutorial_ios_retroarch_step2"
 string "Ensuite, ouvrez Retroarch, et naviguez jusqu'au dossier des téléchargements à partir de l'onglet <q>Load Content</q> menu (Soyez sur de charger via <q>Downloads</q> et non <q>Open...</q>). TEnsuite, sélectionnez le core BSNES ou SNES9x (si vous prévoyez d'utiliser SNES9x, assurez-vous qu'il ne s'agit pas du core 2005 ou 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! Plus d'écran d'avertissement MSU-1 manquant et profitez de la musique!"
+string "Voilà! Plus d'écran d'avertissement MSU1 manquant et profitez de la musique!"
 
 
 
@@ -701,7 +701,7 @@ strid "deprecated_smbcd_tagline1"
 string "Super Mario Bros. CD (SMBCD) est un ROM hack de Super Mario World, c'est une sorte de "et si" pour un jeu SMB fonctionnant sur une console équipée d'un lecteur CD! La console équipée d'un lecteur CD dan ce cas est la FamicomCD, qui est une extension fictive pour la Famicom/NES et ce n'est pas la Super NES CD, que certains auraient tendence à confondre avec."
 
 strid "deprecated_smbcd_tagline2"
-string "SMBCD utilise la puissance de la puce MSU-1 pour delivrer une musique originale et riche de qualité CD, des cinématiques entièrement animées, et des niveaux impressionnants avec des environnements plus complexes, même sur le matériel d'origine via le SD2SNES/FXPak Pro ! SMBCD fais appel à un usage intensif du Mode 0 (un mode d'arrière-plan de la SNES, semblable au Mode 7) pour ses niveaux, fournissant plus de couches pour les environnements de premier plan et des effets de parallaxe d'arrière-plan. Le Mode 0 permet d'avoir jusqu'à 4 couches à la fois plutôt que les 2-3 couches habituelles trouvées dans SMW qui lui solicite le Mode 1, Cependant il limite également toutes les couches à 2BPP ou 4 couleurs par tuile. (ceci n'inclut pas les couches de sprites qui conservent l'utilisation de 16 couleurs)."
+string "SMBCD utilise la puissance de la puce MSU1 pour delivrer une musique originale et riche de qualité CD, des cinématiques entièrement animées, et des niveaux impressionnants avec des environnements plus complexes, même sur le matériel d'origine via le SD2SNES/FXPak Pro ! SMBCD fais appel à un usage intensif du Mode 0 (un mode d'arrière-plan de la SNES, semblable au Mode 7) pour ses niveaux, fournissant plus de couches pour les environnements de premier plan et des effets de parallaxe d'arrière-plan. Le Mode 0 permet d'avoir jusqu'à 4 couches à la fois plutôt que les 2-3 couches habituelles trouvées dans SMW qui lui solicite le Mode 1, Cependant il limite également toutes les couches à 2BPP ou 4 couleurs par tuile. (ceci n'inclut pas les couches de sprites qui conservent l'utilisation de 16 couleurs)."
 
 strid "deprecated_smbcd_story1"
 string "SMBCD se déroule dans le petit mais diversifié archipel de Brixurei. Un jour, de manière mystérieuse, le gardien de Brixurei, qui est seul responsable de la protection et de la sécurité de l'archipel, sombre dans la folie. Cela entraîne des conditions météorologiques désastreuses et un dérèglement de la faune. Les habitants, inquiets et déconcertés, cherchent des réponses. Certains curieux décident de comprendre ce qui se passe et quittent leur village... Hélas, nous n'avons malheureusement plus jamais entendu parler d'eux. Au milieu du chaos provoqué par l'irruption soudaine du Gardien, les habitants sollicitent l'aide de l'unique Mario Bros. Alors que le Royaume Champignon fait ses adieux, Mario part en bateau vers l'archipel de Brixurei, accompagné de Luigi. Au cours de ce voyage, les frères rencontreront également de nouveaux alliés qui les accompagneront dans leur quête."
@@ -731,13 +731,13 @@ strid "deprecated_tutorial_videoversion"
 string "Version vidéo du guide"
 
 strid "deprecated_tutorial_setup"
-string "Paramétrer SMBCD et le MSU-1"
+string "Paramétrer SMBCD et le MSU1"
 
 strid "deprecated_tutorial_note1"
-string "Ce guide couvre à la fois l'installation des rom hacks de Super Mario World (SMW) et l'utilisation du MSU-1. Bien que le guide mentionne SMBCD, les instructions peuvent s'appliquer à la plupart des autres rom hacks Super NES."
+string "Ce guide couvre à la fois l'installation des rom hacks de Super Mario World (SMW) et l'utilisation du MSU1. Bien que le guide mentionne SMBCD, les instructions peuvent s'appliquer à la plupart des autres rom hacks Super NES."
 
 strid "deprecated_tutorial_note2"
-string "Le MSU-1 est le principal moyen par lequel SMBCD délivre un son riche de qualité CD et d'autres caractéristiques qu'une vraie Super Nintendo ne pourrait obtenir, en tant que tel, MSU-1 est nécessaire pour que SMBCD fonctionne. S'il vous manque le MSU-1 ou si vous ne l'avez pas correctement installé, SMBCD ne démarrera pas. Si vous avez suivi le guide et installé tous les fichiers MSU-1 requis mais que SMBCD ne démarre toujours pas, vérifiez si votre émulateur supporte le MSU-1 ou rejoignez le Discord FamicomCD pour obtenir de l'aide."
+string "Le MSU1 est le principal moyen par lequel SMBCD délivre un son riche de qualité CD et d'autres caractéristiques qu'une vraie Super Nintendo ne pourrait obtenir, en tant que tel, MSU1 est nécessaire pour que SMBCD fonctionne. S'il vous manque le MSU1 ou si vous ne l'avez pas correctement installé, SMBCD ne démarrera pas. Si vous avez suivi le guide et installé tous les fichiers MSU1 requis mais que SMBCD ne démarre toujours pas, vérifiez si votre émulateur supporte le MSU1 ou rejoignez le Discord FamicomCD pour obtenir de l'aide."
 
 strid "deprecated_tutorial_note3"
 string "<b>Important: </b>Vous avez besoin de votre propre rom de Super Mario World américaine pour patcher le fichier BPS de SMBCD. Nous vous recommandons de dumper votre propre cartouche officielle de Super Mario World (USA) pour Super Nintendo . Nous ne vous indiquerons pas comment et/où obtenir la rom du jeu si vous ne voulez pas ou ne pouvez pas dumper votre propre cartouche."
@@ -769,13 +769,13 @@ strid "deprecated_tutorial_step4"
 string "<b>Étape 4: </b>Patchez la rom de SMW USA avec le BPS de SMBCD en utilisant <a href=« https://www.smwcentral.net/?a=details&id=11474&p=section »>Floating IPS</a> ou <a href=« https://www.marcrobledo.com/RomPatcher.js »>le patcheur online de Marc Robledo</a>."
 
 strid "deprecated_tutorial_step5"
-string "<b>Étape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU-1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU-1 pour terminer l'installation."
+string "<b>Étape 5: </b>Une fois que vous avez votre rom SMBCD, testez-la pour voir si elle fonctionne. Si l'écran MSU1 apparaît, vous l'avez correctement patchée, mais vous n'avez pas encore terminé. Vous aurez besoin des fichiers MSU1 pour terminer l'installation."
 
 strid "deprecated_tutorial_step6"
 string "<b>Étape 6: </b>Vous vous souvenez des fichiers MSU et PCM de tout à l'heure ? Ces fichiers doivent se trouver dans le même répertoire et porter le même nom* que votre rom SMBCD. Pour des raisons d'organisation, il est recommandé de stocker tous les fichiers de SMBCD dans un dossier bien à part."
 
 strid "deprecated_tutorial_step7"
-string "<b>Étape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU-1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
+string "<b>Étape 7: </b>Une fois que tous les fichiers sont en place, SMBCD devrait démarrer normalement. Si vous obtenez toujours l'erreur MSU1 is missing, assurez-vous que votre émulateur est supporté dans la rubrique <a href=« https://famicomcd.org/smbcd/supportsheet »>Emulateurs Compatibles</a> ou rejoignez le Discord FamicomCD  pour obtenir de l'aide."
 
 
 strid "deprecated_smbcdteam_meet"

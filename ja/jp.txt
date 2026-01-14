@@ -89,10 +89,10 @@ strid "no"
 string "いいえ"
 
 strid "msu1_supported"
-string "MSU-1対応"
+string "MSU1対応"
 
 strid "msu1_unsupported"
-string "MSU-1非対応"
+string "MSU1非対応"
 
 strid "support_type"
 string "種類"
@@ -219,7 +219,7 @@ string "ファミコンCD、およびFamicomCD開発連盟は任天堂と一切�
 & Installation Guides &
 
 strid "install_desc"
-string "このガイドではスーパーマリオブラザーズCDのインストール、MSU-1の使用法を教えます。以下の方法をわかれば、他のモッドのインストールも同じようにできます。インストール中に問題がある場合は<a href="https://discord.gg/wpSGt5aTuw">Discord</a>、または<a href="mailto:support@famicomcd.org">メール</a>でご連絡ください！"
+string "このガイドではスーパーマリオブラザーズCDのインストール、MSU1の使用法を教えます。以下の方法をわかれば、他のモッドのインストールも同じようにできます。インストール中に問題がある場合は<a href="https://discord.gg/wpSGt5aTuw">Discord</a>、または<a href="mailto:support@famicomcd.org">メール</a>でご連絡ください！"
 
 strid "install_note_automatic"
 string "自動"
@@ -385,7 +385,7 @@ strid "install_guide_autopatcher_step4"
 string "4. ウィンドウにマリオCDのファイルがすべて保管されているフォルダをドラッグし、ENTERをおしてください。"
 
 strid "install_guide_autopatcher_step5"
-string "5. ゲームが普通に開くか確認してください。MSU-1エラー画面が出てきた場合、エミュレータがサポートされているか<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>を確認してください。"
+string "5. ゲームが普通に開くか確認してください。MSU1エラー画面が出てきた場合、エミュレータがサポートされているか<a href="https://famicomcd.org/smbcd/supportsheet">サポートシート</a>を確認してください。"
 
 
 
@@ -407,7 +407,7 @@ strid "tutorial_ios_retroarch_step2"
 string "その後、Retroarchを開き、<q>Load Content</q>のメニューからマリオCDを選び、BSNESかSNES9xのコアをえらんでください。（旧版を選ばないようにしてください。）"
 
 strid "tutorial_ios_retroarch_note3"
-string "アメージング！MSU-1エラー画面はもう出ないはずです！"
+string "アメージング！MSU1エラー画面はもう出ないはずです！"
 
 
 
@@ -700,7 +700,7 @@ strid "deprecated_smbcd_tagline1"
 string "スーパーマリオブラザーズCD（マリオCD）はマリオのゲームはCD機種にでた世界を想像したスーパーマリオワールドのハックです。ファミコンCDはファミコンのCD周辺機器であり、実在するスーパーファミコンのCD周辺機器「ニンテンドープレイステーション」とは関係ありません。"
 
 strid "deprecated_smbcd_tagline2"
-string "マリオCDはMSU-1チップを使いCD級音声、フルアニメーションシーンや繊細な背景を描きます。さらに、SD2SNESやFXPak Proを使い、実際のスーパーファミコンで遊ぶことができます。マリオCDはこの上にモード０を使ってレベル内の背景やレベル前のグラフィックを拡張します。モード０は色の使用を制限する代わりに、画面中のレイヤーを増やします。"
+string "マリオCDはMSU1チップを使いCD級音声、フルアニメーションシーンや繊細な背景を描きます。さらに、SD2SNESやFXPak Proを使い、実際のスーパーファミコンで遊ぶことができます。マリオCDはこの上にモード０を使ってレベル内の背景やレベル前のグラフィックを拡張します。モード０は色の使用を制限する代わりに、画面中のレイヤーを増やします。"
 
 strid "deprecated_smbcd_story1"
 string "マリオCDの舞台ははるか遠い自然豊かなブルクセイ諸島。ある日、突然ブルクセイ諸島の守り主がおかしくなり、島の天気や動物がめちゃくちゃになってしまう。諸島の住人たちは混乱し、解決しようと決心して冒険にいった少数派は村を出た以来帰ってこない。<br><br>どうするかわからず、住人たちはマリオ兄弟を呼ぶ。キノコ王国に応援されながら、マリオとルイージは船でブルクセイ諸島に向かう。しかしそこについた二人は新しい仲間に出会う...?"

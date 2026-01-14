@@ -90,10 +90,10 @@ strid "no"
 string "No"
 
 strid "msu1_supported"
-string "Soporta MSU-1"
+string "Soporta MSU1"
 
 strid "msu1_unsupported"
-string "No Soporta MSU-1"
+string "No Soporta MSU1"
 
 strid "support_type"
 string "Método"
@@ -220,7 +220,7 @@ string "FamicomCD y el equipo FamicomCD no están afiliados de ninguna manera o 
 & Installation Guides &
 
 strid "install_desc"
-string "Estas guías indican cómo instalar Super Mario Bros. CD (SMBCD), y cómo utilizar MSU-1. Si sigues los pasos del manual, el proceso de parche puede también aplicar a otros tipos de rom hacks. Si estás teniendo problemas con el proceso de instalación, no dudes en contactarnos en <a href="https://discord.gg/wpSGt5aTuw">Discord</a> o <a href="mailto:support@famicomcd.org">escribir a nuestro correo</a>!"
+string "Estas guías indican cómo instalar Super Mario Bros. CD (SMBCD), y cómo utilizar MSU1. Si sigues los pasos del manual, el proceso de parche puede también aplicar a otros tipos de rom hacks. Si estás teniendo problemas con el proceso de instalación, no dudes en contactarnos en <a href="https://discord.gg/wpSGt5aTuw">Discord</a> o <a href="mailto:support@famicomcd.org">escribir a nuestro correo</a>!"
 
 strid "install_note_automatic"
 string "Automático"
@@ -336,7 +336,7 @@ strid "install_guide_flips_step3_detailed_stepe"
 string "3.e. Regresa a la carpeta que contiene los archivos de SMBCD y guarda (renombra) el ROM parcheado como SMBCD.smc o SMBCD.sfc"
 
 strid "install_guide_flips_marc_step4"
-string "4. Prueba si el parche funciona abriendo el ROM en tu emulador de preferencia. Si el juego comienza, ¡has parcheado el ROM correctamente y estás listo para jugar! Puedes ignorar el paso 5<br><br>Si te sale una pantalla que dice "MSU-1 missing", has parcheado el ROM correctamente, pero hubo un problema al detectar los archivos MSU-1. Sigue al paso 5 para resolverlo."
+string "4. Prueba si el parche funciona abriendo el ROM en tu emulador de preferencia. Si el juego comienza, ¡has parcheado el ROM correctamente y estás listo para jugar! Puedes ignorar el paso 5<br><br>Si te sale una pantalla que dice "MSU1 missing", has parcheado el ROM correctamente, pero hubo un problema al detectar los archivos MSU1. Sigue al paso 5 para resolverlo."
 
 strid "install_guide_flips_marc_step5"
 string "5. 5. Asegurate de que los archivos PCM y MSU se encuentren en la misma carpeta y tengan el mismo nombre del ROM. (Ej. SMBCD.msu, SMBCD-1.pcm, SMBCD.smc).<br><br>En Windows, Si tienes inhabilitada la función de extensión de archivo, puede causar problemas al identificar nombres de archivos. Debes habilitar extensión de archivos en Explorador de archivos al dar click en <q>Ver</q>, marcando la casilla de <q>extensión de archivos</q> en el panel superiór.<br><br>Si todo parece estar organizado correctamente, asegurate de que tu emulador sea compatible verificando que aparezca en la <a href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
@@ -386,14 +386,14 @@ strid "install_guide_autopatcher_step4"
 string "4. Arrastra y suelta la carpeta donde quieres almacenar todos tus archivos de SMBCD en la ventana, luego presiona enter."
 
 strid "install_guide_autopatcher_step5"
-string "5. Prueba si el juego se ejecuta correctamente. Si te sale una pantalla que dice "MSU-1 missing", asegurate de que tu emulador sea compatible verificando que aparezca en la <a href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
+string "5. Prueba si el juego se ejecuta correctamente. Si te sale una pantalla que dice "MSU1 missing", asegurate de que tu emulador sea compatible verificando que aparezca en la <a href="https://famicomcd.org/smbcd/supportsheet">lista de soporte</a>."
 
 
 
 & Retroarch &
 
 strid "tutorial_ios_retroarch_note1"
-string "Retroarch en iOS es muy especifico cuando se trata de almacenar tus archivos. según dónde almacenas y cargas tus archivos, puede que no tengas problemas o que no suene la música o aparezca la pantalla "MSU-1 missing"."
+string "Retroarch en iOS es muy especifico cuando se trata de almacenar tus archivos. según dónde almacenas y cargas tus archivos, puede que no tengas problemas o que no suene la música o aparezca la pantalla "MSU1 missing"."
 
 strid "tutorial_ios_retroarch_note2"
 string "Esta breve guía debería remediar todos los problemas mencionados. De lo contrario, deberias contactarnos."
@@ -408,7 +408,7 @@ strid "tutorial_ios_retroarch_step2"
 string "Luego, abre Retroarch, y navega a la carpeta de descargas desde el menú de <q>Load Content</q>(Asegurate de cargar los archivos en "descargas" <q>Downloads</q> y no en <q>Open...</q>). Luego, Selecióna el "core" de BSNES o SNES9x (Si piensas usar SNES9x, asegurate de que no sea el "core" de 2005 o 2010)."
 
 strid "tutorial_ios_retroarch_note3"
-string "¡Ya está! La pantalla de "MSU-1 missing" no aparecerá al cargar el juego, ¡y podrás jugar con música!"
+string "¡Ya está! La pantalla de "MSU1 missing" no aparecerá al cargar el juego, ¡y podrás jugar con música!"
 
 
 
@@ -702,7 +702,7 @@ strid "deprecated_smbcd_tagline1"
 string "Super Mario Bros. CD (SMBCD) es un ROM hack de Super Mario World que imagina cómo podría haber sido un juego de SMB en una consola de CD-ROM. Esta consola en particular es la ficticia FamicomCD, un accesorio para la Famicom/NES, que NO es el Super NES CD/SuperDisc, con la que algunas personas la confunden."
 
 strid "deprecated_smbcd_tagline2"
-string "SMBCD utiliza el poder del chip MSU-1 para ofrecer música original de alta calidad CD, escenas completamente animadas y niveles impresionantes con entornos complejos. SMBCD utiliza en gran medida el Mode 0, un modo de fondo de SNES similar al Mode 7, para sus niveles. Gracias al Mode 0, los niveles cuentan con más objetos en primer plano y movimiento parallax para el fondo, permitiendo hasta 4 capas a la vez en lugar de las 2-3 capas disponibles normalmente. Sin embargo, también restringe todas las capas a 2BPP o 4 colores por tile."
+string "SMBCD utiliza el poder del chip MSU1 para ofrecer música original de alta calidad CD, escenas completamente animadas y niveles impresionantes con entornos complejos. SMBCD utiliza en gran medida el Mode 0, un modo de fondo de SNES similar al Mode 7, para sus niveles. Gracias al Mode 0, los niveles cuentan con más objetos en primer plano y movimiento parallax para el fondo, permitiendo hasta 4 capas a la vez en lugar de las 2-3 capas disponibles normalmente. Sin embargo, también restringe todas las capas a 2BPP o 4 colores por tile."
 
 strid "deprecated_smbcd_story1"
 string "SMBCD toma lugar en el pequeño pero diverso Archipiélago de Brixurei. Un día, el Guardián de Brixurei — la principal fuente de protección y seguridad para el archipiélago — enloqueció, provocando condiciones climáticas adversas y perturbaciones en la vida silvestre. Todo esto dejó a los lugareños desconcertados y preocupados. Algunos decidieron averiguar qué estaba pasando, así que dejaron sus pueblos. Nunca se volvió a saber nada de ellos...<br><br>En medio del caos causado por el Guardián, los lugareños llamaron a los únicos e inigualables hermanos Mario para que los ayudaran. Después de despedirse del Reino Champiñón, Mario zarpó hacia el Archipiélago de Brixurei, llevándose a Luigi con él. Pero no estarán solos por mucho tiempo, ya que en este viaje se encontrarán con un nuevo rostro amistoso que los acompañará..."

@@ -414,132 +414,132 @@ string "Voilà! Sem tela de MSU1 ausente, e mais música!"
 & SMBCD Page &
 
 strid "smbcd_button_enemies"
-string "Enemies"
+string "Inimigos"
 
 strid "smbcd_button_story_info"
-string "Story and Info"
+string "História and Informações"
 
 strid "smbcd_button_play_bgm"
-string "Play BGM"
+string "Tocar BGM"
 
 & Please use "BGM" regardless of language & 
 
 strid "smbcd_button_stop_bgm"
-string "Stop BGM"
+string "Parar BGM"
 
 strid "smbcd_button_learn_more"
-string "Learn More ➜"
+string "Saiba Mais ➜"
 
 strid "smbcd_heading_screenshots"
-string "SCREENSHOTS"
+string "CAPTURAS DE TELA"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">support sheet</a>."
+string "Compatível com emuladores suportados e hardware Super NES com o uso do <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> flashcart FXPak Pro! Para a lista mais atualizada de emuladores suportados, recorra a <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">página de suporte</a>."
 
 strid "smbcd_name_powerup_mushroom"
-string "Super Mushroom"
+string "Super Cogumelo"
 
 strid "smbcd_name_powerup_flower"
-string "Fire Flower"
+string "Flor de Fogo"
 
 strid "smbcd_name_powerup_star"
-string "Starman"
+string "Super Estrela"
 
 strid "smbcd_desc_powerup_mushroom"
-string "Bash bricks with your head!"
+string "Quebre tijolos com sua cabeça!"
 
 strid "smbcd_desc_powerup_flower"
-string "Shoot fireballs from your fingertips!"
+string "Atire bolas de fogo da ponta de seus dedos!"
 
 strid "smbcd_desc_powerup_star"
-string "Invincibility against most threats (aside from pits)!"
+string "Invencibilidade contra a maioria dos perigos (exceto buracos)!"
 
 strid "smbcd_end_convincing"
-string "Not convinced? You can also:"
+string "Não convencido? Você também pode:"
 
 strid "smbcd_end_convincing_learn"
-string "Learn More"
+string "Saiba Mais"
 
 strid "smbcd_end_convincing_or"
-string "Or"
+string "Ou"
 
 strid "smbcd_end_convincing_download"
-string "Try out SMBCD"
+string "Experimentar SMBCD"
 
 strid "smbcd_smbcd"
 string "Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd"
-string "About Super Mario Bros. CD"
+string "Sobre Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console. SMBCD is for the FamicomCD, a fictional add-on for the Famicom/NES.<br><br>SMBCD utilizes the <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro. SMBCD also heavily utilizes <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (a SNES background mode, akin to <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) for its levels, providing additional layers for foreground elements and background parallax."
+string "Super Mario Bros. CD (SMBCD) é uma ROM hack de Super Mario World, imaginando o que um jogo de SMB seria em um console baseado em CD. SMBCD é para o FamicomCD, uma extensão ficcional para o Famicom/NES.<br><br>SMBCD utiliza o chip de <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> para entregar música original e rica com qualidade de CD, cutscenes totalmente animadas, e ambientes mais complexos, mesmo em  hardware original via SD2SNES/FXPak Pro. SMBCD também utiliza amplamente o <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (um modo de fundos SNES, semelhante ao <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) pelos seus níveis, providenciando camadas adicionais para elementos a frente do cenário e fundos com paralaxe."
 
 strid "smbcd_info_alt_reality"
-string "Let’s Set the Scene!"
+string "Vamos Estabelecer a Cena!"
 
 strid "smbcd_info_alt_reality_desc"
-string "The year is 1987. The NES/Famicom is seeing immense popularity hot off the success of the console and many of its titles during this period. Nintendo had released Super Mario Bros. 2 (known as <q>The Lost Levels</q> in the west) and published many popular action games the previous year.<br><br>Concurrently, the Super Famicom was in development and announced that year by the President of Nintendo. However, Nintendo wished to still support the original, now aging Famicom. This would become the FamicomCD, a CD-ROM based add-on that would be able to utilize CDs to load video games, presented as a cheaper entry point for existing Famicom users into the <q>next generation</q>. This would be a very ambitious endeavor, so to sell the system, it was requested that a technologically improved Super Mario Bros. must be able to be played on this device.<br><br>However, as Hiroshi Yamauchi said in September 1987, <q>Super Mario Bros. 4</q> and many other titles were already in the planning stages for the next version of the Famicom, which left <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Nintendo Research & Development Group #1</a> to be the ones to develop the Super Mario Bros. game for FamicomCD rather than the <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Research Group #4</a> (who had worked on a lot of the previous entries and eventually "Super Mario World"), with assistance from Team Shikamaru for much of the planning and some parts of development. The game would look familiar to Super Mario Bros. players, but feature vibrant, colorful, and stunning visuals that weren't possible on the original Famicom, and sounds that were unlike anything from before.<br><br>It was initially planned to make the music of the game match the sound aesthetic of the Famicom games but with higher fidelity instruments, however the new CD spec meant that music was no longer limited by the sound polyphony and synthesis abilities of the <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">Famicom's 2A03 chip</a>. There were virtually no limitations in place, sounds could be as rich and full as they could ever sound. This led the production of the music for Super Mario Bros. CD to spin off into being a much more ambitious project, with more musicians and instrumentalists involved to truly make the music take advantage of the new technology."
+string "O ano é 1987. O NES/Famicom está ganhando uma imensa popularidade devido ao sucesso do console e de muitos dos seus títulos durante este período. Nintendo acabou de lançar o Super Mario Bros. 2 (também conhecido como <q>The Lost Levels</q> no ocidente) e publicou muitos jogos de ação populares no ano anterior.<br><br>Simultaneamente, O Super Famicom estava em desenvolvimento e foi anunciado naquele ano pelo Presidente da Nintendo. No entanto, Nintendo wdesejava ainda apoiar o original, agora envelhecendo Famicom. Esse se tornaria o FamicomCD, uma extensão baseada em CD que seria capaz de utilizar CDs para carregar jogos, apresentado como uma entrada mais barata para usuários de Famicom para a <q>próxima geração</q>. Isso seria um empreendimento muito ambicioso, então para para vender o sistema, foi solicitado que um Super Mario Bros. tecnologicamente aprimorado deveria ser jogável nesse dispositivo.<br><br>No entando, como Hiroshi Yamauchi disse em Setembro de 1987, <q>Super Mario Bros. 4</q> e muitos outros títulos já estavam em suas etapas de planejamento para a próxima versão do Famicom, que deixou o <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Grupo de Pesquisa e Desenvolvimento da Nintendo #1</a> para serem eles a desenvolver o jogo de Super Mario Bros. para o FamicomCD ao invés do <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Grupo de Pesquisa #4</a> (que trabalhou em muitas das entradas anteriores e eventualmente "Super Mario World"), com a assistência da equipe Shikamaru por boa parte do planejamento e algumas partes do desnvolvimento. O jogo pareceria familiar para jogadores de Super Mario Bros., mas apresentando visuais vibrantes, coloridos, e incríveis que não eram possíveis no Famicom original, e sons que eram diferentes do que havia sido visto antes.<br><br>Era inicialmente planejado fazer a música do jogo similar a estética sonora de jogos do Famicom mas com instrumentos de maior fidelidade, no entanto o novo equipamento de CD significava que a música não era mais limitada pela polifonia sonora e habilidades de síntese do <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">chip 2A03 do Famicom</a>. Não tinha praticamente nenhuma limitação em vigor, sons poderiam tão ricos e plenos quanto jamais poderiam soar. Isso levou a produção musical de Super Mario Bros. CD a se desdobrar em um projeto muito mais ambicioso, com mais músicos e instrumentistas envolvidos para fazer a música se aproveitar ao máximo de sua nova tecnologia."
 
 strid "smbcd_info_archipelago"
-string "The Archipelago of Brixurei"
+string "O Arquipélago de Brixurei"
 
 strid "smbcd_info_archipelago_desc"
-string "The Archipelago of Brixurei is composed of 10 islands that are officially part of the Brixurei nation, most with different climates or features that are suitable to only certain creatures. The main island of the archipelago is the Central Isle.<br><br>Ever since settling began in the archipelago 700 years ago, there have been myths and legends of a guardian hidden deep within one of the many islands of the Archipelago of Brixurei. It is said that the guardian keeps the entire archipelago at peace; poor weather, harvests, or illness is attributed to the guardian being upset. The islands which are affected must make offerings to the guardian to regain her favor.<br><br>Nowadays, the Archipelago of Brixurei is a hot tourist spot, especially during the summer months where a tropical vacation is necessary. Although officially endorsed tourism only came about 25-30 years ago when an archipelago-wide democratic government was instated, the economy of the archipelago now hinges heavily on tourism, largely in part due to merchandise sales and trading. Tourists are rarely allowed onto any island other than the Central Isle as other island’s climates are deemed too harsh for tourism to safely occur.<br><br>With this newfound tourism wealth in recent years, many Brixurians had begun constructing and living in sparse towns. The destructive nature of urban construction caused the government to pass laws banning further expansion of any kind of urban architecture. Only two major towns exist within the whole archipelago, both located in the East Central Isle. The move to sparse towns left many villages, temples, and the belief in the Guardian of Brixurei dwindling at a worrying speed."
+string "O Arquipélago de Brixurei é composto de 10 ilhas que são oficialmente parte da nação de Brixurei, a maioria com climas diferentes ou características que são adequadas apenas a certas criaturas. A ilha principal do arquipélago é a Ilha Central.<br><br>Desde que a colonização começou no arquipélago 700 anos atrás, existiam mitos e lendas de uma guardiã escondida dentro de uma das muitas ilhas do Arquipélago de Brixurei. É dito que a guardiã mantem o arquipélago inteiro em paz; mau clima, colheitas ruins, ou doenças são atribuídas a guardiã estando enfurecida. As ilhas que são afetadas devem trazer oferendas ao guardiã para reconquistar sua proteção.<br><br>Atualmente, o Arquipélago de Brixurei é um ponto turístico popular, especialmente durante os meses de verão onde férias tropicais são necessárias. Embora turismo oficialmente aprovado veio somente cerca de 25 a 30 anos atrás quando um governo democratico foi instaurado em todo o arquipélago, a economia do arquipélago agora depende muito no turismo, em grande parte devido às vendas e negociações de mercadorias. Turistas são raramente permitidos em qualquer ilha além da Ilha Central devido aos climas das ilhas são considerados muito severos para o turismo ocorrer com segurança.<br><br>Agora com essa riqueza de turismo recém-encontrada em anos recentes, muitos Brixuranos começaram a construir e viver em cidades dispersas. A natureza destrutiva da contrução urbana fez o governo aprovar leis banindo uma maior expansão de qualquer tipo de arquitetura urbana. Apenas duas grandes cidades existem dentro do arquipélago inteiro, ambas localizadas na Ilha Central Leste. A mudança para cidades dispersas deixou muitas aldeias, templos, e a crença na Guardiã de Brixurei diminuindo em uma velocidade preocupante."
 
 strid "smbcd_info_story_smbcd"
-string "The Story of Super Mario Bros. CD... So Far"
+string "A História de Super Mario Bros. CD... Até Então"
 
 strid "smbcd_info_story_smbcd_desc"
-string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
+string "Uma manhã, o Reino dos Cogumelos recebeu uma carta frenética do Governo do Arquipélago de Brixurei a respeito da ocupação forçada de Bowser e ameaças de devastação da nação. Dentro de uma hora, Mario e Luigi recebem a carta por correio encaminhado, e partiram ao arquipélago, se apressando para lá em um pequeno barco a motor, navegando pela noite..."
 
 strid "smbcd_info_faq"
-string "Frequently Asked Questions"
+string "Perguntas frequentes"
 
 strid "smbcd_info_faq_install"
-string "How do I install SMBCD?"
+string "Como Eu Baixo SMBCD?"
 
 strid "smbcd_info_faq_install_desc"
-string "You can install SMBCD by following one of the <a href="https://famicomcd.org/smbcd/installation">Installation Tutorials</a>. If you have any trouble with installation, feel free to contact us via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Você pode baixar o SMBCD seguindo um dos <a href="https://famicomcd.org/smbcd/installation">Tutoriais de Instalação</a>. Se tiver algum problema com a instalação, sinta-se a vontade para contatar-nos via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> ou <a href="mailto:support@famicomcd.org">e-mail</a>!"
 
 strid "smbcd_info_faq_multiplayer"
-string "Will there be multiplayer?"
+string "Haverá um modo multijogador?"
 
 strid "smbcd_info_faq_multiplayer_desc"
-string "SMBCD will not have multiplayer in any capacity due to the way we intend players to experience the game. However, we are looking into different playable characters."
+string "SMBCD não terá um multijogador em qualquer capacidade devido a forma que pretendemos jogadores de experiênciar o jogo. No entanto, estamos observando adicionar diferentes personagens jogáveis."
 
 strid "smbcd_info_faq_its_not"
-string "Is SMBCD inspired by Sonic CD?"
+string "SMBCD é inspirado por Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
-string "Contrary to popular belief, SMBCD is not inspired by Sonic CD. SMBCD takes more inspiration from surrealist fantasy, Nintendo's Research and Development 1 (R&D1), music of the 80s (artists such as Masayoshi Takanaka and T Square), among other influences.<br><br>This also indirectly means that SMBCD and Sonic CD will not share many features, at least not intentionally (e.g. no time travel)."
+string "Ao contrário do que pensam, SMBCD não é inspirado por Sonic CD. SMBCD busca mais inspiração da fantasia surrealista, Pesquisa e Desenvolvimento da Nintendo 1 (R&D1), música dos anos 80 (artistas como Masayoshi Takanaka e T Square), dentre outras influencias.<br><br>Isso também indiretamente significa que SMBCD e Sonic CD não compartilharão muitas características, pelo menos não intencionalmente (ex.: sem viajem temporal)."
 
 strid "smbcd_info_faq_copyright"
-string "Will Nintendo take down SMBCD?"
+string "A Nintendo vai derrubar o SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
-string "In short: Probably not. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
+string "Resumidamente: Provavelmente não. Você pode visitar nossa página de <a href="https://famicomcd.org/about#copyright">direitos autorais</a> para mais informações."
 
 
 
 strid "smbcd_soundtracks_25_download"
-string "SMBCD February '25 Demo Soundtrack Album."
+string "Álbum de Trilha Sonora da Demo SMBCD de Fevereiro '25."
 
 strid "smbcd_soundtracks_25_downloads_desc"
-string "We offer MP3 and WAV downloads, as well as a YouTube and Wii Room upload for the Super Mario Bros. CD February '25 Demo Soundtrack Album."
+string "Oferecemos downloads em MP3 e WAV, tal como um upload do YouTube e Wii Room para o Álbum de Trilha Sonora da Demo SMBCD de Fevereiro '25."
 
 strid "smbcd_soundtracks_direct_download"
-string "Direct Downloads"
+string "Downloads Diretos"
 
 strid "smbcd_soundtracks_online_download"
-string "Online Uploads"
+string "Uploads Online"
 
 strid "smbcd_soundtracks_download_lossy"
-string "MP3 (Lossy) (71MB)"
+string "MP3 (Perda) (71MB)"
 
 strid "smbcd_soundtracks_download_loseless"
-string "WAV (Lossless) (299MB)"
+string "WAV (Sem Perdas) (299MB)"
 
 strid "smbcd_soundtracks_online_platform_youtube"
 string "YouTube"
@@ -880,13 +880,13 @@ strid "smbcd_name_powerup_flower"
 string "Flor de Fogo"
 
 strid "smbcd_name_powerup_star"
-string "Estrela"
+string "Super Estrela"
 
 strid "smbcd_desc_powerup_mushroom"
 string "Quebre tijolos com a cabeça!"
 
 strid "smbcd_desc_powerup_flower"
-string "Atire fogo pelas mãos nos inimigos!"
+string "Atire bolas de fogo da ponta de seus dedos!"
 
 strid "smbcd_desc_powerup_star"
 string "Invencibilidade contra a maioria dos perigos, exceto buracos!"

@@ -20,7 +20,7 @@ strid "contact_button"
 string "連絡先"
 
 strid "language_button"
-string "言語選択 🇯🇵"
+string "言語選択"
 
 strid "legal_mumbo_jumbo"
 string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
@@ -574,6 +574,12 @@ string "マリオCD大会体験版"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
 string "マリオCD大会体験版自動パッチャー"
+
+strid "smbcd_download_date_mar_2024"
+string "３月 2024"
+
+strid "smbcd_download_date_feb_2025"
+string "２月 2025"
 
 
 

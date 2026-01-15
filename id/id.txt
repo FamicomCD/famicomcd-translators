@@ -21,7 +21,7 @@ strid "contact_button"
 string "Hubungi Kami"
 
 strid "language_button"
-string "Ganti Bahasa 🇮🇩"
+string "Ganti Bahasa"
 
 strid "legal_mumbo_jumbo"
 string "Tim FamicomCD tidak bersangkutan dalam hal apapun dengan Nintendo dan semua merek berasal dari setiap pemiliknya. Tidak ada pelanggaran hak cipta yang disengaja. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Pelajari lebih lanjut ➜</a>"
@@ -576,6 +576,12 @@ string "SMBCD Demo Speedrun v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
 string "SMBCD Demo Speedrun v2.2 Auto-patcher"
+
+strid "smbcd_download_date_mar_2024"
+string "Mar. 2024"
+
+strid "smbcd_download_date_feb_2025"
+string "Feb. 2025"
 
 
 

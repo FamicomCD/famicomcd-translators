@@ -20,7 +20,7 @@ strid "contact_button"
 string "Contattaci"
 
 strid "language_button"
-string "Cambio Lingua 🇮🇹"
+string "Cambio Lingua"
 
 strid "legal_mumbo_jumbo"
 string "Il Team FamicomCD non è affiliato in alcun modo con Nintendo e tutti i marchi registrati sono di proprietà dei loro rispettivi proprietari. Non è intesa alcuna violazione del copyright. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Scopri di più ➜</a>"
@@ -575,6 +575,12 @@ string "SMBCD Demo Comp. Speedrun v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
 string "SMBCD Demo Comp. Speedrun v2.2 Auto-patcher"
+
+strid "smbcd_download_date_mar_2024"
+string "Mar. 2024"
+
+strid "smbcd_download_date_feb_2025"
+string "Feb. 2025"
 
 
 

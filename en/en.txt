@@ -20,7 +20,7 @@ strid "contact_button"
 string "Contact Us"
 
 strid "language_button"
-string "Language Switcher 🇺🇸"
+string "Language Switcher"
 
 strid "legal_mumbo_jumbo"
 string "The FamicomCD Team is not affiliated in anyway to Nintendo and all trademarks are the property of their respective owners. No copyright infringement intended. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
@@ -591,7 +591,11 @@ string "WAV"
 strid "smbcd_download_soundtrack_file_type_mp3"
 string "MP3"
 
+strid "smbcd_download_date_mar_2024"
+string "Mar. 2024"
 
+strid "smbcd_download_date_feb_2025"
+string "Feb. 2025"
 
 
 

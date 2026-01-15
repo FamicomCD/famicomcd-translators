@@ -20,7 +20,7 @@ strid "contact_button"
 string "Контакты"
 
 strid "language_button"
-string "Сменить язык 🇷🇺"
+string "Сменить язык"
 
 strid "legal_mumbo_jumbo"
 string "The FamicomCD Team никак не связаны с Nintendo Inc. Все представленные торговые знаки принадлежат их соответствующим владельцам. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Узнать больше ➜</a>"
@@ -574,6 +574,12 @@ string "SMBCD Speedrun Comp. Demo v2.2"
 
 strid "smbcd_content_download_autopatcher_speedrundemo_2.2"
 string "SMBCD Speedrun Comp. Demo v2.2 Авто-патчер"
+
+strid "smbcd_download_date_mar_2024"
+string "Mar. 2024"
+
+strid "smbcd_download_date_feb_2025"
+string "Feb. 2025"
 
 
 

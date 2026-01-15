@@ -2,7 +2,6 @@
 
 
 
-
 strid "test_message"
 string "ini adalah test pesan"
 
@@ -37,7 +36,6 @@ string "Balik"
 
 strid "main_page_tagline"
 string "Halo! Selamat datang di situs FamicomCD versi Beta! Ada masukan? Ikuti <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
-
 
 
 
@@ -79,7 +77,7 @@ strid "support_sheet_description"
 string "Karena SMBCD adalah ROM hack dan bukan game komputer, emulator dan hardware sangat diperlukan untuk pengalaman game yang berkualitas."
 
 strid "support_sheet_description_p2"
-string "Jika tidak ada emulator atau hardware yang anda gunakan di bawah ini, anda dapat mengirim pesan melalui <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, atau <a href="mailto:support@famicomcd.org">email kami</a>. Jika anda mencari info mengenai Kartu SD untuk FXPak Pro/SD2SNES, silahkan bisa cek di <a href="https://sd2snes.de/blog/card-list">List Kartu SD2SNES</a>."
+string "Jika tidak ada emulator atau hardware yang anda gunakan di bawah ini, anda dapat mengirim pesan melalui <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>. Jika anda mencari info mengenai Kartu SD untuk FXPak Pro/SD2SNES, silahkan cek di laman <a href="https://sd2snes.de/blog/card-list">List Kartu SD2SNES</a>."
 
 strid "support_sheet_description_p3"
 string "Untuk info selanjutnya mengenai emulator (atau hardware) termasuk akurasi dan link, tinggal klik salah satu ikon emulator/hardware."
@@ -193,13 +191,13 @@ strid "copyright_last_updated"
 string "Terakhir diupdate: --/--/----"
 
 strid "about_about_famicomcd_desc"
-string "FamicomCD adalah sebuah grup berdedikasi untuk membuat game tanpa profit, software, dan modifikasi game. Namanya merujuk pada nama tim, dan nama add-on Famicom fiksi dimana game kami dibuat; jangan sampai ketukar dengan Super NES CD-ROM/Super Famicom CD-ROM yang tidak pernah dirilis.<br><br>Proyek FamicomCD dibuat oleh King Mayro pada bulan Februari 2023. Awalnya dibuat untuk sharing mockup game dan software yang hanya dapat dibuat untuk add-on Famicom. Setelah itu, game pertama kami, Super Mario Bros. CD, diadaptasikan untuk konsep tersebut.<br><br>Sekarang kami hanya mengerjakan Super Mario Bros. CD, kami senang sekali ingin membuat cabang untuk setiap jenis game dan software dengan brand FamicomCD!"
+string "FamicomCD adalah grup yang berdedikasi untuk membuat game tanpa profit, software, dan modifikasi game. Namanya merujuk pada nama tim, dan nama add-on Famicom fiksi dimana game kami dibuat; jangan sampai ketukar dengan Super NES CD-ROM/Super Famicom CD-ROM yang tidak pernah dirilis.<br><br>Proyek FamicomCD dibuat oleh King Mayro pada bulan Februari 2023. Awalnya dibuat untuk sharing konsep game dan software yang hanya dapat dibuat untuk add-on Famicom. Setelah itu, game pertama kami, Super Mario Bros. CD, diadaptasikan untuk konsep tersebut.<br><br>Sekarang kami hanya mengerjakan Super Mario Bros. CD. Kami senang sekali ingin membuat cabang untuk setiap jenis game dan software dengan brand FamicomCD!"
 
 strid "about_other_stuff"
 string "Hal lainnya!"
 
 strid "about_other_stuff_desc"
-string "Kami lebih memilih untuk namanya disambung menjadi satu kata, FamicomCD, daripada Famicom CD atau disingkat jadi FCD. Jika perlu, dapat disingkat jadi FCD."
+string "Kami lebih memilih untuk namanya disambung menjadi satu kata, FamicomCD, daripada Famicom CD atau disingkat FCD. Jika perlu, dapat disingkat jadi FCD."
 
 strid "about_copyright"
 string "Copyright"
@@ -214,14 +212,14 @@ strid "about_copyright_legal"
 string "Informasi Legal"
 
 strid "about_copyright_legal_desc"
-string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal apapun. Penggunaan nama Famicom dan Family Computer, serta merek yang berhubungan, dimiliki oleh Nintendo. branding FamicomCD, maskot (Discette), dan fon (FamicomCD Logo Font Family) adalah milik King Mayro.<br><br>Proyek lainnya untuk mencari untung (seperti cartridge, CD-ROM, atau musik CD) tidak diproduksi atau didukung oleh Tim FamicomCD.Semua proyek yang dibuat oleh Tim FamicomCD adalah gratis dan akan tetap gratis.<br><br>FamicomCD tidak host, share, atau mengedarkan link ke berbagai ROM, situs ROM, atau instruksi untuk download ROM.<br><br>Mario, Luigi, Yoshi, dan karakter lainnya dimiliki oleh Nintendo. Kepulauan Brixurei, Si Barracuda Barry, musik, dan konsep original lainnya adalah hak kekayaan intelektual oleh Tim FamicomCD dan Tim Super Mario Bros. CD."
+string "FamicomCD dan Tim FamicomCD tidak bersangkutan dengan Nintendo dalam hal apapun. Penggunaan nama Famicom dan Family Computer, serta merek yang berhubungan dengan Nintendo. branding FamicomCD, maskot (Discette), dan fon (FamicomCD Logo Font Family) adalah milik King Mayro.<br><br>Proyek lainnya untuk mencari untung (seperti cartridge, CD-ROM, atau musik CD) tidak diproduksi atau didukung oleh Tim FamicomCD.Semua proyek yang dibuat oleh Tim FamicomCD adalah gratis dan akan tetap gratis.<br><br>FamicomCD tidak host, share, atau mengedarkan link ke berbagai ROM, situs ROM, atau instruksi untuk download ROM.<br><br>Mario, Luigi, Yoshi, dan karakter lainnya dimiliki oleh Nintendo. Kepulauan Brixurei, Si Barracuda Barry, musik, dan konsep original lainnya adalah hak kekayaan intelektual oleh Tim FamicomCD dan Tim Super Mario Bros. CD."
 
 
 
 & Installation Guides &
 
 strid "install_desc"
-string "Berikut ini petunjuk cara menginstall Super Mario Bros. CD (SMBCD), dan cara menggunakan MSU1. Jika menggunakan cara manual, proses pemasangannya juga berlaku pada tipe rom hack lainnya. Jika anda mengalami kendala dalam proses instalasi, hubungi kami di <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
+string "Berikut ini petunjuk cara menginstal Super Mario Bros. CD (SMBCD), dan cara menggunakan MSU1. Jika menggunakan cara manual, proses pemasangannya juga berlaku pada tipe rom hack lainnya. Jika anda mengalami kendala dalam proses instalasi, hubungi kami di <a href="https://discord.gg/wpSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email kami</a>!"
 
 strid "install_note_automatic"
 string "Otomatis"
@@ -255,19 +253,19 @@ strid "install_guide_requirements"
 string "Untuk metode ini diperlukan:"
 
 strid "install_guide_autopatcher_requirements"
-string "- Sebuah komputer dengan system operasi Windows."
+string "- Sebuah komputer dengan sistem operasi Windows."
 
 strid "install_guide_autopatcher_py_requirements"
 string "- Sebuah perangkat dengan Python 3.12 atau lebih."
 
 strid "install_guide_flips_requirements"
-string "- Alat zip archive extractor (kami sangat menyarankan anda menggunakan <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Sebuah komputer dengan system operasi Windows atau Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
+string "- Alat zip archive extractor (kami sangat menyarankan anda menggunakan <a href="https://www.7-zip.org/">7-Zip</a>)<br>- Sebuah komputer dengan sistem operasi Windows atau Linux.<br><a href="https://github.com/Alcaro/Flips">- Floating IPS</a>"
 
 strid "install_guide_marc_requirements"
 string "- Alat zip archive extractor<br>- Situs browser"
 
 strid "install_guide_warning"
-string "<b>Important:</b> Anda harus memerlukan USA Super Mario World ROM untuk pemasangan file BPS SMBCD. Kami sarankan untuk mengeluarkan cartridge SMW Super NES milik anda. Kami tidak akan memberi instruksi bagaimana atau dimana mendapatkan ROM jika anda tidak mau, atau tidak bisa mengeluarkan cartridge milik anda."
+string "<b>Important:</b> Anda harus memerlukan USA Super Mario World ROM untuk pemasangan file BPS SMBCD. Kami sarankan mengeluarkan cartridge SMW Super NES milik anda. Kami tidak akan memberi instruksi bagaimana atau dimana anda bisa mendapatkan ROM jika anda tidak mau, atau tidak bisa mengeluarkan cartridge milik anda."
 
 
 
@@ -283,7 +281,7 @@ strid "install_guide_flips_prestep_step1"
 string "p.1. Kunjungi <a href="https://www.7-zip.org/">situs 7-Zip</a>"
 
 strid "install_guide_flips_prestep_step2"
-string "p.2. Klik bagian "Downloads", download versi terbaru, dan ikuti instruksi pemasangannya (anda memungkinkan untuk download versi lama berdasarkan system operasi anda)."
+string "p.2. Klik bagian "Downloads", download versi terbaru, dan ikuti instruksi pemasangannya (anda memungkinkan untuk download versi lama berdasarkan sistem operasi anda)."
 
 strid "install_guide_flips_prestep_step3"
 string "p.3. Kunjungi <a href="https://github.com/Alcaro/Flips">repositori GitHub Floating IPS</a>"
@@ -316,10 +314,10 @@ strid "install_guide_flips_step3"
 string "3. Buka Floating IPS dan pilih <q>Apply Patch</q>, lalu tambahkan SMBCD.bps ke ROM SMW."
 
 strid "install_guide_flips_marc_step3_detailed_button_show"
-string "Step 3 lebih detail ▼"
+string "Step 3 lebih lengkap ▼"
 
 strid "install_guide_flips_marc_step3_detailed_button_hide"
-string "Step 3 lebih detail ▲"
+string "Step 3 lebih lengkap▲"
 
 strid "install_guide_flips_step3_detailed_stepa"
 string "3.a. Buka Floating IPS"
@@ -353,19 +351,19 @@ strid "install_guide_marc_step3_detailed_stepa"
 string "3.a. <a href="https://www.marcrobledo.com/RomPatcher.js/">Buka Marc Robledo's Online Patcher</a>"
 
 strid "install_guide_marc_step3_detailed_stepb"
-string "3.b. Klik tombol <q>No file selected.</q> disamping <q>ROM File:</q>"
+string "3.b. Klik tombol <q>No file selected.</q> di sebelah <q>ROM File:</q>"
 
 strid "install_guide_marc_step3_detailed_stepc"
 string "3.c. Navigasi ke folder ROM SMW pilihanmu dan pilih ROM tersebut"
 
 strid "install_guide_marc_step3_detailed_stepd"
-string "3.d. Klik tombol <q>No file selected.</q> disamping <q>Patch File:</q>"
+string "3.d. Klik tombol <q>No file selected.</q> di sebelah <q>Patch File:</q>"
 
 strid "install_guide_marc_step3_detailed_stepe"
 string "3.e. Navigasi ke folder file SMBCD pilihanmu dan pilih SMBCD.bps"
 
 strid "install_guide_marc_step3_detailed_stepf"
-string "3.f. Klik <q>Apply Patch</q>, (Jika saat pemasangan terdapat peringatan <q>Source ROM checksum mismatch</q>, beri cek di <q>Remove header</q>)"
+string "3.f. Klik <q>Apply Patch</q>, (Jika saat pemasangan terdapat peringatan <q>Source ROM checksum mismatch</q>, beri ceklis di <q>Remove header</q>)"
 
 strid "install_guide_marc_step3_detailed_stepg"
 string "3.g. Navigasi ke folder file SMBCD pilihanmu dan simpan ROM yang sudah ditambahkan dengan nama SMBCD.smc or SMBCD.sfc"
@@ -412,32 +410,31 @@ strid "tutorial_ios_retroarch_note3"
 string "Voilà! Tidak ada lagi layar "MSU1 missing", dan musik!"
 
 
-
 & SMBCD Page &
 
 strid "smbcd_button_enemies"
-string "Enemies"
+string "Musuh"
 
 strid "smbcd_button_story_info"
-string "Story and Info"
+string "Cerita dan Info"
 
 strid "smbcd_button_play_bgm"
-string "Play BGM"
+string "Mainkan Musik"
 
 & Please use "BGM" regardless of language & 
 
 strid "smbcd_button_stop_bgm"
-string "Stop BGM"
+string "Stop Musik"
 
 strid "smbcd_button_learn_more"
-string "Learn More ➜"
+string "Pelajari Lebih Lanjut ➜"
 
 strid "smbcd_heading_screenshots"
-string "SCREENSHOTS"
+string "SCREENSHOT"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">support sheet</a>."
+string "Cocok dengan emulator didukung dan hardware Super NES melalui flashcart <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro! Untuk list emulator yang didukung, ada di laman <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">info emulator</a>."
 
 strid "smbcd_name_powerup_mushroom"
 string "Super Mushroom"
@@ -449,93 +446,93 @@ strid "smbcd_name_powerup_star"
 string "Starman"
 
 strid "smbcd_desc_powerup_mushroom"
-string "Bash bricks with your head!"
+string "Hancurkan batu bata dengan tanganmu!"
 
 strid "smbcd_desc_powerup_flower"
-string "Shoot fireballs from your fingertips!"
+string "Lontarkan bola api dari ujung jarimu!"
 
 strid "smbcd_desc_powerup_star"
-string "Invincibility against most threats (aside from pits)!"
+string "Kebal dari segala ancaman (selain lubang jurang)!"
 
 strid "smbcd_end_convincing"
-string "Not convinced? You can also:"
+string "Belum Yakin? Anda bisa:"
 
 strid "smbcd_end_convincing_learn"
-string "Learn More"
+string "Pelajari Lebih Lanjut"
 
 strid "smbcd_end_convincing_or"
-string "Or"
+string "Atau"
 
 strid "smbcd_end_convincing_download"
-string "Try out SMBCD"
+string "Coba SMBCD"
 
 strid "smbcd_smbcd"
 string "Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd"
-string "About Super Mario Bros. CD"
+string "Tentang Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console. SMBCD is for the FamicomCD, a fictional add-on for the Famicom/NES.<br><br>SMBCD utilizes the <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro. SMBCD also heavily utilizes <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (a SNES background mode, akin to <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) for its levels, providing additional layers for foreground elements and background parallax."
+string "Super Mario Bros. CD (SMBCD) adalah ROM hack dari Super Mario World yang diubah menjadi game SMB apabila dimainkan di dalam konsol berbasis CD. SMBCD dibuat untuk FamicomCD, sebuah perangkat tambahan fiktif untuk konsol Famicom/NES.<br><br>SMBCD menggunakan chip <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> untuk memberikan musik yang orisinal dan berkualitas CD, adegan animasi, dan latar yang lebih kompleks di hardware aslinya melalui SD2SNES/FXPak Pro. SMBCD juga banyak menmanfaatkan <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (mode background di SNES, mirip dengan <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) untuk berbagai level, menyediakan layer tambahan untuk latar depan dan belakang, sehingga menciptakan efek paralaks."
 
 strid "smbcd_info_alt_reality"
-string "Let’s Set the Scene!"
+string "Berikut Sejarahnya!"
 
 strid "smbcd_info_alt_reality_desc"
-string "The year is 1987. The NES/Famicom is seeing immense popularity hot off the success of the console and many of its titles during this period. Nintendo had released Super Mario Bros. 2 (known as <q>The Lost Levels</q> in the west) and published many popular action games the previous year.<br><br>Concurrently, the Super Famicom was in development and announced that year by the President of Nintendo. However, Nintendo wished to still support the original, now aging Famicom. This would become the FamicomCD, a CD-ROM based add-on that would be able to utilize CDs to load video games, presented as a cheaper entry point for existing Famicom users into the <q>next generation</q>. This would be a very ambitious endeavor, so to sell the system, it was requested that a technologically improved Super Mario Bros. must be able to be played on this device.<br><br>However, as Hiroshi Yamauchi said in September 1987, <q>Super Mario Bros. 4</q> and many other titles were already in the planning stages for the next version of the Famicom, which left <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Nintendo Research & Development Group #1</a> to be the ones to develop the Super Mario Bros. game for FamicomCD rather than the <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Research Group #4</a> (who had worked on a lot of the previous entries and eventually "Super Mario World"), with assistance from Team Shikamaru for much of the planning and some parts of development. The game would look familiar to Super Mario Bros. players, but feature vibrant, colorful, and stunning visuals that weren't possible on the original Famicom, and sounds that were unlike anything from before.<br><br>It was initially planned to make the music of the game match the sound aesthetic of the Famicom games but with higher fidelity instruments, however the new CD spec meant that music was no longer limited by the sound polyphony and synthesis abilities of the <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">Famicom's 2A03 chip</a>. There were virtually no limitations in place, sounds could be as rich and full as they could ever sound. This led the production of the music for Super Mario Bros. CD to spin off into being a much more ambitious project, with more musicians and instrumentalists involved to truly make the music take advantage of the new technology."
+string "Di tahun 1987, NES/Famicom sedang mengalami popularitas luar biasa oleh karena kesuksesannya dan banyak judul game yang dirilis selama periode ini. Nintendo telah merilis Super Mario Bros. 2 (dikenal sebagai <q>The Lost Levels</q> di belahan Barat) dan mempublikasikan berbagai game aksi di tahun silam.<br><br>Secara bersamaan, Super Famicom sedang dalam pengembangan dan diumumkan pada tahun yang sama oleh Presiden Nintendo. Namun, Nintendo tetap ingin mendukung Famicom yang mulai menua. Maka, dibuatkannya FamicomCD, sebuah perangkat tambahan berbasis CD-ROM yang menggunakan CD untuk memuat game, serta memudahkan pengguna Famicom untuk memiliki akses ke <q>generasi berikutnya</q>. Hal ini menjadi upaya yang sangat ambisius, jadi untuk menjual sistem tersebut, mereka diminta agar game Super Mario Bros. yang paling mutakhir dapat dimainkan di perangkat ini.<br><br>Tetapi, sesuai yang dikatakan Hiroshi Yamauchi pada bulan September 1987, <q>Super Mario Bros. 4</q> dan judul game lainnya sudah dalam tahap perencanaan untuk Super Famicom, tinggal <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Nintendo Research & Development Group #1</a> yang mengembangkan game Super Mario Bros. untuk FamicomCD daripada <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Research Group #4</a> (yang telah mengerjakan banyak entri sebelumnya dan akhirnya "Super Mario World"), dengan bantuan dari Tim Shikamaru untuk perencanaan dan pengembangan. Game ini tampak familier bagi para pemain Super Mario Bros., namun memiliki visual yang cerah dan penuh warna yang tidak dapat dilakukan oleh Famicom aslinya, serta audio yang sangat berbeda dari sebelumnya.<br><br>Awalnya direncanakan untuk membuat musik dalam game ini sesuai dengan estetika suara game Famicom dengan instrumen yang berkualitas, akan tetapi, spek CD yang baru ini tidak dibatasi oleh polifoni suara dan sintesis dari <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">chip 2A03 Famicom</a>. Hampir tidak ada batasan yang diberikan, audio dapat terdengar jelas dan sebagus mungkin. Hal ini menyebabkan produksi musik untuk Super Mario Bros. CD berkembang menjadi proyek yang jauh lebih ambisius, dengan lebih banyak musisi dan pemain instrumen yang terlibat untuk benar-benar memanfaatkan teknologi baru dalam musik tersebut."
 
 strid "smbcd_info_archipelago"
-string "The Archipelago of Brixurei"
+string "Kepulauan Brixurei"
 
 strid "smbcd_info_archipelago_desc"
-string "The Archipelago of Brixurei is composed of 10 islands that are officially part of the Brixurei nation, most with different climates or features that are suitable to only certain creatures. The main island of the archipelago is the Central Isle.<br><br>Ever since settling began in the archipelago 700 years ago, there have been myths and legends of a guardian hidden deep within one of the many islands of the Archipelago of Brixurei. It is said that the guardian keeps the entire archipelago at peace; poor weather, harvests, or illness is attributed to the guardian being upset. The islands which are affected must make offerings to the guardian to regain her favor.<br><br>Nowadays, the Archipelago of Brixurei is a hot tourist spot, especially during the summer months where a tropical vacation is necessary. Although officially endorsed tourism only came about 25-30 years ago when an archipelago-wide democratic government was instated, the economy of the archipelago now hinges heavily on tourism, largely in part due to merchandise sales and trading. Tourists are rarely allowed onto any island other than the Central Isle as other island’s climates are deemed too harsh for tourism to safely occur.<br><br>With this newfound tourism wealth in recent years, many Brixurians had begun constructing and living in sparse towns. The destructive nature of urban construction caused the government to pass laws banning further expansion of any kind of urban architecture. Only two major towns exist within the whole archipelago, both located in the East Central Isle. The move to sparse towns left many villages, temples, and the belief in the Guardian of Brixurei dwindling at a worrying speed."
+string "Kepulauan Brixurei terdiri dari 10 pulau yang merupakan bagian dari negeri Brixurei, sebagian besar memiliki iklim atau ciri yang berbeda dan cocok untuk sebagian makhluk hidup. Pulau utamanya terletak di Central Isle.<br><br>Sejak pemukiman dimulai di kepulauan ini 700 tahun yang lalu, terdapat mitos dan legenda tentang sang penjaga yang tersembunyi jauh di dalam salah satu dari banyak pulau di Kepulauan Brixurei. Konon, sang penjaga menjaga perdamaian di seluruh kepulauan; cuaca buruk, gagal panen, atau penyakit dianggap sebagai akibat dari kemarahan sang penjaga. Pulau-pulau yang terdampak harus mempersembahkan sesaji kepada sang penjaga untuk mendapatkan kembali restunya.<br><br>Saat ini, Kepulauan Brixurei adalah tempat wisata populer, terutama saat musim panas di mana liburan tropis sangat dibutuhkan. Meskipun pariwisata resmi baru muncul sekitar 25-30 tahun yang lalu ketika pemerintahan demokratis di seluruh kepulauan dibentuk, perekonomian kepulauan ini sangat bergantung pada sektor pariwisata, lewat penjualan barang dagangan. Wisatawan jarang diizinkan masuk ke pulau mana pun selain di Central Isle, karena kondisi ekstrem pada pulau-pulau tersebut.<br><br>Dengan keuntungan yang didapat dalam beberapa tahun terakhir ini, banyak penduduk mulai membangun dan tinggal di kota-kota yang tersebar. Sifat destruktif dari pembangunan perkotaan menyebabkan pemerintah mengeluarkan undang-undang yang melarang ekspansi segala jenis konstruksi. Hanya ada dua kota besar di seluruh kepulauan ini, keduanya terletak di bagian timur Central Isle. Perpindahan ke kota-kota terpencil menyebabkan banyak desa, kuil, dan kepercayaan pada Penjaga Brixurei dikhawatirkan menyusut dengan cepat."
 
 strid "smbcd_info_story_smbcd"
-string "The Story of Super Mario Bros. CD... So Far"
+string "Cerita Super Mario Bros. CD... Sejauh Ini"
 
 strid "smbcd_info_story_smbcd_desc"
-string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
+string "Suatu pagi, Mushroom Kingdom menerima surat darurat dari pemerintah Kepulauan Brixurei mengenai pendudukan paksa dan penghancuran negeri oleh Bowser. Dalam sejam, Mario dan Luigi menerima surat tersebut. Mereka berangkat menuju kepulauan itu, bergegas ke sana dengan perahu motor kecil dan berlayar sepanjang malam..."
 
 strid "smbcd_info_faq"
-string "Frequently Asked Questions"
+string "Pertanyaan Umum"
 
 strid "smbcd_info_faq_install"
-string "How do I install SMBCD?"
+string "Bagaimana cara menginstal SMBCD?"
 
 strid "smbcd_info_faq_install_desc"
-string "You can install SMBCD by following one of the <a href="https://famicomcd.org/smbcd/installation">Installation Tutorials</a>. If you have any trouble with installation, feel free to contact us via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Anda dapat menginstal SMBCD dengan mengikuti <a href="https://famicomcd.org/smbcd/installation">tutorial di sini</a>. Jika anda mengalami masalah dalam instalasi, jangan ragu untuk menghubungi kami lewat <a href="https://discord.gg/pSGt5aTuw">Discord</a> atau <a href="mailto:support@famicomcd.org">email</a>!"
 
 strid "smbcd_info_faq_multiplayer"
-string "Will there be multiplayer?"
+string "Apakah bakal ada multiplayer?"
 
 strid "smbcd_info_faq_multiplayer_desc"
-string "SMBCD will not have multiplayer in any capacity due to the way we intend players to experience the game. However, we are looking into different playable characters."
+string "SMBCD tidak akan ada multiplayer dalam bentuk apapun, karena cara kami ingin para pemain memainkan game ini. Namun, kami sedang mempertimbangkan karakter lainnya yang dapat dimainkan."
 
 strid "smbcd_info_faq_its_not"
-string "Is SMBCD inspired by Sonic CD?"
+string "Apakah SMBCD terinspirasi dari Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
-string "Contrary to popular belief, SMBCD is not inspired by Sonic CD. SMBCD takes more inspiration from surrealist fantasy, Nintendo's Research and Development 1 (R&D1), music of the 80s (artists such as Masayoshi Takanaka and T Square), among other influences.<br><br>This also indirectly means that SMBCD and Sonic CD will not share many features, at least not intentionally (e.g. no time travel)."
+string "Sebaliknya, SMBCD tidak terinspirasi dari Sonic CD. SMBCD mengambil lebih banyak inspirasi dari fantasi surealis, Research and Development 1 (R&D1) Nintendo, musik tahun 80an (artis seperti Masayoshi Takanaka dan T Square), di antara pengaruh lainnya.<br><br>Secara tidak langsung, SMBCD dan Sonic CD tidak akan memiliki fitur yang sama atau secara tidak sengaja (misalnya, tidak ada 'time travel')."
 
 strid "smbcd_info_faq_copyright"
-string "Will Nintendo take down SMBCD?"
+string "Apakah Nintendo bakal blokir SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
-string "In short: Probably not. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
+string "Secara singkat: Kemungkinan tidak. Amda dapat mengunjungi laman <a href="https://famicomcd.org/about#copyright">copyright</a> untuk informasi lebih lanjut."
 
 
 
 strid "smbcd_soundtracks_25_download"
-string "SMBCD February '25 Demo Soundtrack Album."
+string "Album SMBCD February '25 Demo Soundtrack."
 
 strid "smbcd_soundtracks_25_downloads_desc"
-string "We offer MP3 and WAV downloads, as well as a YouTube and Wii Room upload for the Super Mario Bros. CD February '25 Demo Soundtrack Album."
+string "Kami menyediakan MP3 dan WAV, serta diupload ke Youtube dan Wii Room untuk album Super Mario Bros. CD February '25 Demo Soundtrack."
 
 strid "smbcd_soundtracks_direct_download"
-string "Direct Downloads"
+string "Download"
 
 strid "smbcd_soundtracks_online_download"
-string "Online Uploads"
+string "Online"
 
 strid "smbcd_soundtracks_download_lossy"
 string "MP3 (Lossy) (71MB)"
@@ -551,10 +548,14 @@ string "Wii Room"
 
 
 
+
+
+
+
 && SMBCD Download &&
 
 strid "smbcd_download_description_main"
-string "Laman untuk mendownload semua versi Super Mario Bros. CD! Anda dapat mempelajari cara menginstal SMBCD di <a href="https://famicomcd.org/smbcd/installation">Cara Instalasi</a>! Note : SMBCD Auto-patcher memerlukan koneksi internet dan perangkat berbasis Windows, (dan juga ROM milik anda).
+string "Laman untuk mendownload semua versi Super Mario Bros. CD! Anda dapat mempelajari cara menginstal SMBCD di <a href="https://famicomcd.org/smbcd/installation">sini</a>! Note : SMBCD Auto-patcher memerlukan koneksi internet dan perangkat berbasis Windows, (dan juga ROM milik anda).
 
 strid "smbcd_download_tag_mirror"
 string "Alternatif"
@@ -588,7 +589,7 @@ string "Feb. 2025"
 & SMBCD Team Members &
 
 strid "smbcd_smbcdteam_meet"
-string "Kenalilah Tim Super Mario Bros. CD"
+string "Kenali Tim Super Mario Bros. CD"
 
 strid "smbcd_smbcdteam_representing"
 string "Mewakili:"
@@ -915,4 +916,5 @@ string "• A 16-Bit CPU<br><br>• 4 layer untuk latar dan paralaks background 
 
 strid "deprecated_about_riskdesc"
 string "Dengan menggunakan IP tanpa izin, akan adanya risiko untuk hal lain terjadi, namun pertimbangan dengan proyek kami Super Mario Bros. CD yang merupakan ROM hack Super Mario World, sebuah tradisi dalam rom hacking yang terus ada selama beberapa dekade dengan tidak adanya gangguan dari Nintendo, kami jamin aman seperti hack SMW lainnya selama bertahun-tahun.<br><br>Kami tidak bermaksud untuk melanggar hak cipta atau memudahkan pembajakan dengan proyek SMBCD, ataupun mencari untung dari proyek kami lewat cara apapun.<br><br><br>Pada akhirnya, tidak ada jawaban yang pasti karena Nintendo secara legal bisa melakukan apapun terhadap sebuah proyek seperti ini, namun kami tidak memiliki alasan bahwa mereka akan melakukannya karena alasan di atas."
+
 

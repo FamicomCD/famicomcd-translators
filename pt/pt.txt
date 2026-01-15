@@ -417,7 +417,7 @@ strid "smbcd_button_enemies"
 string "Inimigos"
 
 strid "smbcd_button_story_info"
-string "História and Informações"
+string "História e Informações"
 
 strid "smbcd_button_play_bgm"
 string "Tocar BGM"
@@ -474,7 +474,7 @@ strid "smbcd_info_about_smbcd"
 string "Sobre Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
-string "Super Mario Bros. CD (SMBCD) é uma ROM hack de Super Mario World, imaginando o que um jogo de SMB seria em um console baseado em CD. SMBCD é para o FamicomCD, uma extensão ficcional para o Famicom/NES.<br><br>SMBCD utiliza o chip de <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> para entregar música original e rica com qualidade de CD, cutscenes totalmente animadas, e ambientes mais complexos, mesmo em  hardware original via SD2SNES/FXPak Pro. SMBCD também utiliza amplamente o <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (um modo de fundos SNES, semelhante ao <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) pelos seus níveis, providenciando camadas adicionais para elementos a frente do cenário e fundos com paralaxe."
+string "Super Mario Bros. CD (SMBCD) é uma ROM hack de Super Mario World, imaginando o que um jogo de SMB seria em um console baseado em CD. SMBCD é para o FamicomCD, uma extensão ficcional para o Famicom/NES.<br><br>SMBCD utiliza o chip de <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> para entregar música original e rica com qualidade de CD, cutscenes totalmente animadas, e ambientes mais complexos, mesmo em  hardware original via SD2SNES/FXPak Pro. SMBCD também utiliza amplamente o <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (um modo de fundos do SNES, semelhante ao <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) pelos seus níveis, providenciando camadas adicionais para elementos a frente do cenário e fundos com paralaxe."
 
 strid "smbcd_info_alt_reality"
 string "Vamos Estabelecer a Cena!"
@@ -889,5 +889,5 @@ strid "smbcd_desc_powerup_flower"
 string "Atire bolas de fogo da ponta de seus dedos!"
 
 strid "smbcd_desc_powerup_star"
-string "Invencibilidade contra a maioria dos perigos, exceto buracos!"
+string "Invencibilidade contra a maioria dos perigos (exceto buracos)!"
 

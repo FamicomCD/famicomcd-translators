@@ -27,7 +27,7 @@ strid "legal_mumbo_jumbo"
 string "Tim FamicomCD tidak bersangkutan dalam hal apapun dengan Nintendo dan semua merek berasal dari setiap pemiliknya. Tidak ada pelanggaran hak cipta yang disengaja. <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Pelajari lebih lanjut ➜</a>"
 
 strid "copyright"
-string "© 2022-2025 Tim FamicomCD, King Mayro"
+string "© 2022-2026 Tim FamicomCD, King Mayro"
 
 strid "back_button"
 string "Balik"
@@ -566,10 +566,10 @@ strid "smbcd_download_event_heading"
 string "Versi Spesial/Event"
 
 strid "smbcd_content_download_feb2025demo"
-string "SMBCD Demo Februari v1.2"
+string "SMBCD Demo Februari 2025 v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "SMBCD Demo Februari v1.2 Auto-patcher"
+string "SMBCD Demo Februari 2025 v1.2 Auto-patcher"
 
 strid "smbcd_content_download_speedrundemo_2.2"
 string "SMBCD Demo Speedrun v2.2"

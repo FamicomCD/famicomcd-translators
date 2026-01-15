@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "A equipe FamicomCD não é afiliado de qualquer forma à Nintendo e todas as marcas registradas são propriedade de seus respectivos donos. Nenhum violação de direitos autorais pretendida.<a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Leia mais ➜</a>"
 
 strid "copyright"
-string "© 2022-2025  Equipe FamicomCD, King Mayro"
+string "© 2022-2026  Equipe FamicomCD, King Mayro"
 
 strid "back_button"
 string "Voltar"
@@ -564,10 +564,10 @@ strid "smbcd_download_event_heading"
 string "Versões Speciais/de Eventos"
 
 strid "smbcd_content_download_feb2025demo"
-string "Demo SMBCD de Fevereiro v1.2"
+string "Demo SMBCD de Fevereiro de 2025 v1.2"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "Auto-patcher da Demo SMBCD de Fevereiro v1.2 "
+string "Auto-patcher da Demo SMBCD de Fevereiro de 2025 v1.2 "
 
 strid "smbcd_content_download_speedrundemo_2.2"
 string "Demo da Competição de Speedrun SMBCD v2.2"

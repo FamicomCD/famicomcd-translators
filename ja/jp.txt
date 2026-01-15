@@ -26,7 +26,7 @@ strid "legal_mumbo_jumbo"
 string "FamicomCD開発連盟一同は任天堂株式会社に一切関係はなく、著作権がすべて著作権所持者のものです。 <a href="https://famicomcd.org/about#copyright" class="learnmorefooter">Learn More ➜</a>"
 
 strid "copyright"
-string "© 2022-2025  FamicomCD開発連盟, King Mayro"
+string "© 2022-2026  FamicomCD開発連盟, King Mayro"
 
 strid "back_button"
 string "Back"
@@ -564,10 +564,10 @@ strid "smbcd_download_event_heading"
 string "特別体験版"
 
 strid "smbcd_content_download_feb2025demo"
-string "マリオCD２月体験版"
+string "マリオCD２月2025体験版"
 
 strid "smbcd_content_download_autopatcher_feb2025demo"
-string "マリオCD２月体験版自動パッチャー"
+string "マリオCD２月2025体験版自動パッチャー"
 
 strid "smbcd_content_download_speedrundemo_2.2"
 string "マリオCD大会体験版"

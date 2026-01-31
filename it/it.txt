@@ -414,10 +414,10 @@ string "Voilà! Niente più schermata </q>MSU1 Missing</q>, e più musica!"
 & SMBCD Page &
 
 strid "smbcd_button_enemies"
-string "Enemies"
+string "Nemici"
 
 strid "smbcd_button_story_info"
-string "Story and Info"
+string "Trama e Info"
 
 strid "smbcd_button_play_bgm"
 string "Play BGM"
@@ -431,47 +431,47 @@ strid "smbcd_button_learn_more"
 string "Learn More ➜"
 
 strid "smbcd_heading_screenshots"
-string "SCREENSHOTS"
+string "SCREENSHOT"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
 string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">support sheet</a>."
 
 strid "smbcd_name_powerup_mushroom"
-string "Super Mushroom"
+string "Super Fungo"
 
 strid "smbcd_name_powerup_flower"
-string "Fire Flower"
+string "Fiore di Fuoco"
 
 strid "smbcd_name_powerup_star"
-string "Starman"
+string "Super Stella"
 
 strid "smbcd_desc_powerup_mushroom"
-string "Bash bricks with your head!"
+string "Rompi i blocchi con la tua testa!"
 
 strid "smbcd_desc_powerup_flower"
-string "Shoot fireballs from your fingertips!"
+string "Spara palle di fuoco dalle tue dita!"
 
 strid "smbcd_desc_powerup_star"
-string "Invincibility against most threats (aside from pits)!"
+string "Invulnerabilità contro quasi tutti gli ostacoli (tranne i burroni)!"
 
 strid "smbcd_end_convincing"
-string "Not convinced? You can also:"
+string "Non sei convinto? Puoi anche:"
 
 strid "smbcd_end_convincing_learn"
-string "Learn More"
+string "Scoprire di più"
 
 strid "smbcd_end_convincing_or"
-string "Or"
+string "Oppure"
 
 strid "smbcd_end_convincing_download"
-string "Try out SMBCD"
+string "Prova SMBCD"
 
 strid "smbcd_smbcd"
 string "Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd"
-string "About Super Mario Bros. CD"
+string "Info su Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
 string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console. SMBCD is for the FamicomCD, a fictional add-on for the Famicom/NES.<br><br>SMBCD utilizes the <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro. SMBCD also heavily utilizes <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (a SNES background mode, akin to <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) for its levels, providing additional layers for foreground elements and background parallax."
@@ -495,31 +495,31 @@ strid "smbcd_info_story_smbcd_desc"
 string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
 
 strid "smbcd_info_faq"
-string "Frequently Asked Questions"
+string "Domande Frequenti"
 
 strid "smbcd_info_faq_install"
-string "How do I install SMBCD?"
+string "Come installare SMBCD?"
 
 strid "smbcd_info_faq_install_desc"
 string "You can install SMBCD by following one of the <a href="https://famicomcd.org/smbcd/installation">Installation Tutorials</a>. If you have any trouble with installation, feel free to contact us via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
 
 strid "smbcd_info_faq_multiplayer"
-string "Will there be multiplayer?"
+string "Ci sarà una modalità multigiocatore?"
 
 strid "smbcd_info_faq_multiplayer_desc"
 string "SMBCD will not have multiplayer in any capacity due to the way we intend players to experience the game. However, we are looking into different playable characters."
 
 strid "smbcd_info_faq_its_not"
-string "Is SMBCD inspired by Sonic CD?"
+string "SMBCD prende spunto da Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
 string "Contrary to popular belief, SMBCD is not inspired by Sonic CD. SMBCD takes more inspiration from surrealist fantasy, Nintendo's Research and Development 1 (R&D1), music of the 80s (artists such as Masayoshi Takanaka and T Square), among other influences.<br><br>This also indirectly means that SMBCD and Sonic CD will not share many features, at least not intentionally (e.g. no time travel)."
 
 strid "smbcd_info_faq_copyright"
-string "Will Nintendo take down SMBCD?"
+string "Nintendo butterà giù SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
-string "In short: Probably not. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
+string "Per farla breve: Probabilmente no. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
 
 
 

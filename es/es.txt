@@ -511,13 +511,13 @@ strid "smbcd_info_faq_multiplayer_desc"
 string "SMBCD no tendra multijugador de ninguna capacidad por la manera en la que intencionamos que juegue el jugador. Sin embargo, estamos buscando maneras de implementar diferentes personajes jugables."
 
 strid "smbcd_info_faq_its_not"
-string "Está SMBCD inspirado por Sonic CD?"
+string "¿Está SMBCD inspirado por Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
 string "Contrario a la creencia popular, SMBCD no está inspirado por Sonic CD. SMBCD toma más inspiración de la fantasia surealista, el grupo de investigación y desarrollo de nintendo #1 (R&D1), música de los 80s (artistas como Masayoshi Takanaka y T Square), entre otras influencias.<br><br>Indirectamente esto significa también que SMBCD y Sonic CD no compartiran caracteristicas, al menos no a proposito (e.j. viajar en el tiempo)."
 
 strid "smbcd_info_faq_copyright"
-string "Puede Nintendo bajar SMBCD?"
+string "¿Puede Nintendo bajar SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
 string "En resumen: No parece. Puedes revisar nuestra pagina de <a href="https://famicomcd.org/about#copyright">copyright</a> para más información."

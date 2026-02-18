@@ -487,40 +487,40 @@ strid "smbcd_info_archipelago"
 string "El Archipiélago de Brixurei"
 
 strid "smbcd_info_archipelago_desc"
-string "The Archipelago of Brixurei is composed of 10 islands that are officially part of the Brixurei nation, most with different climates or features that are suitable to only certain creatures. The main island of the archipelago is the Central Isle.<br><br>Ever since settling began in the archipelago 700 years ago, there have been myths and legends of a guardian hidden deep within one of the many islands of the Archipelago of Brixurei. It is said that the guardian keeps the entire archipelago at peace; poor weather, harvests, or illness is attributed to the guardian being upset. The islands which are affected must make offerings to the guardian to regain her favor.<br><br>Nowadays, the Archipelago of Brixurei is a hot tourist spot, especially during the summer months where a tropical vacation is necessary. Although officially endorsed tourism only came about 25-30 years ago when an archipelago-wide democratic government was instated, the economy of the archipelago now hinges heavily on tourism, largely in part due to merchandise sales and trading. Tourists are rarely allowed onto any island other than the Central Isle as other island’s climates are deemed too harsh for tourism to safely occur.<br><br>With this newfound tourism wealth in recent years, many Brixurians had begun constructing and living in sparse towns. The destructive nature of urban construction caused the government to pass laws banning further expansion of any kind of urban architecture. Only two major towns exist within the whole archipelago, both located in the East Central Isle. The move to sparse towns left many villages, temples, and the belief in the Guardian of Brixurei dwindling at a worrying speed."
+string "El Archipielago de Brixurei está compuesta de 10 islas que son parte de la nación de Brixurei, algunos con diferentes climas o caracteristicas que son aptas para su flora y fauna. La isla principal del archipielago es la isla central.<br><br>Desde que se encontró el archipielago hace 700 años, han existido mitos y leyendas de un guardian que se oculta en las profundidades de una de las islas del Archipielago de Brixurei. Se dice que el guardian mantiene todo el archipielago en paz; el mal clima, cosecha o enfermedades se atribuyen al mal ánimo del guardian. Las islas afectadas deben hacer ofrendas al guardian para recobrar su favor.<br><br>Hoy en dia, el Archipelago de Brixurei es una ubicación turista popular, sobretodo durante la temporada de verano donde muchos buscan una vacación tropical para refrescarse. Aunque el turismo oficialmente aprobado solo surgió hace unos 25-30 años cuando un gobierno democrático se instauro en todo el archipiélago, la economía del archipiélago ahora depende profundamente del turismo, en gran parte por sus ventas en mercancía y trueque. Rara vez se les permite a los turistas visitar las islas fuera de la isla central, ya que los climas de estas se consideran demasiado agressivas para que los turistas puedan visitarlas sin peligro.<br><br>Con esta nueva riqueza turística reciente, muchos Bixurianos han empezado a construír y vivir en pueblos dispersos. La naturaleza destructiva de la construcción urbana provocó la aprobación de leyes por el gobierno que prohibieran la continuación en la expansión de este tipo de arquitectura. Solo existen dos ciudades principales dentro de todo el archipiélago, los dos ubicados en la Isla Central Oriental. La decisión de trasladarse a ciudades dispersas dejo varios pueblos y templos, disminuyendo la creencia en el Guardian de Brixurei a una velocidad alarmante."
 
 strid "smbcd_info_story_smbcd"
-string "The Story of Super Mario Bros. CD... So Far"
+string "La Historia de Super Mario Bros. CD... Hasta ahora"
 
 strid "smbcd_info_story_smbcd_desc"
-string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
+string "Una mañana, el Reino Champiñón recibió una carta frenética de parte del gobierno del Archipielago de Bixurei respecto a la ocupación forzada de Bowser y sus amenazas de devastación. Dentro de la hora, Mario y Luigi reciben la carta por correo, y viajan hacia el archipiélago, apresurándose en un pequeño barco de motor, viajando durante la noche..."
 
 strid "smbcd_info_faq"
-string "Frequently Asked Questions"
+string "Preguntas Frecuentes"
 
 strid "smbcd_info_faq_install"
-string "How do I install SMBCD?"
+string "¿Cómo instalo SMBCD?"
 
 strid "smbcd_info_faq_install_desc"
-string "You can install SMBCD by following one of the <a href="https://famicomcd.org/smbcd/installation">Installation Tutorials</a>. If you have any trouble with installation, feel free to contact us via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Puedes instalar SMBCD siguiendo uno de los <a href="https://famicomcd.org/smbcd/installation">Tutoriales de Instalación</a>. Si tienes problemas con la instalación, no dudes en contactarnos por <a href="https://discord.gg/wpSGt5aTuw">Discord</a> o por <a href="mailto:support@famicomcd.org">correo</a>!"
 
 strid "smbcd_info_faq_multiplayer"
-string "Will there be multiplayer?"
+string "¿Habrá multijugador?"
 
 strid "smbcd_info_faq_multiplayer_desc"
-string "SMBCD will not have multiplayer in any capacity due to the way we intend players to experience the game. However, we are looking into different playable characters."
+string "SMBCD no tendra multijugador de ninguna capacidad por la manera en la que intencionamos que juegue el jugador. Sin embargo, estamos buscando maneras de implementar diferentes personajes jugables."
 
 strid "smbcd_info_faq_its_not"
-string "Is SMBCD inspired by Sonic CD?"
+string "Está SMBCD inspirado por Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
-string "Contrary to popular belief, SMBCD is not inspired by Sonic CD. SMBCD takes more inspiration from surrealist fantasy, Nintendo's Research and Development 1 (R&D1), music of the 80s (artists such as Masayoshi Takanaka and T Square), among other influences.<br><br>This also indirectly means that SMBCD and Sonic CD will not share many features, at least not intentionally (e.g. no time travel)."
+string "Contrario a la creencia popular, SMBCD no está inspirado por Sonic CD. SMBCD toma más inspiración de la fantasia surealista, el grupo de investigación y desarrollo de nintendo #1 (R&D1), música de los 80s (artistas como Masayoshi Takanaka y T Square), entre otras influencias.<br><br>Indirectamente esto significa también que SMBCD y Sonic CD no compartiran caracteristicas, al menos no a proposito (e.j. viajar en el tiempo)."
 
 strid "smbcd_info_faq_copyright"
-string "Will Nintendo take down SMBCD?"
+string "Puede Nintendo bajar SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
-string "In short: Probably not. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
+string "En resumen: No parece. Puedes revisar nuestra pagina de <a href="https://famicomcd.org/about#copyright">copyright</a> para más información."
 
 
 

@@ -528,19 +528,19 @@ strid "smbcd_soundtracks_25_download"
 string "SMBCD February '25 Demo Soundtrack Album."
 
 strid "smbcd_soundtracks_25_downloads_desc"
-string "We offer MP3 and WAV downloads, as well as a YouTube and Wii Room upload for the Super Mario Bros. CD February '25 Demo Soundtrack Album."
+string "Puedes descargar el MP3 o WAV, o escucharlo en YouTube y Wii Room buscando Super Mario Bros. CD February '25 Demo Soundtrack Album."
 
 strid "smbcd_soundtracks_direct_download"
-string "Direct Downloads"
+string "Descarga Directa"
 
 strid "smbcd_soundtracks_online_download"
-string "Online Uploads"
+string "Carga en Línea"
 
 strid "smbcd_soundtracks_download_lossy"
-string "MP3 (Lossy) (71MB)"
+string "MP3 (Audio con Pérdida) (71MB)"
 
 strid "smbcd_soundtracks_download_loseless"
-string "WAV (Lossless) (299MB)"
+string "WAV (Audio sin Pérdida) (299MB)"
 
 strid "smbcd_soundtracks_online_platform_youtube"
 string "YouTube"

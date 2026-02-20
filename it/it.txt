@@ -428,14 +428,14 @@ strid "smbcd_button_stop_bgm"
 string "Stop BGM"
 
 strid "smbcd_button_learn_more"
-string "Learn More ➜"
+string "Scopri di più ➜"
 
 strid "smbcd_heading_screenshots"
-string "SCREENSHOT"
+string "IMMAGINI"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatible with supported emulators and Super NES hardware with use of the <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> FXPak Pro flashcart! For the most up-to-date list of supported emulators, refer to the <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">support sheet</a>."
+string "Compatibile con emulatori supportati e hardware Super NES con l'uso del <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> flashcart FXPak Pro! Per la lista più recente degli emulatori supportati, consulatre la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">tabella di supporto</a>."
 
 strid "smbcd_name_powerup_mushroom"
 string "Super Fungo"
@@ -483,13 +483,13 @@ strid "smbcd_info_alt_reality_desc"
 string "The year is 1987. The NES/Famicom is seeing immense popularity hot off the success of the console and many of its titles during this period. Nintendo had released Super Mario Bros. 2 (known as <q>The Lost Levels</q> in the west) and published many popular action games the previous year.<br><br>Concurrently, the Super Famicom was in development and announced that year by the President of Nintendo. However, Nintendo wished to still support the original, now aging Famicom. This would become the FamicomCD, a CD-ROM based add-on that would be able to utilize CDs to load video games, presented as a cheaper entry point for existing Famicom users into the <q>next generation</q>. This would be a very ambitious endeavor, so to sell the system, it was requested that a technologically improved Super Mario Bros. must be able to be played on this device.<br><br>However, as Hiroshi Yamauchi said in September 1987, <q>Super Mario Bros. 4</q> and many other titles were already in the planning stages for the next version of the Famicom, which left <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1">Nintendo Research & Development Group #1</a> to be the ones to develop the Super Mario Bros. game for FamicomCD rather than the <a href="https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_4">Research Group #4</a> (who had worked on a lot of the previous entries and eventually "Super Mario World"), with assistance from Team Shikamaru for much of the planning and some parts of development. The game would look familiar to Super Mario Bros. players, but feature vibrant, colorful, and stunning visuals that weren't possible on the original Famicom, and sounds that were unlike anything from before.<br><br>It was initially planned to make the music of the game match the sound aesthetic of the Famicom games but with higher fidelity instruments, however the new CD spec meant that music was no longer limited by the sound polyphony and synthesis abilities of the <a href="https://en.wikipedia.org/wiki/Ricoh_2A03">Famicom's 2A03 chip</a>. There were virtually no limitations in place, sounds could be as rich and full as they could ever sound. This led the production of the music for Super Mario Bros. CD to spin off into being a much more ambitious project, with more musicians and instrumentalists involved to truly make the music take advantage of the new technology."
 
 strid "smbcd_info_archipelago"
-string "The Archipelago of Brixurei"
+string "L'Arcipelago di Brixurei"
 
 strid "smbcd_info_archipelago_desc"
 string "The Archipelago of Brixurei is composed of 10 islands that are officially part of the Brixurei nation, most with different climates or features that are suitable to only certain creatures. The main island of the archipelago is the Central Isle.<br><br>Ever since settling began in the archipelago 700 years ago, there have been myths and legends of a guardian hidden deep within one of the many islands of the Archipelago of Brixurei. It is said that the guardian keeps the entire archipelago at peace; poor weather, harvests, or illness is attributed to the guardian being upset. The islands which are affected must make offerings to the guardian to regain her favor.<br><br>Nowadays, the Archipelago of Brixurei is a hot tourist spot, especially during the summer months where a tropical vacation is necessary. Although officially endorsed tourism only came about 25-30 years ago when an archipelago-wide democratic government was instated, the economy of the archipelago now hinges heavily on tourism, largely in part due to merchandise sales and trading. Tourists are rarely allowed onto any island other than the Central Isle as other island’s climates are deemed too harsh for tourism to safely occur.<br><br>With this newfound tourism wealth in recent years, many Brixurians had begun constructing and living in sparse towns. The destructive nature of urban construction caused the government to pass laws banning further expansion of any kind of urban architecture. Only two major towns exist within the whole archipelago, both located in the East Central Isle. The move to sparse towns left many villages, temples, and the belief in the Guardian of Brixurei dwindling at a worrying speed."
 
 strid "smbcd_info_story_smbcd"
-string "The Story of Super Mario Bros. CD... So Far"
+string "La storia di Super Mario Bros. CD... Fino ad ora"
 
 strid "smbcd_info_story_smbcd_desc"
 string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
@@ -519,21 +519,21 @@ strid "smbcd_info_faq_copyright"
 string "Nintendo butterà giù SMBCD?"
 
 strid "smbcd_info_faq_copyright_desc"
-string "Per farla breve: Probabilmente no. You can visit our <a href="https://famicomcd.org/about#copyright">copyright</a> page for more information."
+string "Per farla breve: Probabilmente no. Puoi vistare la nostra pagina <a href="https://famicomcd.org/about#copyright">copyright</a> per ulteriori informazioni."
 
 
 
 strid "smbcd_soundtracks_25_download"
-string "SMBCD February '25 Demo Soundtrack Album."
+string "Colonna Sonora SMBCD Demo Febbraio '25."
 
 strid "smbcd_soundtracks_25_downloads_desc"
-string "We offer MP3 and WAV downloads, as well as a YouTube and Wii Room upload for the Super Mario Bros. CD February '25 Demo Soundtrack Album."
+string "Offriamo download di file MP3 e WAV, assieme ad upload YouTube e Wii Room per la Colonna Sonora Super Mario Bros. CD Demo Febbraio '25."
 
 strid "smbcd_soundtracks_direct_download"
-string "Direct Downloads"
+string "Download Diretti"
 
 strid "smbcd_soundtracks_online_download"
-string "Online Uploads"
+string "Upload Online"
 
 strid "smbcd_soundtracks_download_lossy"
 string "MP3 (Lossy) (71MB)"

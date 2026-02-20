@@ -435,7 +435,7 @@ string "IMMAGINI"
 && In latin based languages or other languages with capital letters, please format in all caps &&
 
 strid "smbcd_support_tagline"
-string "Compatibile con emulatori supportati e hardware Super NES con l'uso del <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> flashcart FXPak Pro! Per la lista più recente degli emulatori supportati, consulatre la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">tabella di supporto</a>."
+string "Compatibile con emulatori supportati e hardware Super NES con l'uso del <img class="consoleicon" src="graphics/icons/consoles/fxpak.png"> flashcart FXPak Pro! Per la lista più recente degli emulatori supportati, consultare la <a class="supportlink" href="https://famicomcd.org/smbcd/supportsheet">tabella di supporto</a>."
 
 strid "smbcd_name_powerup_mushroom"
 string "Super Fungo"

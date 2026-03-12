@@ -240,10 +240,10 @@ strid "install_method_smbcmd"
 string "SMBC(M)D - Usando l'Auto-Patcher Super Mario Bros. CD"
 
 strid "install_method_flips"
-string "Patchare con Floating IPS"
+string "Patch con Floating IPS"
 
 strid "install_method_marc"
-string "Patchare con l'Online Patcher di Marc Robledo"
+string "Patch con l'Online Patcher di Marc Robledo"
 
 strid "tutorial_ios_retroarch"
 string "Usare SMBCD su Retroarch per iOS"
@@ -404,7 +404,7 @@ strid "tutorial_ios_retroarch_step1_directory"
 string "Sfoglia > iPhone > Retroarch > Retroarch > Downloads"
 
 strid "tutorial_ios_retroarch_step2"
-string "In seguito, apri Retroarch, e naviga verso la carella downloads dal menù <q>Load Content</q> (Assicurati di caricare attraverso <q>Downloads</q> e non <q>Open...</q>). Poi, seleziona il core di BSNES o di SNES9x (se vuoi usare SNES9x, assicurati che non siano i core 2005 o 2010)."
+string "In seguito, apri Retroarch, e naviga verso la cartella downloads dal menù <q>Load Content</q> (Assicurati di caricare attraverso <q>Downloads</q> e non <q>Open...</q>). Poi, seleziona il core di BSNES o di SNES9x (se vuoi usare SNES9x, assicurati che non siano i core 2005 o 2010)."
 
 strid "tutorial_ios_retroarch_note3"
 string "Voilà! Niente più schermata </q>MSU1 Missing</q>, e più musica!"

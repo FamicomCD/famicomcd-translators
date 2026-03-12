@@ -474,7 +474,7 @@ strid "smbcd_info_about_smbcd"
 string "Info su Super Mario Bros. CD"
 
 strid "smbcd_info_about_smbcd_desc"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console. SMBCD is for the FamicomCD, a fictional add-on for the Famicom/NES.<br><br>SMBCD utilizes the <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> chip to deliver original and rich CD-quality music, fully animated cutscenes, and more complex environments, even on original hardware via the SD2SNES/FXPak Pro. SMBCD also heavily utilizes <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (a SNES background mode, akin to <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) for its levels, providing additional layers for foreground elements and background parallax."
+string "Super Mario Bros. CD (SMBCD) è un hack ROM di Super Mario World, il cui scopo è immaginare come sarebbe un gioco di SMB su una console a CD. SMBCD è un gioco del FamicomCD, una periferica immaginaria del Famicom/NES.<br><br>SMBCD utilizza il chip <a href="https://www.zeldix.net/t1607-msu1-getting-started-guide">MSU1</a> per fornire una colonna sonora originale e di alta qualità, filmati completamente animati e ambientazioni più dettagliati anche su hardware originale con l'SD2SNES/FXPak Pro. SMBCD, inoltre, utilizza la <a href="https://sneslab.net/wiki/Mode_0">Mode 0</a> (una modalità di sfondo dello SNES, simile alla <a href="https://sneslab.net/wiki/Mode_7">Mode 7</a>) per i livelli di gioco, fornendo ulteriori livelli per elementi in primo piano e parallasse dello sfondo."
 
 strid "smbcd_info_alt_reality"
 string "Let’s Set the Scene!"

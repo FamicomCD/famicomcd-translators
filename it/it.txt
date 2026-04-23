@@ -486,13 +486,13 @@ strid "smbcd_info_archipelago"
 string "L'Arcipelago di Brixurei"
 
 strid "smbcd_info_archipelago_desc"
-string "The Archipelago of Brixurei is composed of 10 islands that are officially part of the Brixurei nation, most with different climates or features that are suitable to only certain creatures. The main island of the archipelago is the Central Isle.<br><br>Ever since settling began in the archipelago 700 years ago, there have been myths and legends of a guardian hidden deep within one of the many islands of the Archipelago of Brixurei. It is said that the guardian keeps the entire archipelago at peace; poor weather, harvests, or illness is attributed to the guardian being upset. The islands which are affected must make offerings to the guardian to regain her favor.<br><br>Nowadays, the Archipelago of Brixurei is a hot tourist spot, especially during the summer months where a tropical vacation is necessary. Although officially endorsed tourism only came about 25-30 years ago when an archipelago-wide democratic government was instated, the economy of the archipelago now hinges heavily on tourism, largely in part due to merchandise sales and trading. Tourists are rarely allowed onto any island other than the Central Isle as other island’s climates are deemed too harsh for tourism to safely occur.<br><br>With this newfound tourism wealth in recent years, many Brixurians had begun constructing and living in sparse towns. The destructive nature of urban construction caused the government to pass laws banning further expansion of any kind of urban architecture. Only two major towns exist within the whole archipelago, both located in the East Central Isle. The move to sparse towns left many villages, temples, and the belief in the Guardian of Brixurei dwindling at a worrying speed."
+string "L'Arcipelago di Brixurei è formato da 10 isole, ciascuna facente parte della nazione di Brixurei, la maggior parte dei quali con clima e caratteristiche differenti adatte solo a determinate creature. L'isola principale dell'arcipelago è l'Isola Centrale.<br><br>Dall'inizio degli insediamenti nell'arcipelago 700 anni fa, vennero tramandati miti e leggende su una guardiana nascosta nelle profondità di una delle tante isole. Si dice che la guardiana mantiene la pace in tutto l'arcipelago; intemperie, cattivi raccolti o malattie sono attribuiti allo sconforto della guardiana. Le isole affette devono offrire doni per riconquistare il suo favore.<br><br>Oggigiorno, l'Arcipelago di Brixurei è una meta turistica molto popolare, specialmente durante il periodo estivo, perfetto per una vacanza ai tropici. Nonostante il turismo ufficialmente promosso arrivò 25-30 anni fa con l'istituzione di un governo democratico che ricopre tutto l'arcipelago, la sua economia dipende strettamente dal turismo, in gran parte per la vendita e lo scambio di merci. Ai turisti raramente è consentito accedere a un isola diversa dall'Isola Centrale a causa dei climi definiti troppo ostili per garantire un turismo sicuro.<br><br>Con la nuova ricchezza ottenuta dal turismo negli ultimi anni, molti Brixuriani cominciarono a costruire e vivere in città sparse. La natura distruttiva dell'urbanizzazione però ha spinto il governo a emanare leggi che vietano ulteriori espansioni di qualsiasi tipo di architettura urbana. Solo due città principali esistono nell'intero arcipelago, entrambi situati nella parte est dell'Isola Centrale. Il trasloco nelle città sparse ha lasciato che molti villaggi, templi e la credenza nella Guardiana di Brixurei diminuissero a un ritmo preoccupante."
 
 strid "smbcd_info_story_smbcd"
 string "La storia di Super Mario Bros. CD... Fino ad ora"
 
 strid "smbcd_info_story_smbcd_desc"
-string "One morning, the Mushroom Kingdom had received a frantic letter from the Archipelago of Brixurei’s government regarding Bowser’s forceful occupation and threatened ravaging of the nation. Within the hour Mario and Luigi receive the letter through forward mail, and they set off for the archipelago, rushing there in a small motor boat, riding through the night..."
+string "Una mattina, il Regno dei Funghi ricevette una lettera agitata dal governo dell'Arcipelago di Brixurei riguardo l'occupazione forzata di Bowser e delle sue minacce di devastare la nazione. Nel giro di un'ora Mario e Luigi ricevono la lettera inoltrata per posta e partono in fretta per l'arcipelago in una barchetta a motore, navigando per tutta la notte..."
 
 strid "smbcd_info_faq"
 string "Domande Frequenti"
@@ -501,19 +501,19 @@ strid "smbcd_info_faq_install"
 string "Come installare SMBCD?"
 
 strid "smbcd_info_faq_install_desc"
-string "You can install SMBCD by following one of the <a href="https://famicomcd.org/smbcd/installation">Installation Tutorials</a>. If you have any trouble with installation, feel free to contact us via <a href="https://discord.gg/wpSGt5aTuw">Discord</a> or <a href="mailto:support@famicomcd.org">email us</a>!"
+string "Puoi installare SMBCD seguendo uno dei <a href="https://famicomcd.org/smbcd/installation">Tutorial di Installazione</a>. Se riscontri problemi, contattaci su <a href="https://discord.gg/wpSGt5aTuw">Discord</a> o <a href="mailto:support@famicomcd.org">mandaci un'e-mail</a>!"
 
 strid "smbcd_info_faq_multiplayer"
 string "Ci sarà una modalità multigiocatore?"
 
 strid "smbcd_info_faq_multiplayer_desc"
-string "SMBCD will not have multiplayer in any capacity due to the way we intend players to experience the game. However, we are looking into different playable characters."
+string "SMBCD non avrà una modalità multigiocatore poichè vogliamo che i giocatori sperimentino il gioco in un certo modo. Tuttavia, stiamo valutando l'introduzione di diversi personaggi giocabili."
 
 strid "smbcd_info_faq_its_not"
 string "SMBCD prende spunto da Sonic CD?"
 
 strid "smbcd_info_faq_its_not_desc"
-string "Contrary to popular belief, SMBCD is not inspired by Sonic CD. SMBCD takes more inspiration from surrealist fantasy, Nintendo's Research and Development 1 (R&D1), music of the 80s (artists such as Masayoshi Takanaka and T Square), among other influences.<br><br>This also indirectly means that SMBCD and Sonic CD will not share many features, at least not intentionally (e.g. no time travel)."
+string "Al contrario di quanto si crede, SMBCD non è ispirato a Sonic CD. SMBCD prende più spunto dalla fantasia surrealista, Research and Development 1 di Nintendo (R&D1), musica anni '80 (artisti come Masayoshi Takanaka e T Square), e altre influenze.<br><br>Questo comporta indirettamente che SMBCD e Sonic CD non condivideranno molte caratteristiche, almeno non intenzionalmente (es. : niente viaggio nel tempo)."
 
 strid "smbcd_info_faq_copyright"
 string "Nintendo butterà giù SMBCD?"
@@ -710,7 +710,7 @@ strid "deprecated_smbcd_tagline2"
 string "SMBCD utilizza il chip MSU1 per offrire musica originale ad alta qualità CD, filmati completamente animati, e ambientazioni più complesse, anche su hardware originale tramite l'SD2SNES/FXPak Pro! SMBCD utilizza inoltre in gran parte il Mode 0 (una modalità di sfondo SNES, simile al Mode 7) per i suoi livelli, fornendo più livelli per le ambientazioni in primo piano e la parallasse di sfondo. Il Mode 0 consente l'uso di 4 livelli contemporaneamente al posto dei soliti 2-3 livelli trovati in SMW utilizzando il Mode 1, ma farà sì che tutti i livelli siano 2BPP o 4 colori per tile (questo non include i livelli sprite e mantengono l'utilizzo di 16 colori)."
 
 strid "deprecated_smbcd_story1"
-string "SMBCD ha luogo nel piccolo ma variegato Arcipelago di Brixurei. Un giorno, misteriosamente, Il Guardiano di Brixurei — la fonte primaria di protezione e sicurezza per l'arcipelago — impazzì, causando un clima avverso e una sconvolta fauna selvatica dilagante. Gli abitanti rimasero perplessi e preoccupati. Coloro che lasciarono le loro città per scoprire cosa stava succedendo non furono mai più rivisti.<br><br>In mezzo al caos causato dall'improvviso scoppio del Guardiano, gli abitanti chiesero aiuto agli unici e inimitabili Fratelli Mario. Col Regno dei Funghi che li salutava, Mario partì in barca verso l'arcipelago di Brixurei, portando Luigi con sé. In questo viaggio, i fratelli incontreranno anche un nuovo volto amichevole che li accompagnerà."
+string "SMBCD ha luogo nel piccolo ma variegato Arcipelago di Brixurei. Un giorno, misteriosamente, La Guardiana di Brixurei — la fonte primaria di protezione e sicurezza per l'arcipelago — impazzì, causando un clima avverso e una sconvolta fauna selvatica dilagante. Gli abitanti rimasero perplessi e preoccupati. Coloro che lasciarono le loro città per scoprire cosa stava succedendo non furono mai più rivisti.<br><br>In mezzo al caos causato dall'improvviso scoppio della Guardiana, gli abitanti chiesero aiuto agli unici e inimitabili Fratelli Mario. Col Regno dei Funghi che li salutava, Mario partì in barca verso l'arcipelago di Brixurei, portando Luigi con sé. In questo viaggio, i fratelli incontreranno anche un nuovo volto amichevole che li accompagnerà."
 
 strid "deprecated_smbcd_footnote1"
 string "• Più di 40 livelli interconnessi che aiuteranno a formare una storia coesa"
